@@ -1,0 +1,762 @@
+,text,categorys,polarity
+0,"This computer periodically crashes (Office, IPhoto, Safari).","['OPERATION_PERFORMANCE', 'SOFTWARE']",negative
+1,It takes a long time to get on the Web and to change Web Sites.,"['OPERATION_PERFORMANCE', 'CONNECTIVITY']",negative
+2,Locks up she searching for updates.,['OPERATION_PERFORMANCE'],negative
+3,Just to be clear.,[],na
+4,I have been an Apple user since they switched to Intel.,[],na
+5,I have had Macbook PROs and Macbook Airs and have never had a problem.,[],na
+6,It seems that this computer might be a lemon.,['QUALITY'],negative
+7,I purchased it through Amazon.,[],na
+8,I have had one complaint into the supplier but got little support.,[],na
+9,I am taking the computer to Apple to see what they think.,[],na
+10,"I purchased my Macbook Pro Retina from my school since I had a student discount, but I would gladly purchase it from Amazon for full price again if I had too.","['GENERAL', 'PRICE']",mixed
+11,"The Retina is great, its amazingly fast when it boots up because of the SSD storage and the clarity of the screen is amazing as well.","['GENERAL', 'OPERATION_PERFORMANCE', 'HARD_DISC', 'DISPLAY']",positive
+12,But if you buy this i would highly recommend that you buy a case and screen protector for this machine as they are known to be quite fragile.,"['QUALITY', 'DISPLAY']",negative
+13,"Count me as extremely satisfied, it's a perfect computer.",['GENERAL'],positive
+14,"I just bought this computer from the Apple Store, and I couldn't be more impressed with it.",['GENERAL'],positive
+15,"It has a stunning retina display, and is very fast.","['DISPLAY', 'OPERATION_PERFORMANCE']",positive
+16,The solid-state memory makes it a lot faster than previous MacBook Pro models that used a spinning hard drive.,[],na
+17,"This computer is good for anything, and it has really superseded my high expectations.","['MISCELLANEOUS', 'GENERAL']",positive
+18,"Also, the sound quality from the speakers is crystal clear, and everything is just sleek and smooth.","['MULTIMEDIA_DEVICES', 'DESIGN_FEATURES', 'OPERATION_PERFORMANCE']",positive
+19,"The HD display is sensational, and now watching any movie is a very enjoyable experience for me.","['DISPLAY', 'MISCELLANEOUS']",positive
+20,"No hardware issues, as is common with any Apple product.","['HARDWARE', 'COMPANY']",positive
+21,"Great product, and couldn't be happier with it.",['GENERAL'],positive
+22,"awesome laptop, i love it",['GENERAL'],positive
+23,I love my new ThinkPad!,['GENERAL'],positive
+24,"It gives me everything I need from a computer and with the long lasting battery, it also gives me mobility.","['GENERAL', 'BATTERY', 'PORTABILITY']",positive
+25,I can use it anywhere.,['PORTABILITY'],positive
+26,It was a great purchase.,['GENERAL'],positive
+27,All the sturdy and substantial feel you expect from a Thinkpad.,['QUALITY'],positive
+28,Average performance on almost every benchmark but priced accordingly.,"['OPERATION_PERFORMANCE', 'PRICE']",mixed
+29,Below average on the w-fi adapter which I'm still trying to get to the bottom of.,['CONNECTIVITY'],negative
+30,If the wi-fi adapter will not support duplex operation (still trying to get to the bottom of that) that's a noticeable drawback I'll be grousing about for the entire time I use it.,[],na
+31,Great laptop.,['GENERAL'],positive
+32,Fast.,['OPERATION_PERFORMANCE'],positive
+33,Works very well.,['OPERATION_PERFORMANCE'],positive
+34,Would purchase again.,['GENERAL'],positive
+35,A good value for the money.,"['GENERAL', 'PRICE']",mixed
+36,Quite pleased with it.,['GENERAL'],positive
+37,Fast enough for my purposes.,['OPERATION_PERFORMANCE'],positive
+38,No bloatware from third party parasites to uninstall.,"['SOFTWARE', 'DESIGN_FEATURES']",positive
+39,Excellent keyboard and crisp screen.,"['KEYBOARD', 'DISPLAY']",positive
+40,Battery could be better but it has robust processor and plenty of RAM so that is a trade off I suppose.,"['BATTERY', 'CPU', 'MEMORY']",mixed
+41,I'm glad to have it and it showed up in only a few days.,['GENERAL'],positive
+42,"The laptop itself is very good, it could be better, but not bad at all for it's price point.","['GENERAL', 'PRICE']",neutral
+43,It does everything I need.,['GENERAL'],positive
+44,The big deal with this was Windows 7.,['OS'],positive
+45,"I had searched everywhere for a Windows 7 laptop, and all I could find was that awful Windows 8.",[],na
+46,When I saw this I grabbed it.,['GENERAL'],positive
+47,It has met all my needs.,['GENERAL'],positive
+48,Just what I expected.,['GENERAL'],positive
+49,I don't have any complains about this computer,['GENERAL'],positive
+50,Outstanding laptop and very well built.,"['GENERAL', 'QUALITY']",positive
+51,This unit will replace my old desktop.,[],na
+52,The retina display is fantastic.,['DISPLAY'],positive
+53,One of the best thing i have bought in years.,['GENERAL'],positive
+54,"Great PC, light and powerful.","['GENERAL', 'DESIGN_FEATURES', 'OPERATION_PERFORMANCE']",positive
+55,Is just amazing.=),['GENERAL'],positive
+56,The glare of the glossy-retina display is unbearable.,['DISPLAY'],negative
+57,Do not buy a mac until this issue is resolved.,"['GENERAL', 'COMPANY']",negative
+58,"Performs as advertised, if not better!",['OPERATION_PERFORMANCE'],positive
+59,Super light weight (I never cared either way about weight until now).,['DESIGN_FEATURES'],positive
+60,Feels like solid state.,['QUALITY'],positive
+61,WONDERFUL machine;,['GENERAL'],positive
+62,glad I bought it.,['GENERAL'],positive
+63,"Tiny, forgivable drawback - no ethernet cable outlet.","['DESIGN_FEATURES', 'CONNECTIVITY']",neutral
+64,But that's not a deal-breaker.,['DESIGN_FEATURES'],neutral
+65,SUPER LAPTOP!!,['GENERAL'],positive
+66,Will probably get another one for my wife!,['GENERAL'],positive
+67,"a bit ugly,but works good","['DESIGN_FEATURES', 'OPERATION_PERFORMANCE']",mixed
+68,I like the design rather sleek and light.,['DESIGN_FEATURES'],positive
+69,"I will give advise any prospective buyers this is not great laptop, Its good for web browsing and word processing","['GENERAL', 'MISCELLANEOUS']",mixed
+70,Fantastic for the price - just wish it the keys were illuminated.,"['GENERAL', 'PRICE', 'KEYBOARD']",mixed
+71,If your on a budget.... Save up longer.,['GENERAL'],negative
+72,This laptop isn't worth a single cent.,['GENERAL'],negative
+73,I couldn't even install linux on it.,['USABILITY'],negative
+74,Windows runs very poorly.,['OS'],negative
+75,Just save your money and get something better.,['GENERAL'],negative
+76,awesome price for a laptop that lasts more than 8 hours without recharging!,"['PRICE', 'BATTERY']",positive
+77,are u serious?,[],na
+78,awesome!,['GENERAL'],positive
+79,This laptop is a complete cheap junk.,['QUALITY'],negative
+80,By just looking at it you will realize it's crap.,['QUALITY'],negative
+81,It's not what you pay for.,"['GENERAL', 'PRICE']",negative
+82,The case is made from cheap plastic.,['QUALITY'],negative
+83,In the description it said there is Bluetooth but no there isn't.,['DESIGN_FEATURES'],negative
+84,"I'm warning you, You're wasting your money on this",['GENERAL'],negative
+85,Love the computer.,['GENERAL'],positive
+86,Hate Windows 8.1!,['OS'],negative
+87,It dosn't even have a disc compartment,['DESIGN_FEATURES'],negative
+88,Had to return the computer.,['GENERAL'],negative
+89,Keeps freezing,['OPERATION_PERFORMANCE'],negative
+90,No ethernet outlet,"['DESIGN_FEATURES', 'CONNECTIVITY']",negative
+91,Disc drive will not open or function,"['OPTICAL_DRIVES', 'OPTICAL_DRIVES']",negative
+92,Odd - unusual Dell Commands,['MISCELLANEOUS'],negative
+93,Would have exchanged instantly - but had to use as if for College immediately.,['GENERAL'],negative
+94,Unimpressed.,['GENERAL'],negative
+95,Terrific laptop.,['GENERAL'],positive
+96,Works beautifully.,['OPERATION_PERFORMANCE'],positive
+97,great price.,['PRICE'],positive
+98,just what we needed for our daughter to do her on line math class,['MISCELLANEOUS'],positive
+99,This is a great home computer.,['MISCELLANEOUS'],positive
+100,"It is very, very quiet.",['QUALITY'],positive
+101,"The only reason I didn't give it a 5 star is, I feel I have to reach so far to type on the key board.","['GENERAL', 'KEYBOARD']",mixed
+102,You also have to press firmly on the keys.,['KEYBOARD'],negative
+103,Otherwise this is a great computer great prices.,"['GENERAL', 'PRICE']",positive
+104,Was easy to set up and has been easy to learn to use it.,['USABILITY'],positive
+105,Works good and is fast enough for me.,['OPERATION_PERFORMANCE'],positive
+106,Good product for a good price.,"['GENERAL', 'PRICE']",positive
+107,It was too cheaply constructed.,['QUALITY'],negative
+108,"It also gave me an introduction to Windows 8, which I hope will be discontinued it the future.",['OS'],negative
+109,The Computer Is Horrible Its To Slow.,"['GENERAL', 'OPERATION_PERFORMANCE']",negative
+110,The Thing That You Insert CDs Into Won't Open.,['OPTICAL_DRIVES'],negative
+111,I Won't Ever Buy A Computer Off Amazon Again That's For Sure!,[],na
+112,not a good computer at all.,['GENERAL'],negative
+113,We returned two days later.,['GENERAL'],negative
+114,They were excellent to handle our return and post our refund back into our account the next day.,['SUPPORT'],positive
+115,Thank you!,[],na
+116,Great price and computer!,"['PRICE', 'GENERAL']",positive
+117,"I bought this laptop computer for my parents, they only access their facebook and e-mail accounts, see family pictures, etc.",[],na
+118,They loved it.,['GENERAL'],positive
+119,"It's easy to operate and it's very light (my parents are almost 60 yo, they can't carry a heavy computer while traveling).","['USABILITY', 'DESIGN_FEATURES', 'PORTABILITY']",positive
+120,"But here's something I hadn't realized before buying it: there isn't an optical drive, which means NO CDs or DVDs!",['DESIGN_FEATURES'],negative
+121,This product was DOA.,['QUALITY'],negative
+122,Fired up and worked for the first day and then the display died on my wife while she was taking a timed test.,['DISPLAY'],negative
+123,Would not recommend.,['GENERAL'],negative
+124,Pretty good laptop.,['GENERAL'],positive
+125,Good for basic stuff.,['MISCELLANEOUS'],positive
+126,Don't try to use to play any pc games or anything.,['MISCELLANEOUS'],negative
+127,Just for simple web browsing and media streaming.,['MISCELLANEOUS'],neutral
+128,Pretty premium feel for the low price.,"['QUALITY', 'PRICE']",positive
+129,I have so much trouble turning the computer on.,['OPERATION_PERFORMANCE'],negative
+130,It comes on for seconds then shuts itself off.,['OPERATION_PERFORMANCE'],negative
+131,"My mistake was to not research this one, no DVD and no place to insert my ad card to download pictures.",['DESIGN_FEATURES'],negative
+132,I was in a big hurry to buy a computer just to produce a newsletter for my job.,[],na
+133,I should have waited to find a higher quality computer.,['QUALITY'],negative
+134,"i'm very happy,this laptop is beatifull, is'nt slow at all.","['GENERAL', 'DESIGN_FEATURES', 'OPERATION_PERFORMANCE']",positive
+135,"but it doesn't have a cd unit, anyway the other thing is that the laptop does not have an ethernet port for cable connecting.","['DESIGN_FEATURES', 'CONNECTIVITY']",negative
+136,just wifi....,['CONNECTIVITY'],negative
+137,"the screen is big, and everything was as described","['DISPLAY', 'GENERAL']",positive
+138,"For everyday use, you can't really go wrong with this laptop.",['MISCELLANEOUS'],positive
+139,"If, like me, you will be paying bills, occasionally reading the news, or just buying stuff on line, Then this is a winner.",['MISCELLANEOUS'],positive
+140,"If you are a gamer or need it for heavy computer use, get something else.",['MISCELLANEOUS'],negative
+141,It's a good starter computer that is extremely light on the wallet.,"['MISCELLANEOUS', 'PRICE']",positive
+142,"Like i said, Good for basic stuff and as a starter.",['MISCELLANEOUS'],positive
+143,Still getting use to Window 8.,['OS'],neutral
+144,Has a built in camera which i do not use.,['DESIGN_FEATURES'],neutral
+145,Sturdy but only for typical wear and tear.,['QUALITY'],neutral
+146,Can not believe the price!,['PRICE'],positive
+147,"Amazing computer,  perfect for school.","['GENERAL', 'MISCELLANEOUS']",positive
+148,I've had my Lenovo for a little over a month now and it does everything i want it to do and more.,['GENERAL'],positive
+149,i really have nothing negative to say about it.,['GENERAL'],positive
+150,The keyboard is a little wonky with having to use the Function button to get the F-keys but with how infrequently i use those it is a non-issue.,"['KEYBOARD', 'KEYBOARD']",mixed
+151,it is a great value for what you get.,"['GENERAL', 'PRICE']",positive
+152,i can run somewhat modern games like Skyrim and Fallout New Vegas with no issues.,['MISCELLANEOUS'],positive
+153,I get giddy every time I use this thing.,['GENERAL'],positive
+154,It is a thing of beauty and fast enough.,"['DESIGN_FEATURES', 'OPERATION_PERFORMANCE']",positive
+155,What's fast enough?,[],na
+156,When you click and don't wait.,['OPERATION_PERFORMANCE'],positive
+157,"Waiting is horrible, and not waiting is the best thing on earth.",[],na
+158,"So yes, it is ridiculously fast.",['OPERATION_PERFORMANCE'],positive
+159,The battery will get you from LA to NY no problem.,['BATTERY'],positive
+160,THE 8.1.WAY DIFFERENT THAN MY OTHER COMPUTER SO WE HAVE TO GET USE  TO IT.,['OS'],neutral
+161,IT IS VERY LIGHT AND THE PICTURE IS NICE  AND THE PRICE WAS AMAZING.,"['DESIGN_FEATURES', 'DISPLAY', 'PRICE']",positive
+162,CAN EVEN READMY KINDLE ON THIS COMPUTER,['MISCELLANEOUS'],positive
+163,"excellent item, shipped on time, met my expectations, it doesnt heat at all, dont use it for gaming","['GENERAL', 'SHIPPING', 'QUALITY', 'MISCELLANEOUS']",mixed
+164,for the price this is a super product out of the box.,"['PRICE', 'GENERAL']",mixed
+165,It wont wow you with its speed but who can complain at $249.,"['OPERATION_PERFORMANCE', 'PRICE']",mixed
+166,plus this computer comes with a full size keyboard.,['KEYBOARD'],positive
+167,NO junkware!!,"['DESIGN_FEATURES', 'SOFTWARE']",positive
+168,"This computer is great for someone who is looking to manage their online life(banling, facebook etc) and some basic offline work using MS Office.",['MISCELLANEOUS'],positive
+169,the only drawback is no DVD player.. but for $20 you can buy an external one,['DESIGN_FEATURES'],negative
+170,Very light and beautiful.,['DESIGN_FEATURES'],positive
+171,It's just a little slow.,['OPERATION_PERFORMANCE'],negative
+172,five starts,['GENERAL'],positive
+173,Terribly slow...,['OPERATION_PERFORMANCE'],negative
+174,Start up time took forever everything runs very slowly.,['OPERATION_PERFORMANCE'],negative
+175,Screen broke 1 month outside warranty.,['DISPLAY'],negative
+176,Overall build quality is cheap.,['QUALITY'],negative
+177,Avoid Acer.,['COMPANY'],negative
+178,Not bad.,['GENERAL'],neutral
+179,"Nice and light, seems to help your work instead of becoming work itself.","['DESIGN_FEATURES', 'USABILITY']",positive
+180,Perfect size for me.,['DESIGN_FEATURES'],positive
+181,"Probably not a gaming machine, which I have zero interest in.",['MISCELLANEOUS'],neutral
+182,i just love this ultrabook,['GENERAL'],positive
+183,i defenitly recommend it for anyone for office and home work,['MISCELLANEOUS'],positive
+184,It's ok.,['GENERAL'],neutral
+185,I find that it often gets very slow and I have to restart more than usual.,['OPERATION_PERFORMANCE'],negative
+186,"It's light and easy to use, though.","['DESIGN_FEATURES', 'USABILITY']",positive
+187,"I love this computer, this is my first ever Mac (I'm 21) and it took a little while to switch over from the OS I was used to, but it was a fast learning curve.","['GENERAL', 'OS']",mixed
+188,"The resolution is gorgeous, the computer is light, it does everything I need and the interface is pretty intuitive.","['DISPLAY', 'DESIGN_FEATURES', 'GENERAL', 'OS']",positive
+189,I love this computer!,['GENERAL'],positive
+190,However I am very upset that it doesn't have the superdrive built in!,['DESIGN_FEATURES'],negative
+191,Supper east to use.,['USABILITY'],positive
+192,Retina display is beautiful.,['DISPLAY'],positive
+193,Also very quick laptop!,['OPERATION_PERFORMANCE'],positive
+194,Con: Hate that it has no disk drive.,['DESIGN_FEATURES'],negative
+195,"beautifully done, the computer is amazingly faster compared to other version of macbook pro i have had in the past.",[],na
+196,I am also glad it doesnt get too hot when left on for an extended period of time.,['QUALITY'],positive
+197,"The battery life is good, even with using high profile software like Sibelius 7 for a good half of the day.",['BATTERY'],positive
+198,"Overall, the performance and specs are definitely great for the price compared to other laptop of the same price, which make this Apple purchase a worthwhile one.",[],na
+199,"Wonderful, super fast, lightweight computer","['GENERAL', 'OPERATION_PERFORMANCE', 'DESIGN_FEATURES']",positive
+200,"The New Macbook pro working, good user experience, fast speed, faster start up time.","['USABILITY', 'OPERATION_PERFORMANCE']",positive
+201,This is what I was looking for.,['GENERAL'],positive
+202,It has a wide screen and it's easy to use.,"['DISPLAY', 'USABILITY']",positive
+203,"At my age, I need this kind of laptop.",['MISCELLANEOUS'],positive
+204,Extremely slow.,['OPERATION_PERFORMANCE'],negative
+205,A masterpiece of crap.,['QUALITY'],negative
+206,not durable .,['QUALITY'],negative
+207,"slow processor, just not it","['CPU', 'GENERAL']",negative
+208,I upgraded the memory from 4gb to 8gb and found the user manual (which I read while awaiting the laptop to arrive) more useful than the Youtube demo.,[],na
+209,"I can't use the Trackpad very well, it's too sensitive, so I hooked up a mouse.","['MOUSE', 'MOUSE']",negative
+210,External monitor worked easily.,['CONNECTIVITY'],positive
+211,Been using Lenovo ThinkPad Edge laptops in our business for several years now and have no complaints about any of them.,['GENERAL'],positive
+212,"They have held up well not just in our sales department, but also in our service department where they are exposed to dust, exhaust, grease, oil, and all manner of other non-computer-friendly substances.",['QUALITY'],positive
+213,"GENERAL, a quality laptop.",['QUALITY'],positive
+214,The Lenovo software that comes preinstalled may qualify as bloatware but is easily removed if you're not interested in it.,"['SOFTWARE', 'DESIGN_FEATURES', 'USABILITY']",mixed
+215,Windows 7 rocks.,['OS'],positive
+216,Computer runs very slow!,['OPERATION_PERFORMANCE'],negative
+217,Great Laptop!,['GENERAL'],positive
+218,"Bigger screen than expected, laptop with a desktop design that is really nice to use for all types of usage, including programming/editing","['DISPLAY', 'DESIGN_FEATURES', 'USABILITY', 'MISCELLANEOUS']",positive
+219,"One of the very few laptops still available with Win 7 Pro, multiple USB ports, and a DVD read/write drive.","['OS', 'DESIGN_FEATURES']",positive
+220,Only drawback is no LED to show when the hard drive is being accessed.,['DESIGN_FEATURES'],negative
+221,"Not a necessity, but something I've come to expect.",['DESIGN_FEATURES'],negative
+222,Does what I need it to do and the price was right!,"['GENERAL', 'PRICE']",positive
+223,Great laptop from Apple!,"['GENERAL', 'COMPANY']",positive
+224,Apple is unrivaled in terms of build quality and functionality.,"['QUALITY', 'OPERATION_PERFORMANCE', 'COMPANY']",positive
+225,The retina screen is absolutely beautiful and the touchpad is the best touchpad to date.,"['DISPLAY', 'MOUSE']",positive
+226,The pair allow for seamless navigation throughout the whole interface.,['USABILITY'],positive
+227,Battery life is astonishing given the processing power and high resolution display.,"['BATTERY', 'CPU', 'DISPLAY']",positive
+228,I can easily get 10 hours out of a full charge.,['BATTERY'],positive
+229,"Also, I find OS X much more simple and easy to use than Windows.",[],na
+230,"Overall, a high quality laptop and a great value considering all this computer has to offer.","['QUALITY', 'PRICE', 'GENERAL']",positive
+231,Well worth the extra cost.,"['GENERAL', 'PRICE']",mixed
+232,"As a long time PC user, I nearly done using PCs.",[],na
+233,Size is perfect and display is beautiful!,"['DESIGN_FEATURES', 'DISPLAY']",positive
+234,Get Speck cover at the same time!,[],na
+235,"Excellent performance, especially given its price point.","['OPERATION_PERFORMANCE', 'PRICE']",positive
+236,It's performing very well after a week's use and I don't anticipate any trouble given my past experiences with Dell pcs.,[],na
+237,The screen is wide and provides excellent clarity.,"['DISPLAY', 'DISPLAY']",positive
+238,"In addition to some usage on the road, this is also my desktop unit.",[],na
+239,"It is not a small, compact laptop, but I won't be traveling via air often, so its size and weight is not a problem for me.","['DESIGN_FEATURES', 'PORTABILITY']",neutral
+240,This was recommended to me by an IT support specialist in the local school district.,[],na
+241,I can appreciate why she recommended it!,['GENERAL'],positive
+242,"If you are undecided between a desktop or laptop pc, I strongly recommend this pc as a solution.",[],na
+243,Don't expect much in terms of performance from this laptop.,['OPERATION_PERFORMANCE'],negative
+244,"It gets the job done in terms of having a computer that can browse the web, use Word/Excel, and the like.",['MISCELLANEOUS'],positive
+245,This laptop does NOT have an RJ-45 Ethernet adapter for wired network connection.,"['DESIGN_FEATURES', 'CONNECTIVITY']",negative
+246,fast easy,"['OPERATION_PERFORMANCE', 'USABILITY']",positive
+247,I live in Jamaica and bought this online and my husband took it down for me.,[],na
+248,So far I do not have any trouble with it other than the picture quality is a bit poor.,"['GENERAL', 'DISPLAY']",mixed
+249,My son saw this laptop online and told be about it and i thought it was a good deal and bought it.,[],na
+250,I have had it over a month now and it works just fine.,['OPERATION_PERFORMANCE'],positive
+251,This laptop suits my needs: as i am currently studying online and just need a computer for that purpose.,['MISCELLANEOUS'],positive
+252,My daughter uses it for college too and it works great for both of us.,['MISCELLANEOUS'],positive
+253,"So i gave this 4 stars but only because of the poor picture quality, other than that it is a great buy!","['GENERAL', 'DISPLAY']",mixed
+254,This laptop is absolutely horrible.,['GENERAL'],negative
+255,I bought it simply for Excel on Windows for work since I have a Macbook Air and literally the thing freezes and lags opening Excel or my web browser.,['OPERATION_PERFORMANCE'],negative
+256,There is a chance mine is defective but regardless I'm not going to try another one this is a terrible product.,['GENERAL'],negative
+257,I'd much rather bite the bullet and spend a little more for a product that actually meets minimum computing expectations for 2014.,['GENERAL'],negative
+258,I appreciate the effort to hit affordable pricing Dell but just not worth it.,"['PRICE', 'GENERAL']",mixed
+259,It is slow and complicated and very disappointing,"['OPERATION_PERFORMANCE', 'USABILITY', 'GENERAL']",negative
+260,Great labtop..,['GENERAL'],positive
+261,not as fast as I would have liked it to be but everything else is great!,"['OPERATION_PERFORMANCE', 'GENERAL']",mixed
+262,I've only had this computer for a few days an I already don't like it.,['GENERAL'],negative
+263,The battery life is a joke and it's causing other problems.,"['BATTERY', 'BATTERY']",negative
+264,I will be returning it.,['GENERAL'],negative
+265,If people are writing bad reviews about this laptop then believe what they say.,['GENERAL'],negative
+266,This is an ok computer.,['GENERAL'],neutral
+267,The processor shows a speed of 1.7gz.,['CPU'],neutral
+268,The sound is disappointing.,['MULTIMEDIA_DEVICES'],negative
+269,No bass sound at all.,['MULTIMEDIA_DEVICES'],negative
+270,Maybe this one is just a dud.,['QUALITY'],negative
+271,the computer is very wonderful.,['GENERAL'],positive
+272,was not aware it did not have a disk drive when i bought it or i would not of purchased it.,['DESIGN_FEATURES'],negative
+273,it does have a habit of restarting itself when you try to do the log in pw. but over all. im very satisfied.,"['OPERATION_PERFORMANCE', 'GENERAL']",mixed
+274,its very fast and very light.,"['OPERATION_PERFORMANCE', 'DESIGN_FEATURES']",positive
+275,great product.,['GENERAL'],positive
+276,i am giviing it four stars instead of five because of no disk drive and the crashing,"['GENERAL', 'DESIGN_FEATURES', 'OPERATION_PERFORMANCE']",mixed
+277,I absolutely love my Dell Inspiron!,['GENERAL'],positive
+278,I use it for basic web browsing and word processing.,[],na
+279,I have also used it to watch YouTube and Hulu.,[],na
+280,"It powers on/off very quickly, and it loads up automatically.",['OPERATION_PERFORMANCE'],positive
+281,"The mouse click is a bit loud, but it really isn't a problem.",['MOUSE'],neutral
+282,"For $250, I highly recommend!!","['GENERAL', 'PRICE']",positive
+283,very poor quality lap top....,['QUALITY'],negative
+284,I am returning it...,['GENERAL'],negative
+285,Slow,['OPERATION_PERFORMANCE'],negative
+286,GREAT value laptop!,"['GENERAL', 'PRICE']",positive
+287,I can't believe this was just $250,['PRICE'],positive
+288,I am using primarily for Office and Outlook while I'm on the road.,[],na
+289,"Speed is great, easy to set up and get going.","['OPERATION_PERFORMANCE', 'USABILITY']",positive
+290,Very pleased so far.,['GENERAL'],positive
+291,It is very difficult to use this computer.,['USABILITY'],negative
+292,Too many steps to get anywhere and hard to set up,['USABILITY'],negative
+293,"This things run smoothly for its price, and the battery life seems to go on forever.","['OPERATION_PERFORMANCE', 'PRICE', 'BATTERY']",mixed
+294,I got this laptop as an upgrade / replacement for my old Lenovo notebook.,[],na
+295,"I didn't have that much money, so I thought I'd give the Inspiron a try.",[],na
+296,I wasn't disappointed in its performance.,['OPERATION_PERFORMANCE'],positive
+297,"All in all, it's well worth its price tag.","['GENERAL', 'PRICE']",positive
+298,Great laptop for the price.,"['GENERAL', 'PRICE']",mixed
+299,It was nearly impossible to find a laptop that had A) a side keyboard.,['KEYBOARD'],positive
+300,I do a lot of 10-key so I can't be pecking around at the top looking for numbers,[],na
+301,B) a DVD/CD player.,['DESIGN_FEATURES'],positive
+302,I have a lot of antiquated programs that I use that require a download,[],na
+303,C) a large hard drive instead of using the Cloud,['HARD_DISC'],positive
+304,D) was under $300 with shipping.,['PRICE'],positive
+305,The only con is Windows effin 8.,['OS'],negative
+306,Still giving it a 5 star rating because it is fast and a nice sized screen.,"['GENERAL', 'OPERATION_PERFORMANCE', 'DISPLAY']",positive
+307,Great for web design and general work.,['MISCELLANEOUS'],positive
+308,Overall good but processing power isn't very good.,"['GENERAL', 'CPU']",mixed
+309,"W7 Pro with W8 pro upgrade is nice, but it frequently freezes for a few seconds here and there.","['OS', 'OS']",mixed
+310,I replaced stock drive with WD Black 7K drive and is still quite slow.,['OPERATION_PERFORMANCE'],negative
+311,Battery doesn't last long web browsing (2.5 hours maybe).,['BATTERY'],negative
+312,It has some bloat wear that I wish weren't there.,"['DESIGN_FEATURES', 'SOFTWARE']",negative
+313,It works fine for a PC in this price range.,"['OPERATION_PERFORMANCE', 'PRICE']",mixed
+314,I bought it for my parents (late 60s) and they love it - particularly the keyboard and screen.,"['GENERAL', 'KEYBOARD', 'DISPLAY']",positive
+315,Terrific value for the money.,"['GENERAL', 'PRICE']",mixed
+316,Love the key layout and the built-in mouse pad - all work well and are properly sized.,"['KEYBOARD', 'MOUSE', 'KEYBOARD', 'MOUSE']",positive
+317,"Was easy to get up and running and comes with Windows 7 Pro (my favorite operating system so far, do not  like Windows 8).",[],na
+318,Highly recommended.,['GENERAL'],positive
+319,works good but doesn't seem like it's made sturdy.,"['OPERATION_PERFORMANCE', 'QUALITY']",mixed
+320,kinda to light and plastic feeling.,"['DESIGN_FEATURES', 'QUALITY']",negative
+321,i have square trade for it just in case it breaks,[],na
+322,Killer computer.,['GENERAL'],positive
+323,Replaced a 10 year old HP that never gave us a lick of trouble.,[],na
+324,I would highly recommend this computer it is FAST!!!,"['GENERAL', 'OPERATION_PERFORMANCE']",positive
+325,Doesn't have touch screen but I have a tablet so that wasn't so important.,['DISPLAY'],neutral
+326,Look and feel is good.,"['DESIGN_FEATURES', 'QUALITY']",positive
+327,I am experiencing the system little slower than what I have expected.,['OPERATION_PERFORMANCE'],negative
+328,"And processor feels pressured even though I run medium scale programs, watching the way exhaust speed increases.",['CPU'],negative
+329,The hdd has a scratching noise.,['HARD_DISC'],negative
+330,The system sometimes lags a lot.,['OPERATION_PERFORMANCE'],negative
+331,I don't like it at all...,['GENERAL'],negative
+332,I can't put a protector to make presentation...,['CONNECTIVITY'],negative
+333,A good value on a quality product.,"['QUALITY', 'PRICE']",positive
+334,"Easy setup, and delivers all the functions we need.","['USABILITY', 'OPERATION_PERFORMANCE']",positive
+335,This laptop is amazing!,['GENERAL'],positive
+336,"Despite the fact that there's no optical drive, everything is perfect.","['DESIGN_FEATURES', 'GENERAL']",mixed
+337,"The screen resolution is crystal clear, the speakers are amazing, and the track pad is easy to use.","['DISPLAY', 'MULTIMEDIA_DEVICES', 'MOUSE']",positive
+338,The home page/startup is easy to navigate which is the one thing I was mainly concerned about.,['OS'],positive
+339,"Internet is fast and reliable, battery life lasts a long time.","['CONNECTIVITY', 'BATTERY']",positive
+340,I love this laptop!,['GENERAL'],positive
+341,LOOKS LIKE THIS DELL IS A PIECE OF CRAP.,['QUALITY'],negative
+342,"IT DOES NOT TURN ON - IF I TAKE THE BATTERY OUT IT MIGHT WORK, NOT SURE IF IT'S A BAD BATTERY OR COMPUTER!","['OPERATION_PERFORMANCE', 'QUALITY']",negative
+343,DO NOT RECOMMEND!,['GENERAL'],negative
+344,Awesome laptop!,['GENERAL'],positive
+345,Standard issue for company road-warriors where I work.,[],na
+346,"Bootup time is amazing, battery life is decent and it has a great slim form factor.","['OPERATION_PERFORMANCE', 'BATTERY', 'DESIGN_FEATURES']",mixed
+347,"Fantastic machine, I have never believed the hype behind Apple products, but must admit I am now a Mac user and do not see myself going back.",[],na
+348,"There is somewhat of a learning curve, but the operating system, and hardware of this Mac are great.","['USABILITY', 'OS', 'HARDWARE']",mixed
+349,More than enough for my use.,['MISCELLANEOUS'],positive
+350,"The display is vibrant and clear, the keyboard is well designed and pleasant to type on;","['DISPLAY', 'KEYBOARD', 'KEYBOARD']",positive
+351,I even installed a windows partition to be able to run Windows software.,['USABILITY'],positive
+352,"Things just work, they are fluid, easy to use and understand, fast and work well.","['OPERATION_PERFORMANCE', 'USABILITY']",positive
+353,"This computer is absolutely perfect for web browsing, watching video, word processing, and that's about it.",['MISCELLANEOUS'],positive
+354,"If you want a computer that plays games or any advanced tasks like editing video, this computer is NOT for you.",['MISCELLANEOUS'],negative
+355,"Now when I say don't expect to play games on it, I mean it.",['MISCELLANEOUS'],negative
+356,Pretty much every major game save for Solitare won't even play on it due to the slower processor.,"['MISCELLANEOUS', 'CPU']",negative
+357,"Its also worth noting that there no bluetooth, no mircophone jack, no ethernet, no dvd/cd drive/burner, and no usb 3.0 ports.",['DESIGN_FEATURES'],negative
+358,"It DOES come with two usb 2.0 ports, a hdmi port, and a webcam.",['DESIGN_FEATURES'],neutral
+359,"The webcam is nothing special, its there if you need it.",['MULTIMEDIA_DEVICES'],neutral
+360,Don't expect it to take good pictures or video.,['MULTIMEDIA_DEVICES'],negative
+361,The battery is pretty soild.,['BATTERY'],positive
+362,It lasts up to 5-6 hours with normal use.,['BATTERY'],positive
+363,The computer itself runs very quiet and is mostly cool to the touch.,['QUALITY'],positive
+364,The only major negative to me is Windows 8.1 (though YMMV) and the Dell crapware installed.,"['OS', 'SOFTWARE', 'DESIGN_FEATURES']",negative
+365,I would strongly recommend to remove it and install Windows 7 on it with a usb drive.,[],na
+366,The performance will improve on it.,[],na
+367,Trust me.,[],na
+368,Not bad for the price.,"['GENERAL', 'PRICE']",neutral
+369,I needed an inexpensive laptop to do basic office work on that was lightweight and this fits the bill just fine.,"['PRICE', 'DESIGN_FEATURES', 'MISCELLANEOUS']",positive
+370,"Performance wise, it's a bit slow, but that's to be expected from a Celeron-class processor.","['OPERATION_PERFORMANCE', 'CPU']",negative
+371,"I'm also not a fan of Windows 8, but fortunately I can install whatever I want on the laptop without issue.","['OS', 'USABILITY']",mixed
+372,Love everything about this laptop!,['GENERAL'],positive
+373,"Sound, quality and touchscreen are awesome!","['MULTIMEDIA_DEVICES', 'QUALITY', 'DISPLAY']",positive
+374,I would definitely recommend this!!,['GENERAL'],positive
+375,I love this laptop to the moon.,['GENERAL'],positive
+376,"My favorite colors black and red, the matte material and the red backlight of the keyboard.","['DESIGN_FEATURES', 'QUALITY', 'KEYBOARD']",positive
+377,The sound is great and it's fast.,"['MULTIMEDIA_DEVICES', 'OPERATION_PERFORMANCE']",positive
+378,I had a number of updates to do and customization.,[],na
+379,"The laptop is beautiful, not extremely light but thin enough and wide screen with a full keyboard.","['DESIGN_FEATURES', 'DISPLAY', 'KEYBOARD']",positive
+380,The touch screen response is fast and it picks up bluetooth and wifi FAST.,"['DISPLAY', 'CONNECTIVITY']",positive
+381,"Microsoft Office is a 30 day trial, a number of games and apps are already preloaded.","['SOFTWARE', 'DESIGN_FEATURES']",neutral
+382,It's exactly like the picture and I AM SATISFIED.,"['MISCELLANEOUS', 'GENERAL']",positive
+383,Great laptop light and very versatile,"['GENERAL', 'DESIGN_FEATURES', 'USABILITY']",positive
+384,it was easy to set up.,['USABILITY'],positive
+385,I like the number pad for work so that's nice,['KEYBOARD'],positive
+386,"This is going to be random and unorganized, but here are my thoughts on the laptop:So far so good after a month.",['GENERAL'],positive
+387,"It took some getting used to on the Widows 8.1, after being an XP user for many years.",['OS'],neutral
+388,Everything seems to be running smoothly.,['OPERATION_PERFORMANCE'],positive
+389,Only downfall is the preloaded McAfee and other software.,"['SOFTWARE', 'DESIGN_FEATURES']",negative
+390,"They are fine while the free subscription is going, but a pain when they start asking you to spend money every time you login.","['SOFTWARE', 'SOFTWARE']",mixed
+391,"Device is light weight, quiet during operation and produces little to no heat.","['DESIGN_FEATURES', 'QUALITY']",positive
+392,It has a quick start up and shut down time.,['OPERATION_PERFORMANCE'],positive
+393,The display is good quality.,['DISPLAY'],positive
+394,Just wish there were more USB ports.,['DESIGN_FEATURES'],negative
+395,"I AM IMPRESSED WITH THIS COMPUTER, INEXPENSIVE BUT QUALITY.","['GENERAL', 'PRICE', 'QUALITY']",positive
+396,"LOVE THE SIZE, I AM USING THIS FOR WORK, I AM A NURSE AND HAVE TO CHART DAILY, THIS IS EASY TO USE AND I HAVE NOT HAD ANY PROBLEMS WITH IT.","['DESIGN_FEATURES', 'USABILITY', 'GENERAL']",positive
+397,It's so damn good I bought 2 :D,['GENERAL'],positive
+398,"If you're the type of person that just likes to browse the Internet and enjoy media and do light work with Microsoft office, this is the laptop for you.",['MISCELLANEOUS'],positive
+399,Don't expect it to be a champion performer so if you want to play games or whatever this is not the computer for you.,"['OPERATION_PERFORMANCE', 'MISCELLANEOUS']",mixed
+400,It's extremely light weight and slim because of the lack of an optical drive (who uses those anymore anyways) so it easily fits into any college students bag.,"['DESIGN_FEATURES', 'PORTABILITY']",positive
+401,I would recommend this to anyone who doesn't need much out of a computer.,['MISCELLANEOUS'],positive
+402,Bought a spare one for college and one for my mom :D,[],na
+403,Happy shopping guys,[],na
+404,I am very happy with this computer.,['GENERAL'],positive
+405,"It is exactly what I expected, and the price is excellent!","['GENERAL', 'PRICE']",positive
+406,"You are getting what you pay for and in my opinion, it is worth more.","['GENERAL', 'PRICE']",positive
+407,Been using it for about 4 hours now and it seems plenty fast and does everything I need it to do.,"['OPERATION_PERFORMANCE', 'GENERAL']",positive
+408,Its a very basic laptop.,['MISCELLANEOUS'],neutral
+409,"I thought it would have a CD-rom drive, but there isnt one.",['DESIGN_FEATURES'],negative
+410,Also wish it had a port to plug an internet cord into it because sometimes my wifi router likes to not work.,"['DESIGN_FEATURES', 'CONNECTIVITY']",negative
+411,But for the price its good.,"['GENERAL', 'PRICE']",mixed
+412,Other than the slow CPU it works great for everyday use.,"['CPU', 'MISCELLANEOUS']",mixed
+413,Heavy gaming is definitely not it's strong point.,['MISCELLANEOUS'],negative
+414,The cover is a soft rubber texture without the friction.,['QUALITY'],positive
+415,Slick design and looks great.,['DESIGN_FEATURES'],positive
+416,"The machine is easy to use, has the power it needs for personal use and some light professional work.","['USABILITY', 'MISCELLANEOUS']",positive
+417,"It could be lighter, but couldn't everything.",['DESIGN_FEATURES'],neutral
+418,The battery seems adequate for most uses ~ 4.5 hour use/charge.,['BATTERY'],positive
+419,Screen is clear and bright.,['DISPLAY'],positive
+420,Glad it has the DVD drive.,['DESIGN_FEATURES'],positive
+421,Perfectly adequate.,['GENERAL'],positive
+422,Great PC.,['GENERAL'],positive
+423,"The i7 is incredibly fast, the RAM makes it proper for several games (not on maximum quality).","['CPU', 'MEMORY', 'MISCELLANEOUS']",positive
+424,Great sound quality too.,['MULTIMEDIA_DEVICES'],positive
+425,Nice laptop.,['GENERAL'],positive
+426,"I use it for school, its quick and has everything I need on it.","['OPERATION_PERFORMANCE', 'GENERAL']",positive
+427,Good battery life as well.,['BATTERY'],positive
+428,Wifi card not working right out of the box.,"['CONNECTIVITY', 'HARDWARE', 'HARDWARE']",negative
+429,Dealing with HP support is a ridiculous and painful experience.,['SUPPORT'],negative
+430,"I have spent more than 2.5 hours on the phone with them (over 4 different calls), only to get no where.",['SUPPORT'],negative
+431,"Now I'm looking into the return process, which I'm sure will just be loads of fun, if my prior experience is any indication.",['SUPPORT'],negative
+432,"Seriously, save yourself the hassle and purchase from a different company.",['COMPANY'],negative
+433,"Used to love HP products, but this has soured me on the whole company.","['GENERAL', 'COMPANY']",negative
+434,By far the best laptop I've ever had.,['GENERAL'],positive
+435,"Its fast, powerful, screen display is top notch and the battery life is excellent for a laptop of this size.","['OPERATION_PERFORMANCE', 'DISPLAY', 'BATTERY', 'DESIGN_FEATURES']",mixed
+436,"My only concern is that since the battery is not external, I will not be able to change it out once it starts not to hold a good charge over a length of time.",['BATTERY'],negative
+437,I wonder if thats just Apples way of saying its time to get the newest and greatest laptop 3-4 years from now lol.,['COMPANY'],neutral
+438,The product is average and works well.,"['GENERAL', 'OPERATION_PERFORMANCE']",mixed
+439,Works at a decent speed.,['OPERATION_PERFORMANCE'],neutral
+440,The mouse pad however is very loud which is why i gave it four stars.,['MOUSE'],negative
+441,I had a great experience purchasing my Dell Inspiron i3531-1200BK 15.6-Inch Laptop.,['GENERAL'],positive
+442,"I was very impressed by the sellers speedy two-day delivery, which was free!",[],na
+443,"My laptop was easy to set-up, and I've had no problems to date.","['USABILITY', 'GENERAL']",positive
+444,Thank you!,[],na
+445,Did not disappoint me at all.,['GENERAL'],positive
+446,Lenovo is the best laptop.,['GENERAL'],positive
+447,Built in mike is really poor and unusable for Skype or any other purpose.,"['MULTIMEDIA_DEVICES', 'MULTIMEDIA_DEVICES', 'MULTIMEDIA_DEVICES']",negative
+448,And the only microphone input is for a combo Mike/Speaker plug.,['DESIGN_FEATURES'],negative
+449,So to communicate I need to wear ear plugs or a headset with a built-in mike.,['USABILITY'],negative
+450,That's a nuisance for family Skype calls...only one can speak at a time.,['USABILITY'],negative
+451,"We haven't used it enough or had it long enough to give it 5 stars, but so far it has been a very good laptop.",['GENERAL'],positive
+452,Several other reviewers made comments on the keyboard and now I can understand why --- this keyboard is the nicest to use of any laptop we've ever owned.,['KEYBOARD'],positive
+453,"I'm a life-long desktop computer user, and the keyboard on this laptop is as close to a ""normal"" keyboard as I've ever seen.",['KEYBOARD'],positive
+454,We like this new laptop -- a lot!,['GENERAL'],positive
+455,Very good performer for the price.,"['OPERATION_PERFORMANCE', 'PRICE']",mixed
+456,"Not blazing fast, but quick enough.",['OPERATION_PERFORMANCE'],positive
+457,One really nice thing about Lenovo laptops is that they are not cluttered with a bunch or trial software.,"['DESIGN_FEATURES', 'SOFTWARE', 'COMPANY']",positive
+458,The desktop was clean once I got it up and running.,['DESIGN_FEATURES'],positive
+459,"Battery life is above average, and it charges quickly.",['BATTERY'],positive
+460,Keyboard is sturdy.,['KEYBOARD'],positive
+461,"The touch pad takes a little getting used to as the ""click"" buttons are on top instead of the bottom.","['MOUSE', 'MOUSE']",mixed
+462,I will be considering Lenovo for all future laptop purchases.,['COMPANY'],positive
+463,This lap top is good so far.,['GENERAL'],positive
+464,It is quiet runs smoothly.,"['QUALITY', 'OPERATION_PERFORMANCE']",positive
+465,"I really like the video option on it, I stream movies on Amazon Prime and Netflix and there is no lag.","['DESIGN_FEATURES', 'OPERATION_PERFORMANCE']",positive
+466,Actually streams better than my regular desk top computer.,[],na
+467,"The only negative would be that it gets pretty warm sitting on my lap for very long, but that is pretty much standard for all lop tops I think.",['QUALITY'],neutral
+468,Now I lay a pillow on my lap first.,[],na
+469,Problem solved.,[],na
+470,ouch.,[],na
+471,it stopped working 31 days after purchase.,"['OPERATION_PERFORMANCE', 'QUALITY']",negative
+472,i just tried to restart it.,[],na
+473,i hope they can fix it somehow.,[],na
+474,it was slow and might be problematic.,"['OPERATION_PERFORMANCE', 'GENERAL']",negative
+475,i would shop around for a better one.,['GENERAL'],negative
+476,CRASHED only 2 days from getting it!!!!,"['OPERATION_PERFORMANCE', 'QUALITY']",negative
+477,Says it is failing hard drive.,['HARD_DISC'],negative
+478,Going to see what lenovo does.,[],na
+479,I should have bought something better.,['GENERAL'],negative
+480,"The PC is works well with a good battery and a power cable, and has a web cam.","['OPERATION_PERFORMANCE', 'BATTERY', 'DESIGN_FEATURES']",positive
+481,"However, it does not have a DVD drive, neither does it afford one the opportunity to connect an external DVD drive as the manufacturer did not make any point ofconnection of an external drive.","['DESIGN_FEATURES', 'USABILITY', 'CONNECTIVITY']",negative
+482,Got it for my wife.,[],na
+483,"Other than a hate of windows 8, she just loves it.","['GENERAL', 'OS']",mixed
+484,This is not my first Dell laptop.,[],na
+485,"I've owned other models, as well.",[],na
+486,This one doesn't seem to be the same quality as ones I have purchased before.,[],na
+487,The plastic materials are rather cheap.,['QUALITY'],negative
+488,LOVE IT!,['GENERAL'],positive
+489,NEEDS MORE INSTRUCTIONS WITH IT,['MISCELLANEOUS'],negative
+490,"I'm very happy with my Acer, it does just for what I need it.",['GENERAL'],positive
+491,Even the sound is fantastic,['MULTIMEDIA_DEVICES'],positive
+492,I love this laptop.,['GENERAL'],positive
+493,Even my extremely tech savvy boyfriend was impressed with the features and sleek design.,['DESIGN_FEATURES'],positive
+494,"Although I've had it for less than a week, I am very satisfied.",['GENERAL'],positive
+495,Functions well.,['OPERATION_PERFORMANCE'],positive
+496,Does all that was advertised.,['GENERAL'],positive
+497,"If it had a 4,5 star option, that is what I would give.",['GENERAL'],positive
+498,"The build is perfect, the screen fantastic, but I do have a bit of a problem with the fact that I have to buy adaptors for nearly everything, from vga cables to ethernet cables, so, almost perfect...","['QUALITY', 'DISPLAY', 'CONNECTIVITY', 'USABILITY']",mixed
+499,I just bought this laptop yesterday.,[],na
+500,This is how I feel about the laptop so far:,[],na
+501,1.Great display.,['DISPLAY'],positive
+502,Love the color accuracy.,['DISPLAY'],positive
+503,2.Very decent speakers.,['MULTIMEDIA_DEVICES'],positive
+504,3.Fairly fast.,['OPERATION_PERFORMANCE'],positive
+505,4.Loud fan when watching 4K video off YouTube.,['FANS_COOLING'],negative
+506,Sounds like a washer.,['FANS_COOLING'],negative
+507,Machine gets fairly hot near the bottom of the screen.,['QUALITY'],negative
+508,5.Best to use the power supply for 4K video viewing.,[],na
+509,Battery power laptop had difficulties computing.,"['OPERATION_PERFORMANCE', 'USABILITY']",negative
+510,6.Still feels too heavy to me.,['DESIGN_FEATURES'],negative
+511,Could lose another pound or two.,['DESIGN_FEATURES'],negative
+512,7.Expensive.,['PRICE'],negative
+513,Paid close to $2800 out the door.,['PRICE'],negative
+514,There are too many things to test.,[],na
+515,Will update my review when I have time.,[],na
+516,Biggest piece of junk I have ever purchased.,['QUALITY'],negative
+517,Bought it for my wife as a birthday present having owned a Dell in the past which was a great computer.,[],na
+518,This clunker however stopped working after only two weeks of having it delivered.,"['OPERATION_PERFORMANCE', 'QUALITY']",negative
+519,It would have a full charge yet would turn itself off for no explainable reason after being on for 5 minutes.,['OPERATION_PERFORMANCE'],negative
+520,I promptly sent it back for an exchange thinking this was just a bad one and surely the next one would be fine.,[],na
+521,"The second one, after a little over a month, refused to turn on even with a full charge.","['OPERATION_PERFORMANCE', 'QUALITY']",negative
+522,And I have pictures on there with no way to retrieve them!,[],na
+523,What a lemon!!,['QUALITY'],negative
+524,This is a big disappointment.,['GENERAL'],negative
+525,"I only use a laptop for personal use, but this one can't even handle that!",['MISCELLANEOUS'],negative
+526,It takes a long time to load any page.,['OPERATION_PERFORMANCE'],negative
+527,I've had it for a minth and so far it's shut down completely 3 times.,"['OPERATION_PERFORMANCE', 'QUALITY']",negative
+528,Had to call Dell to get it back online.,[],na
+529,"I have had Dell Desktops for years, so had no qualms about buying a Dell laptop.","['GENERAL', 'COMPANY']",negative
+530,Never again.,[],na
+531,I've always sworn by dell.,['COMPANY'],positive
+532,My very first laptop was a dell and it never failed me.,[],na
+533,"It was stubborn as hell, no amount of dust or slipping to the ground phased it.",[],na
+534,It worked super fast and got the job done.,[],na
+535,"So with this new order, all the upgrades and windows 8 really caught my eye and I got this for the long haul.","['DESIGN_FEATURES', 'OS']",positive
+536,I am not ultra tech savvy but I can tell when it works slow!,['OPERATION_PERFORMANCE'],negative
+537,All I needed this for was to do some typing and simple internet browsing and maybe watching netflix here and there.,[],na
+538,I barely have any files or downloads and its almost impossible to get this thing to load.,"['OPERATION_PERFORMANCE', 'CONNECTIVITY']",negative
+539,I know its not my internet connection because I have an HP as well and its like lightening even with the mass of data and info I have on it.,[],na
+540,I'm so disappointed.,['GENERAL'],negative
+541,Disclaimer: I'm a Mac user.,[],na
+542,"I wanted to love this laptop, which I bought as a transitional laptop to use between jobs, before my new university gave me one.",[],na
+543,"In two months, both the power cord pin broke (the company replaced it) and then the CD drive literally jumped out of the laptop unannounced and shattered into a million pieces.","['POWER_SUPPLY', 'SUPPORT', 'OPTICAL_DRIVES']",mixed
+544,"In addition, no matter what I do to change the settings, add/delete Flash, etc., Firefox hangs on start-up.",['SOFTWARE'],negative
+545,It seems like Lenovo also makes weird choices about which side to put the powercord and other slots on.,"['DESIGN_FEATURES', 'COMPANY']",negative
+546,The cords always feel like they are in my way.,['DESIGN_FEATURES'],negative
+547,"One positive aspect of this laptop is the keyboard, which is larger than usual.",['KEYBOARD'],positive
+548,It's a pleasure to type on.,['KEYBOARD'],positive
+549,"My final thoughts: if you are a Mac user, stay away.",['MISCELLANEOUS'],negative
+550,"If you want to travel with this laptop, don't buy it.",['PORTABILITY'],negative
+551,"It's clunky, heavy, and a pain to start up and shut down.","['PORTABILITY', 'DESIGN_FEATURES', 'OPERATION_PERFORMANCE']",negative
+552,"If you have zero dollars, consider it.",[],na
+553,"If you want ease of use and long-term happiness, buy a Macbook.",[],na
+554,Great for games,['MISCELLANEOUS'],positive
+555,It's truly a great laptop for the price.,"['GENERAL', 'PRICE']",mixed
+556,I built my own gaming pc with a intel i5-4590 in it and a gtx 760 so I know what crazy performance on a computer can come to.,[],na
+557,"However, this laptop far exceeded my expectations when I bought it for college, I only use Malwarebytes and Microsoft Security Essentials, run a virus scan maybe once a week and it has ran smoother than butter for the past two years.","['MISCELLANEOUS', 'OPERATION_PERFORMANCE']",positive
+558,"For $250, which is as much as my graphics card alone cost, this laptop is an incredible value.","['PRICE', 'GENERAL']",positive
+559,"It is quite impressive at multitasking, which really surprised me.",['OPERATION_PERFORMANCE'],positive
+560,I can have tabs open while playing YouTube videos and it handles it impressively well.,['OPERATION_PERFORMANCE'],positive
+561,"BUT I should tell you that this laptop does not have the best screen, it's certainly good enough for the average person, but if you're used to good screens this may bother you a bit, but it's certainly not unbearable by anyone's standards.",['DISPLAY'],neutral
+562,"If you want to game, this thing can handle League of Legends on medium-low settings, but I certainly wouldn't recommend it for gaming.",['MISCELLANEOUS'],negative
+563,"Overall, a great laptop for simply doing basic things and web-browsing.",['MISCELLANEOUS'],positive
+564,"Would definitely recommend for those who are ""technologically ignorant""",['MISCELLANEOUS'],positive
+565,this computer is very slow,['OPERATION_PERFORMANCE'],negative
+566,I love this laptop!,['GENERAL'],positive
+567,It does everything I need it too!,['GENERAL'],positive
+568,Very good price.,['PRICE'],positive
+569,Very nice computer,['GENERAL'],positive
+570,Immediately didn't like the track buttons.,['MOUSE'],negative
+571,They are loud and clunky but I figured I'd get used to it.,"['MOUSE', 'MOUSE', 'MOUSE']",mixed
+572,No need to.,[],na
+573,The laptop died two days after I received it.,['QUALITY'],negative
+574,"I purchased a  Dell Inspiron I3531-1200BK and so far I love it, this model has a true life monitor, which is worth the extra bucks.","['GENERAL', 'DISPLAY', 'PRICE']",mixed
+575,If you're looking for a basic PC this is the way to go.,['MISCELLANEOUS'],positive
+576,The hinges on this PC are nice and tight and well made like the rest of the PC.,['QUALITY'],positive
+577,I was surprised  at  the overall quality and the price,"['QUALITY', 'PRICE']",positive
+578,"In all my life i have never come across a computer as slow as this one, it cant perform basic operations and is practically useless.","['OPERATION_PERFORMANCE', 'GENERAL']",negative
+579,I just received the laptop and if it runs like this already cant imagine how it would work in the next couple of weeks.,['OPERATION_PERFORMANCE'],negative
+580,It took almost 20 minutes to boot up.,['OPERATION_PERFORMANCE'],negative
+581,Please people dont make the same mistake i did.,['GENERAL'],negative
+582,"This is a complete waste of money, dont let the price fool you!","['GENERAL', 'PRICE']",mixed
+583,Would be a very nice laptop if the mousepad worked properly.,"['GENERAL', 'MOUSE']",mixed
+584,It was not responsive at all to touch.,['MOUSE'],negative
+585,Very frustrating.,[],na
+586,"And while tapping the mousepad to try to get it to work, your palm would inevitably touch the side which would pull up the side windows and block your ability to find the mouse.","['MOUSE', 'MOUSE']",negative
+587,"If they can fix this, I think it would be a very nice, cost-effective laptop.","['GENERAL', 'PRICE']",positive
+588,This laptop broke within the first hour of use.,['QUALITY'],negative
+589,The 'A' key became jammed so that sometimes it wouldn't press in.,['KEYBOARD'],negative
+590,Dell claims they test each key with thousands of mechanical key strokes.,['COMPANY'],negative
+591,"Also, after restarting the laptop it constantly made high pitched electronic noises.",['QUALITY'],negative
+592,"I'm sure I just got a bad egg, but instead of getting a replacement I decided to try a different one.","['QUALITY', 'GENERAL']",negative
+593,This laptop is nice.,['GENERAL'],positive
+594,"It has a decent feel to it, sharp display and is fast enough.","['QUALITY', 'DISPLAY', 'OPERATION_PERFORMANCE']",mixed
+595,The biggest problem I have is the right side and top of the touchpad is unresponsive.,['MOUSE'],negative
+596,So frustrating!!,[],na
+597,"I have updated the drivers and tweeked every feature available, but nothing has helped.",['MOUSE'],negative
+598,"Also, the touchpad is almost 'sticky', which kind of defeats the purpose of a touchpad.","['MOUSE', 'MOUSE']",negative
+599,"I would love to keep this laptop, but will be sending it back and looking for a different brand.","['GENERAL', 'COMPANY']",negative
+600,No Lenovo for me.,['COMPANY'],negative
+601,Initially I liked the product so much.,['GENERAL'],positive
+602,Although it was slow but I felt it was ok for the price you have bought it.,"['OPERATION_PERFORMANCE', 'GENERAL', 'PRICE']",mixed
+603,But now I am having battery problems.,['BATTERY'],negative
+604,Laptop automatically shuts down when battery life reaches 30%.,['OPERATION_PERFORMANCE'],negative
+605,I bought this laptop in November 2013.,[],na
+606,I am not satisfied with the product.,['GENERAL'],negative
+607,It's an amazing laptop.,['GENERAL'],positive
+608,Most of the things about the laptop is awesome except the touchpad.,"['GENERAL', 'MOUSE']",mixed
+609,The laptop is fast.,['OPERATION_PERFORMANCE'],positive
+610,The Windows 8.1 used to boot in just 2s and that was freaking awesome.,['OS'],positive
+611,Now I have dual booted my laptop to Windows 8.1 and Ubuntu 14.04 and it's not got too slow either.,['OPERATION_PERFORMANCE'],positive
+612,I am loving it completely.,['GENERAL'],positive
+613,It does make a little noise but that's alright as it's not too much.,['QUALITY'],neutral
+614,It doesn't get heated up much even after continuous usage.,['QUALITY'],positive
+615,"But the  touchpad is soooooooooo big that whenever I am typing, my palm touches some part of it and then the cursor goes somewhere else and it's really annoying.","['MOUSE', 'MOUSE']",negative
+616,"I prefer typing without having to see the keyboard but due the large touchpad, i always have to type cautiously as my hand might take me somewhere else.","['MOUSE', 'MOUSE']",negative
+617,HP please fix it.,[],na
+618,A smaller touchpad would make life easier for Computer Science students or IT people much more easier.,"['MOUSE', 'MOUSE']",negative
+619,"Uhhhhhh, the computer looks good.",['DESIGN_FEATURES'],positive
+620,"But, it works really slowwwwww!!!",['OPERATION_PERFORMANCE'],negative
+621,It has got me feel like to take years to successfully open a web page.,['OPERATION_PERFORMANCE'],negative
+622,Purchased it for my birthday and love it!,['GENERAL'],positive
+623,I've been a loyal Dell user for quite some time.,[],na
+624,But every six months my Dell computer crashes.,[],na
+625,"Since I also do a lot of writing and illustrations using Adobe products, I thought I would try a Mac.",[],na
+626,I'm so glad that I have.,['GENERAL'],positive
+627,It's been a very easy transition moving my Windows created files over to the Mac.,['USABILITY'],positive
+628,So far I haven't lost any quality or information.,"['QUALITY', 'MISCELLANEOUS']",positive
+629,I have a little bit of a learning curve with the keyboard shortcuts.,['KEYBOARD'],neutral
+630,"But other than that, I really am loving the quality and speed.","['QUALITY', 'OPERATION_PERFORMANCE']",positive
+631,Expensive but worth it.,"['PRICE', 'GENERAL']",mixed
+632,The display has a great resolution but have difficulty always seeing the small print.,"['DISPLAY', 'DISPLAY']",mixed
+633,Haven't quite figured out how to make the font size larger overall.,['USABILITY'],neutral
+634,I'll keep trying however.,[],na
+635,This is without a doubt the worst laptop I've ever had.,['GENERAL'],negative
+636,I wavered between another Toshiba and this and ended up choosing this and I'm so sorry I did.,[],na
+637,"And of course, the return window closed last week so now, I'm stuck with it.",['GENERAL'],negative
+638,I will never buy another Lenovo anything!,"['GENERAL', 'COMPANY']",negative
+639,"Unless you plan on using a mouse with this laptop, don't buy this.",['MOUSE'],negative
+640,"The touchpad hasn't worked correctly since delivery though in the beginning, I thought perhaps it was just a bit of a quirk since most touchpads I've worked with have some inherent oddities.","['MOUSE', 'MOUSE']",negative
+641,"This one however, is now very loose and I have to either tap hard or repeatedly push to click in order for it to work, Then suddenly, I can barely touch it at all and it clicks on its own.","['MOUSE', 'MOUSE', 'MOUSE']",negative
+642,"Today, it hasn't worked at all more than it has.",['MOUSE'],negative
+643,The laptop has 4G and a 2.9g processor and it's slower than the four year old Toshiba I replaced.,[],na
+644,"It hangs, freezes and just isn't working properly.",['OPERATION_PERFORMANCE'],negative
+645,I have now been waiting almost a minute for the computer management window to open!,['OPERATION_PERFORMANCE'],negative
+646,"Though I don't have much installed, I only have 96 of the 278G left!",['MISCELLANEOUS'],negative
+647,"I have no idea what's taking up all the room, it doesn't make sense.",['MISCELLANEOUS'],negative
+648,Most of my things are stored in the cloud.,[],na
+649,"I could go on and on, but suffice it to say, if you want to spend $400+ on a laptop, don't buy this one!",['GENERAL'],negative
+650,It's definitely not worth the money.,"['GENERAL', 'PRICE']",negative
+651,Very fast and good for most steam games.,"['OPERATION_PERFORMANCE', 'MISCELLANEOUS']",positive
+652,"Don't expect great graphics, though.",['GRAPHICS'],neutral
+653,"The keyboard and sound are great, and the matte screen works well.","['KEYBOARD', 'MULTIMEDIA_DEVICES', 'DISPLAY']",positive
+654,Can run CS:GO at 60 fps on low settings.,['DISPLAY'],positive
+655,Computer was DOA.,['QUALITY'],negative
+656,Turned it on and it was beeping.,['QUALITY'],negative
+657,Looked up the manual on another computer.,[],na
+658,The manual said that particular series of beeps indicated a video problem.,[],na
+659,Have the unit serviced.,[],na
+660,Lenovo sent me a box to return it to them.,[],na
+661,They claim they will have it back in six working days.,[],na
+662,We'll see.,[],na
+663,"Once I get a working computer, I think I will like it.",[],na
+664,I've had Lenovo computers before.,[],na
+665,I love this laptop.,['GENERAL'],positive
+666,"Looks good , well built, and very good speed.","['DESIGN_FEATURES', 'QUALITY', 'OPERATION_PERFORMANCE']",positive
+667,"Needed a 2 usb adapt. for network plug, no problem.",['CONNECTIVITY'],neutral
+668,"Keyboard is nice and windows 8.1 is great, worried about that coming from xp.","['KEYBOARD', 'OS']",positive
+669,Price makes this the laptop I was looking for.,"['PRICE', 'GENERAL']",positive
+670,So far I am very happy with this computer.,['GENERAL'],positive
+671,"It has everything I wanted-- built in Wi-Fi connectibility, a slot for my SD camera memory card, a DVD burner, big beautiful screen, plenty of USB ports (three 3.0 and one 2.0), and a keyboard with a nice touch.","['GENERAL', 'DESIGN_FEATURES', 'CONNECTIVITY', 'DISPLAY', 'DISPLAY', 'KEYBOARD']",positive
+672,"I liked the fact that it came with Windows 7, but also included Windows 8 to install later if I need it.","['OS', 'DESIGN_FEATURES', 'MISCELLANEOUS']",positive
+673,The price was good.,['PRICE'],positive
+674,"I use a wireless mouse, but the touch pad and the ""red button"" in the middle that works like a little ""joystick"" also work fine.",['MOUSE'],positive
+675,I wish I had bought this sooner!,['GENERAL'],positive
+676,This is a great bargain.,['PRICE'],positive
+677,"Yes, it's running and old type processor so, hey, don't even try gaming on it.","['CPU', 'MISCELLANEOUS']",mixed
+678,"But, if you are just an average user, it works really great.",['MISCELLANEOUS'],positive
+679,"The screen is good, the whole things is very light and doesn't run hot.","['DISPLAY', 'DESIGN_FEATURES', 'QUALITY']",positive
+680,"I'm very happy with it, typing on it right now and it is fast enough for that!","['GENERAL', 'OPERATION_PERFORMANCE']",positive
+681,I like everything about this laptop.,['GENERAL'],positive
+682,It has no way of connecting to the internet save wifi but that's all I use anyway!,['CONNECTIVITY'],neutral
+683,I put that free app on for word processing and it works like a charm.,['SOFTWARE'],positive
+684,"I plugged it into my existing printers and it just worked, no fuss no muss.","['CONNECTIVITY', 'USABILITY']",positive
+685,It immediately recognized the printer and was ready to go.,"['CONNECTIVITY', 'USABILITY']",positive
+686,Excellent buy.,['GENERAL'],positive
+687,The worst computer I have ever laid my eyes upon.,['GENERAL'],negative
+688,"Firstly, it has no leds to let you know what is going on, no cap lock, no hard drive indicator, nothing.",['DESIGN_FEATURES'],negative
+689,"Ok, one light to let you know if the damn thing is on.",['DESIGN_FEATURES'],negative
+690,"The biggie though is the fact that it disconnects from the internet whenever if feels like it, even when the strength bar is filled.",['CONNECTIVITY'],negative
+691,"Also, when you try to download a large file, like a video, it will start out normally, downloading at around 600kb/sec and over the course of a couple of minutes will slow waaaaaay down to around 20kb/sec, making a download of a couple minutes into several hours making it worthless.","['CONNECTIVITY', 'OPERATION_PERFORMANCE', 'USABILITY']",negative
+692,Get a probook instead.,[],na
+693,Too often I would find it not being able to stay connected to the internet.,['CONNECTIVITY'],negative
+694,I was unable to download iTunes to it.,['USABILITY'],negative
+695,Dell support was awful to deal with.,['SUPPORT'],negative
+696,And the settings are simply annoying.,['MISCELLANEOUS'],negative
+697,Just not for me.,['GENERAL'],negative
+698,"The computer is as expected, and worth the money.","['GENERAL', 'PRICE']",positive
+699,The 8.1 windows is a major disappointment.,['OS'],negative
+700,Operating a non touch screen on this system is a royal pain!,['OS'],negative
+701,Was this computer refurbished?,[],na
+702,It came with no instruction book - no back up CD's and has already crashed.,"['MISCELLANEOUS', 'OPERATION_PERFORMANCE', 'QUALITY']",negative
+703,Help!,[],na
+704,Hands down one of my best and most used purchases thus far.,['GENERAL'],positive
+705,The Mid-2014 MacBook Pro does no disappoint...,['GENERAL'],positive
+706,"Retina screen, solid build quality, weight, fast processor and the reliability of the Apple brand.","['DISPLAY', 'QUALITY', 'DESIGN_FEATURES', 'CPU', 'COMPANY']",positive
+707,"Cons:Honestly zero con's ... as a Windows PC user the switch over was seamlessly,  I run Parallel when I need Windows.","['GENERAL', 'USABILITY']",positive
+708,All my devices work flawlessly.,['USABILITY'],positive
+709,"I'm an amature, so this does more than I can handle.",['GENERAL'],positive
+710,"I'm perfectly satisfied, just have to get use to the new 6.1 system I can't see a problem.","['GENERAL', 'OS']",mixed
+711,"I' doi9ng fine now, and happy as a bug.",['GENERAL'],positive
+712,"The price is great and it does everything I want to do,  Thanks.","['PRICE', 'GENERAL']",positive
+713,I bought this for my 9 year old for a birthday gift.,[],na
+714,It's perfect!,['GENERAL'],positive
+715,He uses to play mine craft and School work.,[],na
+716,It's great for what he uses it for.,['MISCELLANEOUS'],positive
+717,I am really not happy with this computer...,['GENERAL'],negative
+718,The keyboard is not as easy to use as my old Sony...,[],na
+719,I don't like WINDOWS 8 but that is no fault of the computer but the keyboard is so hard to get the keys to work and the space bar.,"['OS', 'KEYBOARD']",negative
+720,Would not buy it again.,['GENERAL'],negative
+721,Meh...but cheap.,"['GENERAL', 'PRICE']",mixed
+722,I bought this so that I could sit on the couch and surf internet with a larger screen than iPad was offering.,[],na
+723,The reviews at the time in late July 2014 were mostly positive and it was the best selling laptop with almost 4 star review...,[],na
+724,The first thing I can say for positive is that the laptop is very light- makes it really portable..this with a relatively clear screen is a bonus.,"['DESIGN_FEATURES', 'PORTABILITY', 'DISPLAY']",positive
+725,Now the graphics are not HD...and the reason that it is light is that it is really basic (medium low grade) plastic.,"['GRAPHICS', 'DESIGN_FEATURES', 'QUALITY']",mixed
+726,"So if you don't have kids, or not in high school or don't accidently sit on it, it should be fine.",['QUALITY'],negative
+727,Now the speed is disappointing.,['OPERATION_PERFORMANCE'],negative
+728,"Start up is fine  maybe 20 secs at most, but then to get pages to load on internet is molasses at times.",['OPERATION_PERFORMANCE'],negative
+729,Even for a 4GB RAM it barely chugs with 3 tabs open.,"['OPERATION_PERFORMANCE', 'MEMORY']",mixed
+730,"I tried all the Window updates (this worked for a couple of HP laptops I7in that I bought later at BB) to see if it could remove the drag, it did not.",[],na
+731,Really at this point I am trying to confirm if the RAM can be upgraded to see if I can do that to help.,[],na
+732,"Couple that with lack of inbuilt Bluetooth, dvd drive you are looking at a close tie (or even a loss) compared with the other laptops on sale in mid to late August 2014.",[],na
+733,The HP laptops 17in (with i3 core and AMD) I mentioned before from the other big electronic BB store smoked this one even before I updated windows and upped the RAM.,[],na
+734,But alas they were gifts...and what is a gift if not given?,[],na
+735,All in all I wish I had waited a bit.,['GENERAL'],negative
+736,But then again hindsight is 20/20.,[],na
+737,Bought a usb dvd rW drive but have not used it yet.,[],na
+738,This laptop is amazing!,['GENERAL'],positive
+739,Windows 8.1 has its pros and cons.,['OS'],neutral
+740,The keyboard is backlit but you have to press the F5 key to turn it on.,"['KEYBOARD', 'KEYBOARD']",mixed
+741,I was nervous at first that I purchased a lemon but the user manual explains how to turn on the keyboard  backlight.,['MISCELLANEOUS'],positive
+742,Of course this will decrease your battery life.,['MISCELLANEOUS'],neutral
+743,The sound is very nice and crisp.,['MULTIMEDIA_DEVICES'],positive
+744,"Also, I have no regrets about going with the 8GB RAM because its super fast.","['MEMORY', 'OPERATION_PERFORMANCE']",positive
+745,I'm still exploring the various features but overall I am satisfied with my purchase.,"['DESIGN_FEATURES', 'GENERAL']",mixed
+746,The HP Envy 15 has been everything I expected.,['GENERAL'],positive
+747,"After doing much research for a laptop that had all the features I was looking for, This one hit all the criteria I had.",['DESIGN_FEATURES'],positive
+748,Amazon had the best pricing and the delivery was on time.,[],na
+749,The laptop is very responsice with the Core i7 processor and 8GB of RAM and the sound out of the Beats audio is great.,"['OPERATION_PERFORMANCE', 'CPU', 'MEMORY', 'SOFTWARE']",positive
+750,I would highly recommend this product to anyone looking for a top performing laptop.,['OPERATION_PERFORMANCE'],positive
+751,used 6 times black screen returned for refund,"['DISPLAY', 'GENERAL', 'QUALITY']",negative
+752,do not use the facial recognition,['SOFTWARE'],negative
+753,Windows 8 is not supported by a lot of things!,['OS'],negative
+754,"Save your money and get an android: works better, more support",[],na
+755,"The Dell is quick enough, sturdy, not good with finger prints.","['OPERATION_PERFORMANCE', 'QUALITY', 'QUALITY']",mixed
+756,It does what it advertises.,['GENERAL'],positive
+757,"Price is great, wish it didn't have Windows 8, but that is an opinion.","['PRICE', 'OS']",mixed
+758,"I would recommend it, for anybody needing a reliable simple laptop.",['QUALITY'],positive
+759,"I bought this for my daughter to use for school and homework, it's not a ""fast"" computer, but it's great for what she needs it for and very light weight!","['OPERATION_PERFORMANCE', 'DESIGN_FEATURES', 'MISCELLANEOUS']",mixed
+760,Love the price too!,['PRICE'],positive

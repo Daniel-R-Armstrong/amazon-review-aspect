@@ -1,0 +1,1740 @@
+,text,categorys,polarity
+0,Being a PC user my whole life....,[],na
+1,This computer is absolutely AMAZING!!!,['GENERAL'],positive
+2,10 plus hours of battery...,['BATTERY'],positive
+3,super fast processor and really nice graphics card..,"['CPU', 'GRAPHICS']",positive
+4,and plenty of storage with 250 gb(though I will upgrade this and the ram..),['HARD_DISC'],positive
+5,This computer is really fast and I'm shocked as to how easy it is to get used to...,"['OPERATION_PERFORMANCE', 'USABILITY']",positive
+6,I've only had mine a day but I'm already used to it...,['USABILITY'],positive
+7,MACS ARE AMAZING!!!,[],na
+8,GET THIS COMPUTER FOR PORTABILITY AND FAST PROCESSING!!!,"['PORTABILITY', 'CPU']",positive
+9,the laptop was really good and it goes really fast just the way i thought it would of run.,"['GENERAL', 'OPERATION_PERFORMANCE']",positive
+10,i would really recommend to any person out there to get this laptop cause its really worth it.,['GENERAL'],positive
+11,and its really cheap and you wont regret buying it.,"['PRICE', 'GENERAL']",positive
+12,"As a lifelong Windows user, I was extremely pleased to make the change to Mac.",[],na
+13,"As a computer science student in college, I find that the portability, longevity, and ease of use of this computer make me (shockingly) want to do homework more;","['PORTABILITY', 'QUALITY', 'USABILITY']",positive
+14,"without a big ol' clunky machine in my backpack, I feel like I can do programming homework anywhere.","['DESIGN_FEATURES', 'PORTABILITY', 'MISCELLANEOUS']",positive
+15,I highly recommend this computer for students looking for a solid machine to get them through college.,"['MISCELLANEOUS', 'QUALITY']",positive
+16,"A great feature is the spotlight search: one can search for documents by simply typing a keyword, rather than parsing tens of file folders for a document.",['OS'],positive
+17,Oh my goodness-I am not a happy camper.,['GENERAL'],negative
+18,My HP is very heavy.,['DESIGN_FEATURES'],negative
+19,Not easy to carry.,['PORTABILITY'],negative
+20,The battery has never worked well.,"['BATTERY', 'BATTERY']",negative
+21,The battery gets so HOT it is scary.,['BATTERY'],negative
+22,"Yet, HP won't do anything about the problem.",['SUPPORT'],negative
+23,I returned the computer to HP and they kept it for 3 months.,['SUPPORT'],negative
+24,When I got the computer back and realizwed it still was not correct HP told me it was out of warranty and now it was my problem.,['SUPPORT'],negative
+25,"So, you can imagine how unhappy I am with this item.",['GENERAL'],negative
+26,Currently if I use the laptop I can't sit it on my lap because it will burn my legs.,['QUALITY'],negative
+27,I did contact HP and share how unhappy I am.,[],na
+28,"Well, they don't care a bunch.",['SUPPORT'],negative
+29,"But, at the same time they (the company) would not and could not do anything about my problem.",['SUPPORT'],negative
+30,I would  say if you want to buy one of these machines be careful.,['GENERAL'],negative
+31,"And, if you are going to deal with HP be careful.",['COMPANY'],negative
+32,"In my house, HP is a nasty word.",['COMPANY'],negative
+33,"Since I purchased my Toshiba netbook, I have been very pleased with it, I have a laptob and a desktop.",['GENERAL'],positive
+34,The netbook is easier for me to take to bed and carry around with me.,['PORTABILITY'],positive
+35,"The screen takes some getting use to, because it is smaller than the laptop.","['DISPLAY', 'DISPLAY']",neutral
+36,I have not have any problems.,['GENERAL'],positive
+37,"The Notebook PC,Toshiba Qosmio is the best gift my father could have ever gotten me.",['GENERAL'],positive
+38,He gave me this PC about 3 years ago and up to this point im still sitting here using it.,['QUALITY'],positive
+39,Its still going.,['QUALITY'],positive
+40,It is in the best condition and has a really high quality.,['QUALITY'],positive
+41,This is something i would deffinately reccomend to someone.,['GENERAL'],positive
+42,You will not regret buying such a great thing like this!,['GENERAL'],positive
+43,It can't get any better.,['GENERAL'],positive
+44,"Waited on getting this computer, but it has been a great change.",['GENERAL'],positive
+45,Ease of use is just one of the benefits I love about my Mac.,['USABILITY'],positive
+46,This laptop meets every expectation and Windows 7 is great!,"['GENERAL', 'OS']",positive
+47,"It's fast, it's easy easy easy to set up, easy to hook to my wireless network.","['OPERATION_PERFORMANCE', 'USABILITY', 'CONNECTIVITY']",positive
+48,It's even easy to hook up to other wireless networks.,['CONNECTIVITY'],positive
+49,The battery doesn't last long but I'm sure an upgrade battery would solve that problem.,['BATTERY'],neutral
+50,I don't use my laptop in a way though that needs a long battery life so it's perfect for me.,['BATTERY'],positive
+51,"Most everything is fine with this machine: speed, capacity, build.","['GENERAL', 'OPERATION_PERFORMANCE', 'HARD_DISC', 'QUALITY']",positive
+52,"The only thing I don't understand is that the resolution of the screen isn't high enough for some pages, such as Yahoo!Mail.",['DISPLAY'],negative
+53,"Yes, I have it on the highest available setting.",[],na
+54,I bought it for really cheap also and it's AMAZING.,"['PRICE', 'GENERAL']",positive
+55,Easy to start up and does not overheat as much as other laptops.,[],na
+56,Recommended to people as their first laptop.,['MISCELLANEOUS'],positive
+57,"Plain and simple, it(laptop) runs great and loads fast.",['OPERATION_PERFORMANCE'],positive
+58,"Easy to carry, can be taken anywhere, can be hooked up to printers,headsets.","['PORTABILITY', 'CONNECTIVITY']",positive
+59,Love that it doesn't take up space like a regular computer.,[],na
+60,I'm already hooked on the sleek look and dependability that this laptop has shown.,"['DESIGN_FEATURES', 'QUALITY']",positive
+61,"Being a PC user my whole life, it's taking a bit of time to adapt to the OS of a Mac but I'm finding my way around.",['OS'],neutral
+62,The unibody design is edgy and durable.,"['DESIGN_FEATURES', 'QUALITY']",positive
+63,The LED backlit display makes my pictures pop so much more.,['DISPLAY'],positive
+64,I'm learning the finger options for the mousepad that allow for quicker browsing of web pages.,"['MOUSE', 'USABILITY']",positive
+65,"Granted, it's still a very new laptop but in comparison to my previous laptops and desktops, my Mac boots up noticeably quicker.",[],na
+66,A key contributor that led me to Mac is the art aspect.,['DESIGN_FEATURES'],positive
+67,They have developed excellent proprietary software for editing video and pictures and I'm looking forward to utilizing these tools on the regular.,['SOFTWARE'],positive
+68,I'm excited to learn more about what this powerful machine has to offer and encourage others to do the same.,"['GENERAL', 'OPERATION_PERFORMANCE']",positive
+69,It's more expensive but well worth it in the long run.,"['PRICE', 'GENERAL']",mixed
+70,"Great product, very easy to use and great graphics.","['GENERAL', 'USABILITY', 'GRAPHICS']",positive
+71,"One drawback, I wish the keys were backlit.",['KEYBOARD'],negative
+72,"I'm glad I bought this laptop, it was worth the few ($100) extra dollars.","['GENERAL', 'PRICE']",mixed
+73,It had most of the features and all of the power that I wanted to replace my desktop machine.,"['DESIGN_FEATURES', 'OPERATION_PERFORMANCE']",positive
+74,I wasn't really as concerned about portability (it's a very large laptop) but it's not hard to move around or take on a trip which was a pleasant surprise.,"['DESIGN_FEATURES', 'PORTABILITY']",mixed
+75,I'm very happy with this machine!,['GENERAL'],positive
+76,"I love the size, keyboard, the functions.","['DESIGN_FEATURES', 'KEYBOARD', 'OPERATION_PERFORMANCE']",positive
+77,I don't really have a complaint.,['GENERAL'],positive
+78,"It is easy to use, good quality and good price.","['USABILITY', 'QUALITY', 'PRICE']",positive
+79,Perfect trifecta!,['GENERAL'],positive
+80,I would recommend this product.,['GENERAL'],positive
+81,The salesman talked us into this computer away from another we were looking at and we have had nothing but problems with software problems and just not happy with it.,"['SOFTWARE', 'GENERAL']",negative
+82,This is my first Dell I heard their customer service was lacking and that they were working on improving it!,['SUPPORT'],neutral
+83,I purchased this laptop 9 months ago!,[],na
+84,The DVD burner broke after burning 3 DVD'd during that time!,['OPTICAL_DRIVES'],negative
+85,They sent me a replacement part and without informing me are requiring that I return it within 15 days or contact them and let them know the broken part will be returned later.,['SUPPORT'],negative
+86,I am currently out of town and called to inform them the broken part would be returned when I got back in town.,[],na
+87,If this is an improvement in Customer Service then I would hate too see what it was before!,['SUPPORT'],negative
+88,I spoke to 4 different people and was told they needed to transfer me to a 5th person!,['SUPPORT'],negative
+89,Needless to say I told them No and have a nice day and hung up!,['SUPPORT'],negative
+90,I can guarantee this will be the last Dell I will ever purchase!,"['GENERAL', 'COMPANY']",negative
+91,Breaking within 1 year of purchase and speaking to 4+ people to report the damaged part will be returned late!,"['QUALITY', 'SUPPORT']",negative
+92,I do not recommend this company or their products!!!!,['COMPANY'],negative
+93,"So far, a great product.",['GENERAL'],positive
+94,"High price tag, however.",['PRICE'],negative
+95,Still trying to learn how to use it.,['USABILITY'],neutral
+96,it is the worst computer dell ever made.,['GENERAL'],negative
+97,it is hard to fix and makes it a hassle to own one.,"['QUALITY', 'GENERAL']",negative
+98,breaks easily.,['QUALITY'],negative
+99,only good thing is the graphics quality.,['GRAPHICS'],positive
+100,There are so many wonderful features and benefits to the new MacBook!,"['DESIGN_FEATURES', 'GENERAL']",positive
+101,The #1 reason that is always repeated.,[],na
+102,No Viruses!,['QUALITY'],positive
+103,This laptop is fast and you will literally learn all you can do with this dynamo by just watching the online tutorials.,"['OPERATION_PERFORMANCE', 'USABILITY']",positive
+104,I am loyal to Apple.,['COMPANY'],positive
+105,The Macbooks worth every penny.,[],na
+106,"They're easy, fun, powerful and will last a long time.",[],na
+107,"The great 18 month same as cash financing and Advance Protection Plan which includes accidents like spills ., which Apple doesn't offer, is why I bought my MacBook at Best Buy.",[],na
+108,I am very Happy!,['GENERAL'],positive
+109,This just keeps having it's hard drive replaced!,['HARD_DISC'],negative
+110,Acer won't replace the laptop.,['SUPPORT'],negative
+111,the manufacturer's warranty only covers replacement/repair of parts.,['WARRANTY'],negative
+112,This thing is a lemon.,['QUALITY'],negative
+113,This MacBook is an outstanding product with great value.,['GENERAL'],positive
+114,Its ease of use and the top service from Apple- be it their phone assistance or bellying up to the genius bar- cannot be beat.,"['USABILITY', 'SUPPORT']",positive
+115,"Suffice it to say, my MacBook Pro keeps me going with its long battery life and blazing speed.","['BATTERY', 'OPERATION_PERFORMANCE']",positive
+116,It does run a little warm but that is a negligible concern.,['QUALITY'],neutral
+117,I was so excited to receive the Toshiba L455 as a gift/bonus for some work I had done for a friend of mine!,[],na
+118,I have owned it only two months!,[],na
+119,I have had nothing but problems since the day I took it out of the box!,"['GENERAL', 'QUALITY']",negative
+120,My first problem was with the pre-loaded Norton Firewall/Security program.,['SOFTWARE'],negative
+121,It would not let me connect to my Wifi system where I lived.,['CONNECTIVITY'],negative
+122,It took Toshiba tech support 4 calls and 4 different techs to correct the problem.,['SUPPORT'],negative
+123,"Then just the other day, my left ""mouse"" button snapped!",['MOUSE'],negative
+124,"Being only 2 months old, I am not a happy camper!",['GENERAL'],negative
+125,Buyer Beware.,['GENERAL'],negative
+126,"this one, in my opinion, might be a lemon!",['QUALITY'],negative
+127,It rarely works and when it does it's incredibly slow.,"['QUALITY', 'OPERATION_PERFORMANCE']",negative
+128,I have had to take it to the geek squad guys to get it fixed because it has had viruses 3 times and i have not even had it for more then 4 months!,['QUALITY'],negative
+129,"*IF YOU ARE LOOKING FOR A GOOD LAPTOP, THIS IS NOT IT!",['GENERAL'],negative
+130,Like the price and operation.,"['PRICE', 'OPERATION_PERFORMANCE']",positive
+131,"Some features arent friendly ( volume wheel, sound quality, etc.","['USABILITY', 'MULTIMEDIA_DEVICES', 'MULTIMEDIA_DEVICES']",negative
+132,"But, for the cost this is a winner.","['GENERAL', 'PRICE']",positive
+133,I absolutely love my mac!,['GENERAL'],positive
+134,I can't imagine my life without it anymore!,['GENERAL'],positive
+135,It's perfect for everything and runs faster than an average pc!,[],na
+136,I've haven't had any major problems with the laptop except that the plastic piece that covers the usb port wires have all come off.,"['GENERAL', 'PORTS']",mixed
+137,Apparently they are defective since they are not securely attached.,['PORTS'],negative
+138,I can barely use any usb devices because they will not stay connected properly.,['CONNECTIVITY'],negative
+139,I called Toshiba and they want me to be without my laptop for about two weeks while they look at the problem.,['SUPPORT'],negative
+140,I think I might rather suffer for something that is simple to fix in my opinion.,['SUPPORT'],negative
+141,I bought this laptop Was the worst Laptop I've ever bought.,['GENERAL'],negative
+142,I spent alot of money on this product and its been a nightmare.,"['PRICE', 'GENERAL']",negative
+143,And having to deal with the company has been a even worse nightmare.,['SUPPORT'],negative
+144,I sent it to them to fix in perfect condition but for what was wrong with it.,[],na
+145,They sent it back with a huge crack in it and it still didn't work.,['SUPPORT'],negative
+146,And that was the fourth time ive sent it to them to get fixed.,['SUPPORT'],negative
+147,Its been a year and am still waiting to see what there going to do about my laptop.,['SUPPORT'],negative
+148,So if anyones looking to buy a computer or laptop you should stay far far away from any that have the name TOSHIBA on it...,['COMPANY'],negative
+149,I saved for this laptop for 3 months and I can tell you personally it was worth the wait.,['GENERAL'],positive
+150,"The display on this computer is the best I've seen in a very long time, the battery life is very long and very convienent.","['DISPLAY', 'BATTERY']",positive
+151,"A little pricey but it is well, well worth it.","['PRICE', 'GENERAL']",mixed
+152,I've been a PC user and I just finally switched and I am never going back.,[],na
+153,It is amazing.,['GENERAL'],positive
+154,In the first moth of owning this computer its hardrive failed which had to be replaced.,['HARD_DISC'],negative
+155,After replacing the hard drive the battery stopped working  (3 months of use) which was frustrating.,"['BATTERY', 'BATTERY']",negative
+156,Then after 4 or so months the charger stopped working so I was forced to go out and buy new hardware just to keep this computer running.,"['POWER_SUPPLY', 'POWER_SUPPLY', 'HARDWARE']",negative
+157,A tip for people looking into this computer: DO NOT BUY IT save up a bit more money and buy a computer that will last.,['QUALITY'],negative
+158,Has a 5-6 hour battery life.,['BATTERY'],positive
+159,Much faster than my old windows laptop that died on me.,[],na
+160,It is easy to use and lightweight.,"['USABILITY', 'DESIGN_FEATURES']",positive
+161,Was very much worth the price i paid.,"['GENERAL', 'PRICE']",positive
+162,This netbook went bad on me after 3 days.,['QUALITY'],negative
+163,There is a blank lighted screen when I start and that is all.,['DISPLAY'],negative
+164,I am also upset with CR for giving a good rating.,[],na
+165,I purchased this netbook after my original Toshiba laptop crashed right after the warranty expired.,[],na
+166,"Three weeks after I bought the netbook, the screen quit working.","['DISPLAY', 'DISPLAY']",negative
+167,I baby my electronics so I know for a fact it was defective and not anything that I did to it.,['DISPLAY'],negative
+168,"Overall I feel this netbook was poor quality, had poor performance, although it did have great battery life when it did work.","['QUALITY', 'OPERATION_PERFORMANCE', 'BATTERY']",mixed
+169,Took the netbook on a vacation trip and I was able to do whatever I wanted to do without lugging a much heavier laptop.,"['PORTABILITY', 'DESIGN_FEATURES', 'GENERAL']",positive
+170,To my mind much more usable than the toy called an IPad.,[],na
+171,The So called laptop Runs to Slow and I hate it!,"['OPERATION_PERFORMANCE', 'GENERAL']",negative
+172,Do not  buy it!,['GENERAL'],negative
+173,It is the worst laptop ever,['GENERAL'],negative
+174,"The image is great, and the soud is excelent.","['DISPLAY', 'MULTIMEDIA_DEVICES']",positive
+175,i love ths notebook.,['GENERAL'],positive
+176,I love the glass touchpad.,['MOUSE'],positive
+177,Easy learning curve.,['USABILITY'],positive
+178,Also the display is exceptional!,['DISPLAY'],positive
+179,I have loved this since i took it out of the box.,['GENERAL'],positive
+180,The battery is really long.,['BATTERY'],positive
+181,"the features are great, the only thing it needs is better speakers.","['DESIGN_FEATURES', 'MULTIMEDIA_DEVICES']",mixed
+182,Small and light weight.,['DESIGN_FEATURES'],positive
+183,Speakers too small to be of any real use.,"['MULTIMEDIA_DEVICES', 'MULTIMEDIA_DEVICES']",negative
+184,Keyboard good sized and wasy to use.,"['KEYBOARD', 'KEYBOARD']",positive
+185,I like it!,['GENERAL'],positive
+186,Meets my needs perfectly and is light enough for this senior to carry without affecting my arthritis.,"['GENERAL', 'DESIGN_FEATURES', 'PORTABILITY']",positive
+187,"Needless to say, not to happy with the product.",['GENERAL'],negative
+188,This is a great machine!,['GENERAL'],positive
+189,"The design is awesome, quality is unprecedented.","['DESIGN_FEATURES', 'QUALITY']",positive
+190,"Apparently well-built and gorgeous to look at, the i5 MacBook Pro is a winning combination of price and performance.","['QUALITY', 'DESIGN_FEATURES', 'PRICE', 'OPERATION_PERFORMANCE']",positive
+191,It is by far one of the greatest investments I have ever made.,['GENERAL'],positive
+192,Consumer Report recommended Toshiba.,[],na
+193,"Am very glad I bought it, great netbook, low price.","['GENERAL', 'PRICE']",positive
+194,Very good quality and well made.,['QUALITY'],positive
+195,Great pick for portability and affordability.,"['PORTABILITY', 'PRICE']",positive
+196,The black model also has a very nice seamless appearance - one of the better looking notebooks I've seen.,['DESIGN_FEATURES'],positive
+197,The only problem is a lack of screen resolutions!,['DISPLAY'],negative
+198,"If you need an affordable, entry-level laptop, this will fit the bill.","['PRICE', 'MISCELLANEOUS']",positive
+199,"I dislike the weight and size, cubersome.","['PORTABILITY', 'DESIGN_FEATURES']",negative
+200,I dislike the quality and the placement of the speakers.,"['MULTIMEDIA_DEVICES', 'MULTIMEDIA_DEVICES']",negative
+201,"Overall, it's ok.",['GENERAL'],neutral
+202,"Laptop is advertised as a 15"" but the casing looks like that of a 17"".",['DESIGN_FEATURES'],negative
+203,This laptop is very large and barely fits in any carrying cases.,"['DESIGN_FEATURES', 'PORTABILITY']",negative
+204,Peformance is good for the price.,"['OPERATION_PERFORMANCE', 'PRICE']",mixed
+205,"If you're not wanting to be mobile, this is a good laptop to sit on a desk.","['PORTABILITY', 'GENERAL']",mixed
+206,Had to have this computer repaired twice in the first 5 months after purchasing it.,['QUALITY'],negative
+207,Not good for a person who gets online daily.,['MISCELLANEOUS'],negative
+208,May be better for the occasional web surfer.,['MISCELLANEOUS'],neutral
+209,"I just got this laptop for college, and so far I am very happy with it.",['GENERAL'],positive
+210,I really wanted a Mac over a pc because I used a Mac in high school.,[],na
+211,It is so much easier to use,['USABILITY'],positive
+212,"Good keyboard, long battery life, largest hard drive and windows 7.","['KEYBOARD', 'BATTERY', 'HARD_DISC', 'OS']",mixed
+213,And Toshiba is a quality supplier.,['SUPPORT'],positive
+214,I love this little one.,['GENERAL'],positive
+215,The keyboard has a wonderful nature feel.,['KEYBOARD'],positive
+216,I like it better than my big Dell Laptop.,[],na
+217,Seriously considering a larger laptop to replace the Dell,[],na
+218,great battery life.,['BATTERY'],positive
+219,Keyboard is reasonable size.,['KEYBOARD'],positive
+220,Small screen somewhat limiting but great for travel.,"['DISPLAY', 'PORTABILITY']",mixed
+221,Charger seems large for this class of computer.,['POWER_SUPPLY'],negative
+222,"Great Laptop for the price, works well with action pack games.","['GENERAL', 'PRICE', 'MISCELLANEOUS']",mixed
+223,"The only thing that I have, is the key broad is a little dark to see the letters, would help if it was a little lighter then it is.","['KEYBOARD', 'KEYBOARD']",negative
+224,but other then that I would give this product a 4 in hafe stars.,['GENERAL'],positive
+225,Good for every day computing and web browsing.,['MISCELLANEOUS'],positive
+226,A great computer for light home use and business use.,['MISCELLANEOUS'],positive
+227,Might not make the avid gamer happy but I don't really think that is what this computer is designed for.,['MISCELLANEOUS'],neutral
+228,"Crisp screen, great battery life, and plenty of storage.","['DISPLAY', 'BATTERY', 'HARD_DISC']",positive
+229,Very happy.,['GENERAL'],positive
+230,"My son and his family have a hard time financially because he is self-employed so the family had no computer of any kind, and kyle the oldest child is 12 and really need something to help him in school.",[],na
+231,so we got a good deal on hsn for an ascer notebook and we bought it for him.,[],na
+232,He loves it and it is easy to use and well the schools start teaching the kids early about computers so it was easy for him to get started.,"['GENERAL', 'USABILITY']",positive
+233,now he mows yards so he can earn the money for the wireless internet.,[],na
+234,I would recomend this acer to parents and grandparents it can really help them in school.,['MISCELLANEOUS'],positive
+235,MY ONLY PROBLEM IS I CAN NOT REG. THE PRODUCT KEY.,['MISCELLANEOUS'],negative
+236,"IT WANT TAKE IT, IT KEEP SAYING ERROR.",['MISCELLANEOUS'],negative
+237,"HELP, HELP, OTHER THAN THAT GETS A GREAT LITTLE WONDER.",['GENERAL'],positive
+238,It's fast and has excellent battery life.,"['OPERATION_PERFORMANCE', 'BATTERY']",positive
+239,The screen shows great colors.,['DISPLAY'],positive
+240,I was surprised with the performance and quality of this HP Laptop.,"['OPERATION_PERFORMANCE', 'QUALITY']",positive
+241,the speed is fine.,['OPERATION_PERFORMANCE'],positive
+242,Laptop is to be used like a Netbook.,[],na
+243,"But with A WAY Bigger Screen, and IS able to connect to an HDMI.","['DISPLAY', 'CONNECTIVITY']",positive
+244,Love it.,['GENERAL'],positive
+245,"I would recommend this computer to anyone searching for the perfect laptop, and the battery life is amazing.","['GENERAL', 'BATTERY']",positive
+246,I BOUGHT THIS LAP TOP AND THE CHARGE TIME DOSEN'T LAST AS LONG AS THEY SAY IT WILL MORE LIKE 2 HOURS,['BATTERY'],negative
+247,This computer is the ideal college companion.,['MISCELLANEOUS'],positive
+248,It's software and speed enable it to do amazing things.,"['OPERATION_PERFORMANCE', 'SOFTWARE']",positive
+249,I am not happy at all with the product I purchased.,['GENERAL'],negative
+250,"A cheaper price should not equal a ""cheap"" product.","['PRICE', 'QUALITY']",mixed
+251,It was over rated!,['GENERAL'],negative
+252,The Toshiba laptop was a great purchase.,['GENERAL'],positive
+253,"The price was very good, and the product is top quality.","['PRICE', 'QUALITY']",positive
+254,"The delivery was fast, and I would not hesitate to purchase this laptop again.","['SHIPPING', 'GENERAL']",positive
+255,"This is my second laptop,and it is head and shoulders above my first.",[],na
+256,It has easy to use features and all the speed and power I could ask for.,"['USABILITY', 'OPERATION_PERFORMANCE']",positive
+257,True quality at a great price!,"['QUALITY', 'PRICE']",positive
+258,I have used a computer at work but having your own personal laptop is AWSOME!,[],na
+259,I am enjoying it and the quality it provides is great!,"['GENERAL', 'QUALITY']",positive
+260,"Toshiba is a great brand, even though I haven't had it for a long time, I am very happy with it!","['COMPANY', 'GENERAL']",positive
+261,"This is the first laptop I've owned, althougth I used several at my previous job.",[],na
+262,"The screen graphics and clarity, and sharpness are great.",['DISPLAY'],positive
+263,I've already recommended this laptop to a friend who eye'd the computer when I took it out of my bag.,['GENERAL'],positive
+264,I like the laptop overall.,['GENERAL'],positive
+265,The only thing i can say is that the touch pad doesnt work like it should all the time.,['MOUSE'],negative
+266,Sometimes you really have to tap the pad to get it to work,"['MOUSE', 'MOUSE']",negative
+267,This is a great little computer for the price.,"['GENERAL', 'PRICE']",mixed
+268,"Simple to use, and great graphics.","['USABILITY', 'GRAPHICS']",positive
+269,It has everything I would need for a home computer.,['MISCELLANEOUS'],positive
+270,I'm very impressed.,['GENERAL'],positive
+271,It was secure and easy to navigate.,"['QUALITY', 'USABILITY']",positive
+272,It is everything that I would want in a computer.,['GENERAL'],positive
+273,"Besides the great look, it is a great machine.","['DESIGN_FEATURES', 'GENERAL']",positive
+274,I would definitely not go back to using a PC after using the mac.,[],na
+275,Once again apple stands alone at the top of the charts.,['COMPANY'],positive
+276,"I enjoy very much my new Toshiba, purchased specifially for attending online schooling.",['GENERAL'],positive
+277,"I have found it very easy to use, very imformative, wonder alerts and tutorials making it very easy for someone like me who is not exactly technologically advanced to learn to use the various features and programs.",['USABILITY'],positive
+278,"I have found also, it is very easy to be able to access wireless internet access; without having to have extra equipment and/or complicated routes to take to be able to do so.",['CONNECTIVITY'],positive
+279,"I also love the small, convenient size of my laptop, making it a perfect tool for my academic studies.","['DESIGN_FEATURES', 'USABILITY', 'MISCELLANEOUS']",positive
+280,I am very pleased with my purchase!,['GENERAL'],positive
+281,This laptop serves all my needs.,['GENERAL'],positive
+282,Screen size is perfect for portable use in any environment.,"['DISPLAY', 'PORTABILITY']",positive
+283,Price and purpose is awesome!,"['PRICE', 'MISCELLANEOUS']",positive
+284,I have been very pleased with the performance of this laptop.,['OPERATION_PERFORMANCE'],positive
+285,"The battery life seems to be very good, and have had no issues with it.",['BATTERY'],positive
+286,Great product.,['GENERAL'],positive
+287,The laptop was very easy to set up.,['USABILITY'],positive
+288,I did not have to call the support line at all.,[],na
+289,Everything was so easy.,['USABILITY'],positive
+290,I purchased two laptops (for my husband and 16 year old daughter).,[],na
+291,"My husband uses it mostly for games, email and music.",[],na
+292,"My daughter uses it for games, email, facebook, pictures and music.",[],na
+293,They were able to set-up with labtops themselves within a few minutes.,['USABILITY'],positive
+294,It works fine with our wireless and they've had not problems.,"['CONNECTIVITY', 'GENERAL']",positive
+295,It's a great product for a great price!,"['GENERAL', 'PRICE']",positive
+296,"Waited on getting this computer, but it has been a great change.",['GENERAL'],positive
+297,Ease of use is just one of the benefits I love about my Mac.,['USABILITY'],positive
+298,Purchased as a gift for a friend.,[],na
+299,The service I received from Toshiba went above and beyond the call of duty.,['SUPPORT'],positive
+300,"My friend reports the notebook is astonishing in performance, picture quality, and ease of use.","['OPERATION_PERFORMANCE', 'DISPLAY', 'USABILITY']",positive
+301,It is extremely portable and easily connects to WIFI at the library and elsewhere.,"['PORTABILITY', 'CONNECTIVITY']",positive
+302,Just what the doctor ordered.,['GENERAL'],positive
+303,2nd Mac book I have purchased from MacConnection.,[],na
+304,I cannot be happier with the service or product.,"['SUPPORT', 'GENERAL']",positive
+305,power supply went bad after 2 weeks --,['POWER_SUPPLY'],negative
+306,after much effort and 10 days ASUS replaced it,['SUPPORT'],negative
+307,The WiFi is very weak.,['CONNECTIVITY'],negative
+308,"I have other computers that get strong signals that don't drop in places that this ""net""book loses its signal.",[],na
+309,Summary: Spend your money elsewhere,['GENERAL'],negative
+310,This is a nicely sized laptop with lots of processing power and long battery life.,"['DESIGN_FEATURES', 'CPU', 'BATTERY']",positive
+311,Love it so far.,['GENERAL'],positive
+312,The Toshiba Net book operates very well.,['OPERATION_PERFORMANCE'],positive
+313,The only objection I have is that after you buy it the windows 7 system is a starter and charges for the upgrade.,['OS'],negative
+314,"I bought this netbook for traveling, and it's great - light, functional, and meets my needs.","['GENERAL', 'DESIGN_FEATURES', 'PORTABILITY', 'OPERATION_PERFORMANCE']",positive
+315,"The touchpad is extremely sensitive, which is the only drawback.","['MOUSE', 'GENERAL']",mixed
+316,"Otherwise, I love it!",['GENERAL'],positive
+317,I shopped around before buying.,[],na
+318,I wasn't really sure I wanted to spend that kind of money!,['PRICE'],negative
+319,It Was a great deal after all.,"['GENERAL', 'PRICE']",positive
+320,I LOVE it!,['GENERAL'],positive
+321,I should have bought one a long time ago.,['GENERAL'],positive
+322,Not enough time for me to give it 5 stars!,['GENERAL'],neutral
+323,"I've had the MacBook Pro 15 for about three weeks, and it really is a great computer.",['GENERAL'],positive
+324,I have only had PCs with Windows before so this takes a little getting use to.,['OS'],neutral
+325,The real stand out on this computer is the feel of the keyboard and it's speed.,"['KEYBOARD', 'OPERATION_PERFORMANCE']",positive
+326,"It is fast booting up , shutting down, and connection with the internet.","['OPERATION_PERFORMANCE', 'CONNECTIVITY']",positive
+327,The one thing I wish it had was a detailed hardcopy manuel.,['MISCELLANEOUS'],negative
+328,"I think the manual is somewhere on the hard drive, but I rather have a hard copy.",['MISCELLANEOUS'],neutral
+329,"If what you need is a machine to do some surfing, email checking, word processing, and watching a movie or two, this is the machine you want.",['MISCELLANEOUS'],positive
+330,It's priced very reasonable and works very well right out of the box.,"['PRICE', 'OPERATION_PERFORMANCE']",positive
+331,"If you want a little more custom ability, drop a few bucks and upgrade to one of the more robust versions of Win 7 and grab a 2GB stick of memory to spice it all up a bit more.",[],na
+332,(I found a 2GB stick for a bit under $50),[],na
+333,"Nice and portable and definitely a decent enough system to keep you entertained while sitting in the airplane for a couple of hours, or at the hotel taking care of some last minute details and documents.","['GENERAL', 'PORTABILITY', 'MISCELLANEOUS']",positive
+334,My ONLY issues are:,[],na
+335,the screen/video resolution won't increase to a higher resolution then 1024 x 60,['DISPLAY'],negative
+336,"That being said, it still runs video in full screen decently.",['DISPLAY'],neutral
+337,"The sound is a bit quiet if you're on a plane, this can easily be overcome with a decent pair of head phones.",['MULTIMEDIA_DEVICES'],neutral
+338,"Bottom line, I doubt you'd be overly disappointed if you invest in this machine.",['GENERAL'],positive
+339,"Okay, let's just start out by saying I am in no way a computer techy.",[],na
+340,"I am a wife, mom and a school teacher and a college student.",[],na
+341,"Trying to balance all of my roles leaves very little time for me to do anything, so I want to manage my time I do have to be the most efficient.",[],na
+342,I work on a PC at home and have used Pc all through college.,[],na
+343,"I use the computer to basically check emails, surf the web, print coupons and for my college papers.",[],na
+344,I was getting extrememly frustrated when I would want to do these simple taks that I would have to wait and wait and wait for things to download or virus that would clog up my PC.,[],na
+345,It would take up too much time to do reaearch for my papers and I would be up hours-just because the computer was too slow.,[],na
+346,My brother is a computer wiz and would laugh at me because he used an Apple.,[],na
+347,"Finally, I couldn't take it anymore and ordered my Apple.",[],na
+348,"Yes, I thought the expese was a little much, but I now realize you get what you pay for.","['PRICE', 'GENERAL']",mixed
+349,"I love my Apple, it is quick and easy to use.","['GENERAL', 'OPERATION_PERFORMANCE', 'USABILITY']",positive
+350,"I've had to call Apple support to set up my new printer and have had wonderful experiences with helpful, english speaking (from Vancouver) techs that walked me through the processes to help me.",['SUPPORT'],positive
+351,I can't say enough of how satisfied I am with their product and help aftermarket.,"['GENERAL', 'SUPPORT']",positive
+352,Money and time well spent!,"['GENERAL', 'PRICE']",positive
+353,Highly recommended!,['GENERAL'],positive
+354,I was looking for a mac which is portable and has all the features that I was looking for.,[],na
+355,"The 13"" Macbook Pro just fits in my budget and with free shipping and no tax to CA this is the best price we can get for a great product.","['PRICE', 'SHIPPING', 'GENERAL']",positive
+356,"The Macbook arrived in a nice twin packing and sealed in the box, all the functions works great.","['MISCELLANEOUS', 'OPERATION_PERFORMANCE']",positive
+357,I would recommend anyone to buy from pcconnection express.,[],na
+358,Speakers doesn't sound that great.,['MULTIMEDIA_DEVICES'],negative
+359,The battery life also doesn't keep up with the claim but still I think macbook is much ahead from the rest of the pack.,[],na
+360,This was an update from an early MacBook Pro.,[],na
+361,"Love the speed, especially!",['OPERATION_PERFORMANCE'],positive
+362,So glad I decided to upgrade!,['GENERAL'],positive
+363,"Thanks, MacConnection, for making this a seamless purchase!",[],na
+364,"I've owned this labtop for less then two months, already the mouse button has broke.",['MOUSE'],negative
+365,"Still under warrenty so called Toshiba, no help at all.",['SUPPORT'],negative
+366,I'm stuck w/ a broken computer.,['QUALITY'],negative
+367,"Will not buy another Toshiba, this is my second, not happy w/ either.","['GENERAL', 'COMPANY']",negative
+368,This is my 3rd Apple Laptop and first MacBook Pro.,[],na
+369,"I love its solid build, light wt and excellent battery life (for now).","['QUALITY', 'DESIGN_FEATURES', 'BATTERY']",positive
+370,Excellent LED monitor and well equipped.,"['DISPLAY', 'DESIGN_FEATURES']",positive
+371,I love the Apple products.,['COMPANY'],positive
+372,"The Toshiba Mini Notebook, Model NB 305-N410BL, is a great little computer.",['GENERAL'],positive
+373,"It is easy to use, its keyboard easily accommodates large hands, and its weight is fantasic.","['KEYBOARD', 'KEYBOARD', 'DESIGN_FEATURES', 'USABILITY']",positive
+374,"Upgrading from Windows 7 Starter, thru Windows 7 Home Premium, to Windows 7 Professional was a snap;",['USABILITY'],positive
+375,both upgrades were quickly accomplished after purchasing the necessary Product Key.,['USABILITY'],positive
+376,"Other installed features, such as certain printer software, are also most attractive.",['DESIGN_FEATURES'],positive
+377,"Ever since I bought this laptop, so far I've experience nothing but constant break downs of the laptop and bad customer services I received over the phone with toshiba customer services hotlines.","['QUALITY', 'SUPPORT']",negative
+378,I constantly had to send my laptop in for services every 3 months and it always seems to be the same problem that they said they had already fixed.,"['QUALITY', 'SUPPORT']",negative
+379,"Toshiba customer services will indirectly deal with your problems by constantly tranferring you from one country to another, and I am not kidding you, I called different hours of the day and you'll get someone else from another country trying to get you to tell them your life story all over again, since they make it sound like they don't have your history list of your calls right in front of them.",['SUPPORT'],negative
+380,It's a long and tirring process that after a while it seems like their game plan was to wear you out so you would want to give up on contacting them.,['SUPPORT'],negative
+381,"And at one point, they blame me for installing a bad memory stick when I upgrade my memory for the first time during my purchase of the laptop (I bought the memory stick they recomended).",['SUPPORT'],negative
+382,"Long story short, since I experience so many problems with my laptop every since I bought it from day one, I didn't ask for a new laptop or a refund of what I pay for a crapy laptop, but just an extension of my laptop warranty for another year, they made a big deal of out that and after so many calls and complaints about their products and services, they finally gave in.","['QUALITY', 'SUPPORT']",negative
+383,Was this product worth my time and money to ever want to purchase another products that is toshiba or relating to toshiba?,"['GENERAL', 'COMPANY']",negative
+384,Probably not ever again.,[],na
+385,I'll rather be out of date then spend more money on toshiba.,['COMPANY'],negative
+386,Remember to do your research first before consider buying a toshiba product.,['COMPANY'],negative
+387,All I can say is W-O-W.,['GENERAL'],positive
+388,This laptop is insane!!!,['GENERAL'],positive
+389,It's so nice to look at and the keys are easy to type with.,"['DESIGN_FEATURES', 'KEYBOARD']",positive
+390,I bought a protector for my key pad and it works great :),['KEYBOARD'],positive
+391,This is definitely a computer worth the money;,"['GENERAL', 'PRICE']",positive
+392,The mouse is a little bit different than what you're used to though- it has one big flat panel and one full bar (instead of two separate ones) to click with- but you get used to it quite quickly.,"['MOUSE', 'MOUSE']",neutral
+393,"AND the best part is that it even comes with a free printer (when they have a certain promotion/offer going, of course)!",['MISCELLANEOUS'],positive
+394,"Overall, this laptop is definitely a keeper with its simple yet stylish design and its array of fantastic colors to choose from.","['GENERAL', 'DESIGN_FEATURES']",positive
+395,The Apple team also assists you very nicely when choosing which computer is right for you :),['SUPPORT'],positive
+396,"Obviously, this Macbook is P-E-R-F-E-C-T for me because it does exactly what I need in an easy-to-function way.","['GENERAL', 'USABILITY']",positive
+397,DEFINITELY recommended!!!,['GENERAL'],positive
+398,"Not a bad laptop, it's a bit slow, but gets the job done.","['GENERAL', 'OPERATION_PERFORMANCE']",mixed
+399,The lcd screen stopped working on mine after 10 months.,"['DISPLAY', 'DISPLAY']",negative
+400,I could not find a phone number anywhere to call an actual live person for tech support and had to result the their online chat.,['SUPPORT'],negative
+401,"upon giving them the serial number the first thing I was told, was that it was out of warranty and I could pay to have it repaired even though I had the receipt in front of me proving it still had 2 months left on the warranty.",['SUPPORT'],negative
+402,even though I had the receipt in front of me proving it still had 2 months left on the warranty.,['SUPPORT'],negative
+403,Dealing with the support drone on the other end of the chat was sheer torture.,['SUPPORT'],negative
+404,English must have been his third or fourth language.,['SUPPORT'],negative
+405,"His language was so bad I swore I was taking the turing test, and it was failing.",['SUPPORT'],negative
+406,after trying to get some help he disconnected on me.,['SUPPORT'],negative
+407,After that I turned to email in my next vain help to get them to acknowledge that the warranty was still valid.,[],na
+408,"After 4 days, being denied 6 times and told off once, I managed to get through and was able to send them a scanned copy of the receipt.",['SUPPORT'],negative
+409,After that the said it was under warranty.,[],na
+410,Then they had me jump through many hoops and questions to see if they could find another way to invalidate me.,['SUPPORT'],negative
+411,"After they found no other way, they told me to courier it to them(since they don't allow the use of the post office) at my expense, and sent me a 4 page list of very specific packaging instructions to follow or it wouldn't be covered.",['SUPPORT'],negative
+412,I managed to comply with these too and now have to wait and see if they can find another way to screw me.,['SUPPORT'],negative
+413,They really do have the worlds very worst repair service.,['SUPPORT'],negative
+414,"This computer gets very hot, before shutting down.",['QUALITY'],negative
+415,It is not ideal for children because of the temp.,"['QUALITY', 'MISCELLANEOUS']",negative
+416,"I Contacted HP  about this situation and was given excuses, without results.",['SUPPORT'],negative
+417,They didn't even try to assist me or even offer a replacement.,['SUPPORT'],negative
+418,I will never purchase a HP again ever.,['COMPANY'],negative
+419,"Let's just get this out of the way, I love Apple!",['COMPANY'],positive
+420,So this review might be a tad bit bias.,[],na
+421,But the Macbook is the best!,['GENERAL'],positive
+422,It is super easy to use.,['USABILITY'],positive
+423,All you have to do is turn it on and it works.,"['USABILITY', 'OPERATION_PERFORMANCE']",positive
+424,"It is very durable, I am pretty rough when it comes to electronics and it has taken it all with no reprecutions yet.",['QUALITY'],positive
+425,"I don't do any high tech stuff on it, just write papers, check mail, and sometimes play games, so I can't reccomend it if you are in the computer field.",['MISCELLANEOUS'],neutral
+426,But if you are in the computer field you probably wouldn't be here.:),[],na
+427,In the past four years I've had it I have never once gotten a virus.,['QUALITY'],positive
+428,"I did have to replace the battery once, but that was only a couple months ago and it's been working perfect ever since.","['BATTERY', 'BATTERY']",mixed
+429,"I would definitely reccomend this if you are in the market for an easy to use, stylish, fun, awesome computer.","['USABILITY', 'DESIGN_FEATURES', 'GENERAL']",positive
+430,"Also it is very good for college students who just need a reliable, easy to use computer.","['MISCELLANEOUS', 'QUALITY', 'USABILITY']",positive
+431,Hope this helped!,[],na
+432,"No laptop is perfect, but sometimes you just find a computer that works for you.",[],na
+433,This laptop does everything I need it to very well.,['GENERAL'],positive
+434,I bought this laptop so that the entire family had a computer in the living room;,[],na
+435,the two of us use it regularly.,[],na
+436,I wanted something that had a new Intel Core processors and HDMI port so that we could hook it up directly to our TV.,[],na
+437,The best thing about this laptop is the price along with some of the newer features.,"['PRICE', 'DESIGN_FEATURES']",positive
+438,The screen is bright and the keyboard is nice;,"['DISPLAY', 'KEYBOARD']",positive
+439,I find myself using the 10-key more than I thought I would.,"['KEYBOARD', 'KEYBOARD']",positive
+440,Battery is lasting about 6 hours as I am surfing the web on Sundays while checking football scores and watching funny Youtube videos.,['BATTERY'],neutral
+441,For those that care about noise this thing doesn't really make any;,['QUALITY'],positive
+442,the i3 processor doesn't seem to run hot and the fan rarely turns on.,['CPU'],positive
+443,I took off a star because the machine has a lot of junk software on it.,"['DESIGN_FEATURES', 'SOFTWARE']",negative
+444,I wish Toshiba would allow their customers to select an option that only boots the OS at setup and removes all the unnecessary stuff.,['DESIGN_FEATURES'],negative
+445,Once I removed all the software the laptop loads in 15-20 seconds.,"['SOFTWARE', 'OPERATION_PERFORMANCE']",mixed
+446,This is not a serious gaming laptop or a serious media machine;,['MISCELLANEOUS'],negative
+447,my niece and nephew have played a few web games and it runs anything that doesn't require a dedicated video card.,"['MISCELLANEOUS', 'GRAPHICS']",neutral
+448,Overall I am very satisfied with the purchase.,['GENERAL'],positive
+449,I looked around and based off my price/features comparison from a brand I trusted I landed here.,[],na
+450,"Great, quick laptop for the money.","['GENERAL', 'PRICE', 'OPERATION_PERFORMANCE']",mixed
+451,Right size and weight for portability.,"['DESIGN_FEATURES', 'PORTABILITY']",positive
+452,Battery life needs more life.,['BATTERY'],negative
+453,Battery is not upgradable to a longer life battery.,['USABILITY'],negative
+454,Both my husband and I have this model Toshiba.,[],na
+455,I love everything about it.,['GENERAL'],positive
+456,The only downfall is the battery only last 1.5-2.0 hrs when not plugged in.,['BATTERY'],negative
+457,I would like at least a 4 hr. battery life.,['BATTERY'],negative
+458,"Otherwise, all other features are a 1",['DESIGN_FEATURES'],positive
+459,This mac is great!,['GENERAL'],positive
+460,"lightweight, long battery life, excellent transition from PC;","['DESIGN_FEATURES', 'BATTERY', 'MISCELLANEOUS']",positive
+461,THIS HAS BEEN NOTHING BUT A HEADACHE SINCE WE PURCHASED IT.,['QUALITY'],negative
+462,"I will NEVER buy (Refurbished) again, I don't cae how cheap it is.",['MISCELLANEOUS'],negative
+463,I'll wait and save up for a new one.,[],na
+464,Just don't waste your time and money on this.,['GENERAL'],negative
+465,"I tried giving it 0 stars but I had to choose at least one, but IMO NO STARS",['GENERAL'],negative
+466,Summary: Dont buy HP.,['COMPANY'],negative
+467,"If you buy, pray you dont have major prolems.",['COMPANY'],negative
+468,Runs Hot,['QUALITY'],negative
+469,I thought we were paying for quality in our decision to buy an Apple product.,"['COMPANY', 'QUALITY']",negative
+470,"Unfortunately, that is not the case.",[],na
+471,"After a little more than a year of owning my MacBook Pro, the monitor has completely died.",['DISPLAY'],negative
+472,"Because we did not purchase the extended warranty in time, we are on the hook for the repair.",[],na
+473,The Genius at the Apple store advised me that there was nothing about my use of the computer that caused this failure.,[],na
+474,"In fact, he said, about 10% of their products fail.",[],na
+475,Hmmm - that high failure rate sure isn't reflected in the retail price.,[],na
+476,"This purchase opened me to the world of Macbooks, and I am impressed with the intuition of the design, the beauty of the product, and the excellent technological advances associated with it.",['DESIGN_FEATURES'],positive
+477,This is the third MacBook Pro in our family.,[],na
+478,I bought my first MacBook after seeing the product demonstrated.,[],na
+479,Then 2 of my nephews were going into music and both fell in love with the MacBook Pro.,['GENERAL'],positive
+480,Now they are believers in the product.,['GENERAL'],positive
+481,"It is easy to use, has great screen quality, and every so light weight.","['USABILITY', 'DISPLAY', 'DESIGN_FEATURES']",positive
+482,I own other Macs but always find myself navigation to the MacBook Pro to get my work done.,[],na
+483,This little netboook is helping me get work done!,['GENERAL'],positive
+484,I can do pretty much 75% of what I do on my desktop on my kitchen table.,[],na
+485,I homeschool my kids and with this netbook next to my desk we get to teaching and illustrating without skipping a beat.,['MISCELLANEOUS'],positive
+486,I am first time Mac Buyer and am amazed at features and ease of use the Mac offers.,"['DESIGN_FEATURES', 'USABILITY']",positive
+487,"I bought it for my mom and she reports that the battery life lasts all day for her, it's very lightweight, and the response for the computing she's doing (Internet focused activity: mail, research, etc.) is excellent;","['BATTERY', 'DESIGN_FEATURES', 'OPERATION_PERFORMANCE', 'MISCELLANEOUS']",positive
+488,she can't tell the difference between it and her regular desktop system.,[],na
+489,The overall build quality of the unit is excellent and she'd recommend it to anyone else looking for a netbook.,"['QUALITY', 'GENERAL']",positive
+490,"If you're looking for something to fly through those massive spreadsheets or play a graphics-intensive game, you'd be better off getting a machine aimed at that segment of the market.",['MISCELLANEOUS'],neutral
+491,"previous laptops were pc's, still have them, but the mac osx is a clean and smooth operating system.","['OS', 'OS']",positive
+492,"still testing the battery life as i thought it would be better, but am very happy with the upgrade.","['BATTERY', 'GENERAL']",mixed
+493,"Probably as good as you can get in a netbook, does everything I ask for and has some very good unexpected pluses.","['GENERAL', 'DESIGN_FEATURES']",positive
+494,Has met or exceeded my needs for a compact travel device.,"['PORTABILITY', 'USABILITY']",positive
+495,"So far, so good!",['GENERAL'],positive
+496,I've been impressed with the battery life and the performance for such a small amount of memory.,"['BATTERY', 'OPERATION_PERFORMANCE', 'MEMORY']",mixed
+497,I don't understand why only Windows 7 Starter is included.,['DESIGN_FEATURES'],negative
+498,Strong performance in this device makes use of fun and a strong sense of the era of speed,['OPERATION_PERFORMANCE'],positive
+499,This device serves all modern requirements is a very strong game and is very useful for designers.,"['GENERAL', 'MISCELLANEOUS']",positive
+500,Enjoy that Toshib force and durability unparalleled,"['OPERATION_PERFORMANCE', 'QUALITY']",positive
+501,"Needs longer lasting battery, More than 1 to 2 Hrs.",['BATTERY'],negative
+502,"Needs Power and Mouse Cable to Plug in back instead of side, In the way of operating a mouse in small area.","['MOUSE', 'MOUSE']",mixed
+503,For the use it was purchased for it is a good Laptop.,['MISCELLANEOUS'],positive
+504,Comfterbale to use light easy to transport.,"['USABILITY', 'DESIGN_FEATURES', 'PORTABILITY']",positive
+505,"I love this product because it is Toshiba and its 15.6"".","['GENERAL', 'DESIGN_FEATURES', 'COMPANY']",positive
+506,"It has no camera but, I can always buy and install one easy.",['DESIGN_FEATURES'],neutral
+507,"I had a USB connect but, i can't use it because it is not compatible.",['USABILITY'],negative
+508,That's the downside for me.,['USABILITY'],negative
+509,"But, I would recommend this product.",['GENERAL'],positive
+510,Satisfy what I paid for it.,"['GENERAL', 'PRICE']",mixed
+511,Good monitor and performed well.,"['DISPLAY', 'OPERATION_PERFORMANCE']",positive
+512,I am using the external speaker- sound is good.,['MULTIMEDIA_DEVICES'],positive
+513,Best thing is I can use existing 32 bit old programs.,['USABILITY'],positive
+514,I recommend for word processing and internet users.,['MISCELLANEOUS'],positive
+515,The Toshiba laptop I am using is easier to use than most I have tried.,[],na
+516,The games included are very good games.,['SOFTWARE'],positive
+517,I am finding my way around this laptop better than my last one.,[],na
+518,I would highly recommend this one to my friends,['GENERAL'],positive
+519,I bought this laptop because of the performance to price ratio.,"['OPERATION_PERFORMANCE', 'PRICE']",positive
+520,"It works great for general internet use, Microsoft Office apps, home bookkeeping, etc.",['MISCELLANEOUS'],positive
+521,"It doesn't have a lot of frills, but I didn't need any, and being able to buy what I needed, and not more than I needed was very important.","['DESIGN_FEATURES', 'MISCELLANEOUS']",mixed
+522,This computer I used daily nice compact design.,"['DESIGN_FEATURES', 'USABILITY']",positive
+523,Excellent speed for processing data.,['OPERATION_PERFORMANCE'],positive
+524,And if you are a game player it works with World Of Warcraft wonderfully.,['MISCELLANEOUS'],positive
+525,Now when I order I did not go full scale for the webcam or full keyboard I wanted something for basics of being easy to carry when I use crutchs or wheelchair and with a backpack laptop bag.,[],na
+526,All in all great item highly recommend it.,['GENERAL'],positive
+527,Bought it to use mostly for oline classes.,[],na
+528,i would have to say that overall its great!,['GENERAL'],positive
+529,"Aside from the trial software and the short battery life, lack of a webcam, its great.","['SOFTWARE', 'BATTERY', 'DESIGN_FEATURES', 'GENERAL']",mixed
+530,"Fast, great visual!","['OPERATION_PERFORMANCE', 'DISPLAY']",positive
+531,"Oh yea, has no numeric pad on the side.",['KEYBOARD'],negative
+532,"I use that alot on my desktop, so I am adjusting to not having it.",[],na
+533,2nd Best computer in the world  only one way this computer might become the best is that it needs to upgreade patches  to make less easier for people to hack into,"['GENERAL', 'QUALITY']",mixed
+534,Sells for the same as a netbook without sacrificing size.,[],na
+535,My favorite part of this computer is that it has a vga port so I can connect it to a bigger screen.,"['DESIGN_FEATURES', 'CONNECTIVITY']",mixed
+536,Great wifi too.,['CONNECTIVITY'],positive
+537,"The screen is a little glary, and I hated the clicking buttons, but I got used to them.","['DISPLAY', 'MOUSE']",mixed
+538,Overall for the money this is a good deal.,"['GENERAL', 'PRICE']",mixed
+539,There is no number pad to the right of the keyboard which is a bummer.,['KEYBOARD'],negative
+540,The speakers are terrible and are probably the cheapest ones I have ever seen in a laptop so if your planning to listen to music I suggest you get something better.,"['MULTIMEDIA_DEVICES', 'MULTIMEDIA_DEVICES']",negative
+541,"while the keyboard itself is alright, the plate around it is cheap plastic and makes a hollow sound when using the mouse command buttons.","['KEYBOARD', 'QUALITY']",mixed
+542,"I am overall very pleased with my toshiba satellite, I like the extra features, I love the windows 7 home premium.","['GENERAL', 'DESIGN_FEATURES', 'OS']",positive
+543,"The battery life has not decreased since I bought it, so i'm thrilled with that.","['BATTERY', 'BATTERY']",positive
+544,"I also love the design, the looks, the feel, and the my toshiba feature is wonderfull.","['DESIGN_FEATURES', 'QUALITY']",positive
+545,I would easly reccomend this laptop to a friend.,['GENERAL'],positive
+546,Couldnt not use it.,['USABILITY'],negative
+547,Tried to make a recovey disk wouldnt get passed the first recovery disk.,['USABILITY'],negative
+548,defective software.,['SOFTWARE'],negative
+549,returned it to walmart.,['GENERAL'],negative
+550,This was the second computer and brand bought that day.,[],na
+551,I would like to have volume buttons rather than the adjustment that is on the front.,['DESIGN_FEATURES'],negative
+552,I also had a problem with the touchpad that caused the mouse pointer to jump all over the screen.,['MOUSE'],negative
+553,I went to Toshiba online help and found some suggestions to fix it.,['SUPPORT'],positive
+554,One of them seems to have worked.,['SUPPORT'],positive
+555,Its a good laptop for its value.,"['GENERAL', 'PRICE']",mixed
+556,Registration/1st use is easy.,['USABILITY'],positive
+557,Features like the font are very block-like and old school.,['DESIGN_FEATURES'],negative
+558,"Would like more trendy, high tech features.",['DESIGN_FEATURES'],negative
+559,The start menu is not the easiest thing to navigate due to the stacking.,['OS'],negative
+560,Keys stick periodically and I havent had the laptop for 45 days yet.,"['KEYBOARD', 'KEYBOARD']",negative
+561,Came fully loaded - good.,['DESIGN_FEATURES'],positive
+562,"Seems to slow down occassionally but can run many applications (ie Internet tabs, programs, etc) simultaneously.",['OPERATION_PERFORMANCE'],positive
+563,I'm really impressed with the quality and performance for the price of the computer.,"['QUALITY', 'OPERATION_PERFORMANCE', 'PRICE']",mixed
+564,"Graphics are clean and sharp, internet interfaces are seamless.","['GRAPHICS', 'CONNECTIVITY']",positive
+565,"Only issue is that it is a little slow, and I'm fixing that by adding more RAM.","['OPERATION_PERFORMANCE', 'MEMORY']",mixed
+566,Sound card is limited though.,['MULTIMEDIA_DEVICES'],negative
+567,"The laptop is very lightweight, can easily carry around in a knapsack full of text books and it barely adds any weight.","['DESIGN_FEATURES', 'PORTABILITY']",positive
+568,It is small enough to fit in one of my purses!,['DESIGN_FEATURES'],positive
+569,"Windows 7 Starter is terrific (no you can't change the background) but I don't need to, I use it just for school work.","['OS', 'OS']",mixed
+570,"The battery life is amazing, the versitility is outstanding.","['BATTERY', 'USABILITY']",positive
+571,The ease of set up was terrific.,['USABILITY'],positive
+572,I was even able to uninstall McAffe and install one of my Symantec licenses with a no issues whatsoever.,['USABILITY'],positive
+573,"I had to adjust my mousepad sensitivity, because it is very sensitive.",['MOUSE'],negative
+574,"Keyboard is great, very quiet for all the typing that I do.","['KEYBOARD', 'KEYBOARD']",positive
+575,"Screen is crystal clear, yes it's small - but it's a netbook!","['DISPLAY', 'DISPLAY']",mixed
+576,Awesome laptop and the perfect size to carry around in college.,"['GENERAL', 'DESIGN_FEATURES', 'PORTABILITY']",positive
+577,I couldn't believe how long the battery lasted on a single charge.,['BATTERY'],positive
+578,I loaded windows 7 via Bootcamp and it works flawlessly!,['OS'],positive
+579,Simply amazing computer!!,['GENERAL'],positive
+580,"I really like the Mac 15.4in. Notebook, but its very pricey.","['GENERAL', 'PRICE']",mixed
+581,"Heck, I like all Mac computers, but they're all WAY too pricey for the kind of economy the U.S. is going through.",[],na
+582,"Love the graphics, awesome programs (including Garageband), and really cool default background.","['GRAPHICS', 'DESIGN_FEATURES', 'SOFTWARE']",positive
+583,"But, like I said before, the only reason I don't currently have a Mac laptop is because all of their laptops are too pricey.",['PRICE'],negative
+584,"Waiting for the i7 was well worth it, great value for the price.","['GENERAL', 'PRICE']",mixed
+585,"Bigger HD, better graphics card, and a bid HD.","['HARD_DISC', 'GRAPHICS']",positive
+586,There is nothing to complain about the system.,['GENERAL'],positive
+587,I have used PC's and converting to this MacBook Pro was easy.,['USABILITY'],positive
+588,If you have the money I suggest going for the i7.,['GENERAL'],positive
+589,This is my first personal Satellite purchase but had very good experience through previous Satellite work issued laptops.,[],na
+590,"I mainly use it for email, internet, and managing personal files (pics, vids, etc.).",[],na
+591,I occassionaly use it for work via VPN and it has not given me any problems.,['MISCELLANEOUS'],positive
+592,"The screen is nice and the images comes very clear, the keyboard and the fit just feels right.","['DISPLAY', 'DISPLAY', 'KEYBOARD', 'DESIGN_FEATURES']",positive
+593,I consider myself an average user and this computer serves my need.,['GENERAL'],positive
+594,The price is another driving influence that made me purchase this laptop.,['PRICE'],positive
+595,"I'ts nice to have the higher-end laptops, but this fits my budget and the features I need.","['QUALITY', 'DESIGN_FEATURES', 'PRICE']",positive
+596,I normally dont participate in reviews/surveys but this laptop has not given me any problems and hope to share my thoughts...,['GENERAL'],positive
+597,another satisfied customer.,['GENERAL'],positive
+598,The apple MacBook is the best investment that I have ever made.,['GENERAL'],positive
+599,I previously owned a Toshiba and it only lasted about 2 years.,[],na
+600,The newer MacBook that I have purchased is one of the best computers.,['GENERAL'],positive
+601,I am a college student and it has been very useful.,['MISCELLANEOUS'],positive
+602,It has all the features that are necessary for college and if not they are able to be added onto the computer.,"['DESIGN_FEATURES', 'USABILITY', 'MISCELLANEOUS']",positive
+603,It has a lot of memory and a great battery life.,"['MEMORY', 'BATTERY']",positive
+604,It is sleek and lightweight and charges quickly when needed.,"['DESIGN_FEATURES', 'BATTERY']",positive
+605,Its white color is stylish for college students and easy to take to carry and take to classes.,"['DESIGN_FEATURES', 'PORTABILITY']",positive
+606,Iphoto is great for adding pictures right to facebook and other social networking sites.,['SOFTWARE'],positive
+607,The internet capabilities are also very strong and picks up signals very easily.,['CONNECTIVITY'],positive
+608,I have owned macbook pros since 2005 and this is the best yet!,[],na
+609,I have had no problems with it unlike some hardware defects on past models.,[],na
+610,I have never had to shut down the computer unexpectedly and the computer has never froze on me.,['OPERATION_PERFORMANCE'],positive
+611,"The screen is bright and vivid and the keyboard is very easy to use, very important for use quick typers.","['DISPLAY', 'KEYBOARD']",positive
+612,"Navigation through the computer is far superior compared to Windows operating systems, as well.",[],na
+613,"Overall, this is a wonderful computer and definitly worth the purchase!",['GENERAL'],positive
+614,The graphics are stunning.,['GRAPHICS'],positive
+615,It's wonderful for computer gaming.,['MISCELLANEOUS'],positive
+616,I would definitely suggest this laptop!,['GENERAL'],positive
+617,It is very user friendly and not hard to figure out at all.,['USABILITY'],positive
+618,"It has many great programs, such as ILife, iPhotos and others.","['DESIGN_FEATURES', 'SOFTWARE']",positive
+619,iLife is easily compatible with Microsoft Office so you can send and receive files from a PC.,['SOFTWARE'],positive
+620,"In addition, all the design tools on Pages and Keynotes makes it much easier to create professional looking documents and presentations.","['SOFTWARE', 'SOFTWARE']",positive
+621,This comes in very handy for me as an educator.,['SOFTWARE'],positive
+622,iPhotos is an excellent program for storing and organizing photos.,['SOFTWARE'],positive
+623,It allows you to automatically upload photos to your Facebook account with one click.,['SOFTWARE'],positive
+624,"In addition, there is photo detection software that will allow you to group all the photos together based upon the people in the picture.",['SOFTWARE'],positive
+625,"If you are looking for something reliable, this is the laptop for you.",['QUALITY'],positive
+626,"Even though it is much more expensive than many PC laptops, it is worth the price.",[],na
+627,This computer was awful!,['GENERAL'],negative
+628,I will never buy another computer from Dell ever again do to how awful it worked and how I was treated by the company.,"['COMPANY', 'OPERATION_PERFORMANCE', 'SUPPORT']",negative
+629,The computer first started malfunctioning 3 months after purchasing it.,"['OPERATION_PERFORMANCE', 'QUALITY']",negative
+630,It does not keep internet signals no matter where you bring it.,['CONNECTIVITY'],negative
+631,"The system it comes with does not work properly, so when trying to fix the problems with it it started not working at all.","['OS', 'OS']",negative
+632,"When calling Dell for help, reurn, or a new computer they were not useful and left it up to myself to figure out what to do with it.",['SUPPORT'],negative
+633,"One year of trying to fix the computer by myself, with help of friends, and even help from computer experts I have given up on trying to fix it.",['QUALITY'],negative
+634,"This computer was awful, I would never recomend it to another person.",['GENERAL'],negative
+635,Those moments in thime where you want to throw something against the wall?,['GENERAL'],negative
+636,"Yeah, I wanted to throw that lap top out the window and light it on fire.",['GENERAL'],negative
+637,That's how frustrating it was.,['GENERAL'],negative
+638,"It is so simple to use, I use it more than my desktop.",[],na
+639,"It is well worth the money it cost, Very good investment.","['GENERAL', 'PRICE']",positive
+640,The new Macbook Pro 15 inch i7 is nothing short of amazing.,['GENERAL'],positive
+641,The speed is incredible and I am more than satisfied.,['OPERATION_PERFORMANCE'],positive
+642,"Yes, a Mac is much more money than the average laptop out there, but there is no comparison in style, speed and just cool factor.",[],na
+643,"BOUGHT FROM WAL-MART, I BELIEVE THAT THIS LAPTOP WAS A REPAIRED ITEM.",['MISCELLANEOUS'],neutral
+644,THIS LAPTOP WAS BAD FROM THE FIRST DAY OF USE----BROUGHT IT BACK TO STORE FOR RETURN OF MONEY.,"['QUALITY', 'GENERAL']",negative
+645,NOW AM VERY APREHENSIVE ABOUT TOSHIBA LAPTOPS.,['COMPANY'],negative
+646,WILL NOT EVERY BUY ANOTHER--------LOU,['GENERAL'],negative
+647,This is a great value for the money.,"['GENERAL', 'PRICE']",mixed
+648,We purchased this as a back up computer after our more expensive HP needed to be repaired.,[],na
+649,This is a great computer.,['GENERAL'],positive
+650,We haven't had any problems with it at all.,['GENERAL'],positive
+651,The body is a bit cheaply made so it will be interesting to see how long it holds up.,['QUALITY'],negative
+652,"Overall though, for the money spent it's a great deal.","['GENERAL', 'PRICE']",positive
+653,I still see the benefits of a PC when I do not know how to do something on my mac.,[],na
+654,"But let me tell you, the mac book pro is so professional.",['GENERAL'],positive
+655,Its very nice and once you learn the features you will be so happy to have such a sophisticated computer.,"['GENERAL', 'DESIGN_FEATURES']",positive
+656,"For example, when my husband turns the light out while I'm on the computer. the screen brightness automatically adjusts.",['DISPLAY'],positive
+657,The keyboard is like no other laptop keyboard.,[],na
+658,It is VERY easy to type on and feels great - besides the added feature that the keyboard is lighted.,"['KEYBOARD', 'KEYBOARD', 'KEYBOARD']",positive
+659,"Oh, it is such a great piece of equipment.",['GENERAL'],positive
+660,"One suggestion I do have, is to not bother getting Microsoft office for the mac expecting it will work just like you knew it to on a PC.",[],na
+661,"Its Office compatible, but the features and its functioning is all new again so you might as well save the money and just learn the pre installed mac programs.","['SOFTWARE', 'SOFTWARE', 'SOFTWARE']",mixed
+662,Having someone give you a quick tour of how to's is the best.,[],na
+663,So you don't get frustrated the first few weeks.,[],na
+664,"I get a ton of compliments on its size, and speaking as someone who regularly commutes on a bus, I can attest to the fact that this is the perfect size computer if you're restricted to the width of your body for computing room.","['DESIGN_FEATURES', 'PORTABILITY']",positive
+665,Very long-life battery (up to 10-11 hours depending on how you configure power level settings).,['BATTERY'],positive
+666,"I upgraded the memory and replaced the base Windows 7 Starter to Win 7 Home, and it runs just fine.","['USABILITY', 'OPERATION_PERFORMANCE']",mixed
+667,"I play a lot of casual games online, and the touchpad is very responsive.",['MOUSE'],positive
+668,"The only thing I wish this had was the option to turn off the touchpad with a button like my big 16"" laptop does.",[],na
+669,"I wouldn't play a first-person shooter with this, mind, but if you wanted to run MS Office, email, chat, download a video, listen to music from a certain fruit-named music store, and were looking for a highly portable yet powerful netbook to do that all in, I'd highly recommend checking this out.","['PORTABILITY', 'OPERATION_PERFORMANCE', 'MISCELLANEOUS']",positive
+670,The downside to this netbook is pretty much the same for any netbook: screen size is not something I'd stare at for the entire 10-11 hours of battery life five days a week.,['DISPLAY'],negative
+671,Additional caveat: the base installation comes with some Toshiba-specific software that may or may not be to a user's liking.,['SOFTWARE'],neutral
+672,I have used both PCs and Macs and I have to say that I really really love my Mac Book Pro.,[],na
+673,"While most people say that PCs hold functionality and value and Macs are just pretty to look at, I think there's something to be said about the simplicity of Macs.",[],na
+674,Everything from the design to the OS is simple and to the point.,"['DESIGN_FEATURES', 'OS', 'GENERAL']",positive
+675,LOVE IT LOVE IT LOVE IT!,['GENERAL'],positive
+676,It really is perfect for work and play.,['MISCELLANEOUS'],positive
+677,I am able to play 720p and 1080p media files just fine with it.,['MISCELLANEOUS'],positive
+678,Everything I have tried has worked and I never have to carry the wall charger cause the battery is so awesome.,"['OPERATION_PERFORMANCE', 'BATTERY']",positive
+679,"The only thing that isn't perfect about this netbook is the speakers, they are not loud at all but I expected that.",['MULTIMEDIA_DEVICES'],negative
+680,"I upgraded it's RAM to 2GB, I am very happy with it.","['GENERAL', 'MEMORY']",mixed
+681,lots of preloaded software.,['DESIGN_FEATURES'],neutral
+682,"the only problem is that i had to add 1 gb RAM, the computer was kinda slow.","['MEMORY', 'OPERATION_PERFORMANCE']",negative
+683,"tosiba has a good reputation, my llast computer was an acer.",['COMPANY'],positive
+684,this is starting off good.,['GENERAL'],positive
+685,What a great little laptop.,['GENERAL'],positive
+686,Maybe not the cutting edge (Satellite L455D) but it is a workhorse.,"['DESIGN_FEATURES', 'OPERATION_PERFORMANCE']",mixed
+687,I bought it to use in college and it is perfect.,['MISCELLANEOUS'],positive
+688,I dual boot with Linux and that other security-prone OS and it performs flawlessly.,['OPERATION_PERFORMANCE'],positive
+689,I made a perfect decision when I bought the Toshiba!,"['GENERAL', 'COMPANY']",positive
+690,Excellent product for the money.,"['GENERAL', 'PRICE']",mixed
+691,"No problems, no lock ups, no disappointments.","['OPERATION_PERFORMANCE', 'GENERAL']",positive
+692,"Not super fancy, but not super expensive either.","['DESIGN_FEATURES', 'PRICE']",neutral
+693,"Have had many higher priced computers crash and burn long before ever got to use all that great memory and speed, etc.",[],na
+694,Highly recommend for daily use.,['MISCELLANEOUS'],positive
+695,"We now own two of these, identical.",[],na
+696,As an owner of a Toshiba Satalite laptop computer things you should know before you buy.,[],na
+697,The Computer itself is a good product but the repair depot stinks.,"['GENERAL', 'SUPPORT']",mixed
+698,I have had to send in my laptop three times to get it fixed.,['SUPPORT'],negative
+699,Two of the times was in one month.,[],na
+700,I had in the past a Dell laptop and they sent me the items it needed or they sent a repair technician to my house to fix it.,[],na
+701,Toshiba does not send any one out unless you have paid extra to have the on site repair done.,['SUPPORT'],negative
+702,I would tell the technician I knew exactly what was wrong with it but they did not listen and I had to go through a bunch of junk to get them to tell me I needed to send the computer in.,['SUPPORT'],negative
+703,This computer that I have has had issues with the keyboard where it lost half the keyboard functions.,"['KEYBOARD', 'KEYBOARD']",negative
+704,As well as having the plug in the computer come loose.,['POWER_SUPPLY'],negative
+705,This has happened three times so far.,[],na
+706,Two times with in one month.,[],na
+707,"I am not one to throw things like this around but it is a laptop so carrying it around does seem to mean it will be jerked possibly a little, while driving a car and carrying it into where ever you are using it.",[],na
+708,So having the AC plug go out on me and get lose or I could actually here it inside my computer on two of the three times is not good.,['POWER_SUPPLY'],negative
+709,It still seems to be a little lose now but so far seems to be hanging in there.,['POWER_SUPPLY'],negative
+710,The Mac Book Pro performs flawlessly.,['OPERATION_PERFORMANCE'],positive
+711,"Never had a single problem, and don't have to worry about viruses.","['GENERAL', 'QUALITY']",positive
+712,"While I mostly use it for email, internet and gaming, I'm confident all other applications live up to the high standard I've come to appreciate from Mac laptops.",['MISCELLANEOUS'],positive
+713,Worth the investment and truly a fine piece of equipment.,['GENERAL'],positive
+714,"Right out of the box, this little netbook did everything I asked of it, including streaming the everyday video you're bound to encounter checking mail and websites (my biggest complaint previously).","['GENERAL', 'MISCELLANEOUS']",positive
+715,"It even has a great webcam, and Skype works very well.","['DESIGN_FEATURES', 'MULTIMEDIA_DEVICES', 'SOFTWARE']",positive
+716,The fact that you can spend over $100 on just a webcam underscores the value of this machine.,['GENERAL'],positive
+717,"The Windows 7 Starter is, in my opinion, a great way to think about using your netbook: basics, basics, basics.",['OS'],negative
+718,"I wiped nearly everything off of it, installed OpenOffice and Firefox, and I am operating an incredibly efficient and useful machine for a great price.","['OS', 'PRICE', 'OPERATION_PERFORMANCE', 'GENERAL']",mixed
+719,"This netbook is a perfect supplementary computer to another laptop or desktop (my wife and I have another laptop), or if you are a user who uses the computer for simple tasks.",['MISCELLANEOUS'],positive
+720,"I use this for my tutoring business, and since I'm always bouncing from student to student, it is ideal for portability and battery life (yes, it gets the 8 hours as advertised!).","['PORTABILITY', 'BATTERY']",positive
+721,"Finally, I should note that I took the 2GB RAM stick from my old EeePC and installed it before I even powered on for the first time.",[],na
+722,"ASUS has done an outstanding job of evolving their netbooks, and I would recommend this to anyone who both understands their needs and how netbooks can fit them.","['GENERAL', 'COMPANY']",positive
+723,little short on RAM but you get what you pay for.,['MEMORY'],neutral
+724,"the hinge design forced you to place various connections all around the computer, left right and front.","['DESIGN_FEATURES', 'USABILITY']",negative
+725,"the headphone and mic jack are in front of touch-pad making the touch-pad hard to use when using headphones/mic, not to mention the laptop was designed for right handed person.","['PORTS', 'MOUSE', 'DESIGN_FEATURES', 'USABILITY']",negative
+726,Cords coming out the right for power plus cords coming out front for headphones/mic plus network connection on left make for a very messy setup with cords going every direction.,"['DESIGN_FEATURES', 'USABILITY']",negative
+727,"I love windows 7 but i can't give Toshiba any credit for that, unless y'all get serious about ergonomics and making required connections less obtrusive i will be looking to different manufacturer next time.","['OS', 'USABILITY', 'DESIGN_FEATURES', 'COMPANY']",mixed
+728,I was happy with My purchase of a Toshiba Satellite L305D-S5934 laptop until it came time to have it repaired under the Toshiba Warranty.,"['GENERAL', 'SUPPORT']",mixed
+729,The computer was shipped to their repair depot  on june 24 and returned on July 2 seems like a short turn around time except the computer was not repaired when it was returned.,"['SHIPPING', 'SUPPORT']",mixed
+730,I called their repair depot as was told they would send Me a new box to return the computer to the repair depot.,[],na
+731,They were totally unconcerned that the computer was not correctly repaired in the first place.,['SUPPORT'],negative
+732,The computer is currently in West Verginia doe to the method of shipping choosen by Toshiba.,['SHIPPING'],negative
+733,The computer could have been shipped by Priority Mail through the USPS for the same cost and arrived by Noon on Tue.,['SHIPPING'],negative
+734,Instead it is sitting in West Verginia waiting for UPS to take two days to send Me a box and Two days for them to ship the computer some 691 miles by air? to Louisville Ky.,['SHIPPING'],negative
+735,By Air sounds more like by truck to Me.,[],na
+736,And Toshiba is totally unconcerned.,['SUPPORT'],negative
+737,The reaction of Toshiba is there is nothing you can do about it so just sit back and except the fact that you are powerless and it is mind over matter.,['SUPPORT'],negative
+738,We don't Mind and You don't Matter.,['SUPPORT'],negative
+739,I would not recommend the purchase of this modle of Toshiba Computer or any Toshiba product for that matter.,"['GENERAL', 'COMPANY']",negative
+740,When it come time for warranty service to Toshiba you don't matter.,['SUPPORT'],negative
+741,Windows Vista makes this computer almost unusable for online service.,"['OS', 'USABILITY']",negative
+742,I've tried going back to XL but there still problems.,['USABILITY'],negative
+743,The technical service for dell is so 3rd world it might as well not even bother.,['SUPPORT'],negative
+744,Just a bunch of idiots who's English as a 5th language is forced at best.,['SUPPORT'],negative
+745,I'm all for saving money but Dell needs to step it up.,['COMPANY'],negative
+746,Good price.,['PRICE'],positive
+747,Basic computer.,['MISCELLANEOUS'],neutral
+748,Didn't work when shipped from Walmart.com but went into a store and exchanged for a working laptop (same make/model).,['MISCELLANEOUS'],neutral
+749,It has worked fine.,['OPERATION_PERFORMANCE'],positive
+750,Handles all my basic media needs easily.,['MISCELLANEOUS'],positive
+751,Can listen to my music and watch my videos with ease and with a great display.,"['DISPLAY', 'USABILITY']",positive
+752,It is speedy when connected wirelessly to any network regardless if the connection is weak or not.,"['OPERATION_PERFORMANCE', 'CONNECTIVITY']",positive
+753,It's a great prodcut to handle basic computing needs.,['MISCELLANEOUS'],positive
+754,I've had this laptop for about a month now.,[],na
+755,It has served my needs quite nicely for the most part.,['GENERAL'],positive
+756,"The 2 GB of RAM is plenty, able to run Windows 7 and at least 2 or 3 other programs with next to no slowdown.","['MEMORY', 'OPERATION_PERFORMANCE']",positive
+757,"The ATI graphics card is a huge plus, definitely a good value if you need to be able to run some slightly older games that a Intel built-in card would have trouble with, such as Half-Life 2 or even World of Warcraft.",[],na
+758,My one complaint with this laptop is that I've noticed an electronic fuzz sound coming out of the headphone jack when headphones are plugged in.,['PORTS'],negative
+759,"This is likely due to poor grounding and isolation between the components, and I'm hoping that it can be fixed with a ground loop isolator, but I still expected better product quality for this price range.","['HARDWARE', 'PRICE']",negative
+760,"Other than that, I would recommend this to someone in need of a cheap laptop with semi-decent gaming capabilities.","['PRICE', 'MISCELLANEOUS']",mixed
+761,Let me start with the good:So awesome.,['GENERAL'],positive
+762,"Great OS, fabulous improvements to the existing line bumping up the processor speed and adding the thunderbolt port.","['OS', 'CPU', 'DESIGN_FEATURES']",positive
+763,This is my second MacBook.,[],na
+764,"The first one I had was a 2006 model, not the Pro.",[],na
+765,I fell in love with it.,[],na
+766,This one has had the same effect.,['GENERAL'],positive
+767,"I had upgraded my old MacBook to Lion, so I kind of knew what I was getting, but hadn't been able to enjoy some of the awesome new multi-touch features.",[],na
+768,"The improvements to the OS have been relatively gradual, but substantive.",['OS'],positive
+769,The feel of this machine compared to the old MacBook is far superior.,[],na
+770,"The Unibody construction is solid, sleek and beautiful.","['DESIGN_FEATURES', 'QUALITY']",positive
+771,"It is everything I'd hoped it would be from a look and feel standpoint, but somehow a bit more sturdy.","['DESIGN_FEATURES', 'QUALITY']",positive
+772,"For the not so good, I got the stock screen - which is VERY glossy.","['DISPLAY', 'DISPLAY']",negative
+773,It's still beautiful and has better color reproduction than I could ever expect from a notebook.,"['DISPLAY', 'DISPLAY']",positive
+774,The reflectiveness of the display is only a minor inconvenience if you work in a controlled-lighting environment like me (I prefer it dark) or if you can crank up the brightness.,"['DISPLAY', 'DISPLAY']",neutral
+775,My real problem with it?,[],na
+776,The statement of 7 hour battery life is not just mere exaggeration -- it's a lie.,['BATTERY'],negative
+777,I challenge anyone to show proof that through anywhere near normal use can get more than 2.5 hrs out of it.,['BATTERY'],negative
+778,The first full charge of this battery got me only about 2 full hours.,['BATTERY'],negative
+779,Enabling the battery timer is useless.,['BATTERY'],negative
+780,"The ""Time remaining"" goes from 4 hours plus to less than 2 hours over the span of about 10 minutes.",['BATTERY'],negative
+781,It's a joke.,[],na
+782,It's so bad that I'm thinking I only got half a battery or something.,['BATTERY'],negative
+783,I know what 7 hrs of battery looks like.,['BATTERY'],negative
+784,This ain't it.,[],na
+785,My only other complaint is that it gets really hot.:-),['QUALITY'],positive
+786,"If you buy this - don't go into it expecting 7 hrs of battery life, and you'll be perfectly satisfied.","['BATTERY', 'GENERAL']",mixed
+787,"The pro is a great product, I wish that the 13 inch models came with the Intel i processors and had a more comfortable edge (the edges hurt my wrists).","['GENERAL', 'CPU', 'DESIGN_FEATURES', 'USABILITY']",mixed
+788,Other than that its a great performing machine and well meets all my needs and more.,"['OPERATION_PERFORMANCE', 'GENERAL']",positive
+789,Great product by Apple with the new great looking design.,"['GENERAL', 'DESIGN_FEATURES', 'COMPANY']",positive
+790,"This computer was bought because I wanted ""top of the line"", fast, reliable, HA.",[],na
+791,"I actually had the hard drive replaced twice, the mother board once, the dvd drive twice, then they FINALLY agreed to replace it, (ALL OF THIS IN LESS THAN 1 1/2 YEARS!)only to get another ""HP/Compaq"" piece of crap.","['HARD_DISC', 'MOTHERBOARD', 'OPTICAL_DRIVES', 'SUPPORT', 'QUALITY']",negative
+792,"It was slow, locked up, and also had hardware replaced after only 2 months!","['OPERATION_PERFORMANCE', 'HARDWARE']",negative
+793,"So, buyers beware!",['GENERAL'],negative
+794,My husband got me this for Chrismas after getting me a very expensve laptop that did not work after 2 days.,[],na
+795,So we exchanged it for the same on and after 2 hours it didn't work.,[],na
+796,I went with him and we picked this one.,[],na
+797,"It is made better, thicker, and all out tough!","['QUALITY', 'DESIGN_FEATURES']",positive
+798,I droped this once from thetable when my baby girl grabed me one day and IT is still working with NO issues!,['QUALITY'],positive
+799,"I love the easy to see screen, and It works well for work, persoal or just play.","['DISPLAY', 'MISCELLANEOUS']",positive
+800,I tell everyone I see out looking to get this or another Toshiba.,"['GENERAL', 'COMPANY']",positive
+801,"My dad has one of the very first Toshibas ever made, yes its abit slow now but still works well and i hooked to my ethernet!",[],na
+802,My friends or children use that when they need to borrow the Net =) When I out grow this Meaning when its old and my oldest child is ready for one she will get this one ANd I will be buying only TOSHIBA!,['COMPANY'],positive
+803,"I just love this lap top, I just wish it were all silver or they had all black.","['GENERAL', 'DESIGN_FEATURES']",mixed
+804,That is my only complaint!,['DESIGN_FEATURES'],negative
+805,LOVE THIS LAPTOP WONDERFUL PRICE FOR WHAT YOU GET!,"['GENERAL', 'PRICE']",positive
+806,WOULD PAY MORE FOR IT IF I HAD TOO!,"['GENERAL', 'PRICE']",positive
+807,I purchased a Toshiba Satellite M60 (with harman/kardon speakers!) in December of 2005.,[],na
+808,It still serves me well both in business and home needs.,[],na
+809,"It is, however, very heavy.",[],na
+810,I recently purchased the mini and absolutely love it!,['GENERAL'],positive
+811,It meets all my needs for work and pleasure while traveling.,"['MISCELLANEOUS', 'PORTABILITY']",positive
+812,I am totally satisfied with my little toshie!,['GENERAL'],positive
+813,From the moment I opened the box to the present it has been a great joy.,['GENERAL'],positive
+814,"It is always reliable, never bugged and responds well.","['QUALITY', 'OPERATION_PERFORMANCE']",positive
+815,I love the operating system and the preloaded software.,"['OS', 'SOFTWARE']",positive
+816,I am a freelance graphic artist.,[],na
+817,I need graphic power to run my Adobe Creative apps efficiently.,[],na
+818,This machine delivers.,['OPERATION_PERFORMANCE'],positive
+819,It is much faster than my desktop which is a Core2 Quad running at 2.83 GHz.,[],na
+820,It is also extremely pleasing to the eyes without looking too much like an Alienware gaming machine.,['DESIGN_FEATURES'],positive
+821,I personally like the gaming look but needed a machine that delivered gaming performance while still looking professional in front of my customers.,[],na
+822,It is a bit heavy.,['DESIGN_FEATURES'],negative
+823,It would be a load on long trips where a lot of walking is required.,['PORTABILITY'],negative
+824,"If that is the case for you, I would suggest a pull-behind solution when looking at cases.",[],na
+825,Had some trouble finding a case that it would fit in.,['DESIGN_FEATURES'],negative
+826,"This is an over-sized, 18-inch laptop.",['DESIGN_FEATURES'],negative
+827,Most of the large bags are for a 17 inch.,[],na
+828,You may need to special order a bag.,[],na
+829,It wouldn't fit in most 17-inch bags.,['PORTABILITY'],negative
+830,I was disappointed when I realized that the keyboard doesn't light up on this model.,['KEYBOARD'],negative
+831,It also does not have bluetooth.,['DESIGN_FEATURES'],negative
+832,Pay attention to the specs if you want these options.,[],na
+833,You'll need to upgrade and pay a little more for them.,['DESIGN_FEATURES'],negative
+834,I should have been more observant.,[],na
+835,"I was looking too closely at the other performance specs and while comparing, I took it for granted that these features were standard.",['DESIGN_FEATURES'],negative
+836,They are not.,[],na
+837,"Overall, still a very nice machine.",['GENERAL'],positive
+838,Boots up fast and runs great!,['OPERATION_PERFORMANCE'],positive
+839,I'm pleased.,['GENERAL'],positive
+840,The acer one compuer is a great computer.,['GENERAL'],positive
+841,I didn't want to buy a generic brand computer but it is really nice.,"['GENERAL', 'COMPANY']",mixed
+842,"Its fast, has High definition quality in the videos.","['OPERATION_PERFORMANCE', 'DISPLAY']",positive
+843,The pictures are clear as can be.,['DISPLAY'],positive
+844,"If I had to buy another computer, I would most definetly buy an acer one computer.","['GENERAL', 'COMPANY']",positive
+845,"Heck, if I had enough ' money, I would but it as a gift for someone.",['GENERAL'],positive
+846,Im glad that it has such great features in it.,['DESIGN_FEATURES'],positive
+847,It also came with a built it web cam which is great because I can see an communicate with my family members back home.,['DESIGN_FEATURES'],positive
+848,Clear picture on it and everything.,['DISPLAY'],positive
+849,"The one down side to it is that when I play a certin game on here, it tends to freeze up sometimes, but thats the only bad thing about this computer.","['OPERATION_PERFORMANCE', 'GENERAL']",mixed
+850,"The acer one computer that I bought is 17 ince screen and its hard to find lap top bags for it, but I like the big screen on it.","['DISPLAY', 'PORTABILITY']",mixed
+851,Its good for playing my apps on Facebook or watching movies.,['MISCELLANEOUS'],positive
+852,Im very happy with this computer!,['GENERAL'],positive
+853,"Well, I have to say since I bought my Mac, I won't ever go back to any Windows.",[],na
+854,It's solid.,['QUALITY'],positive
+855,Love the stability of the Mac software and operating system.,"['SOFTWARE', 'OS']",positive
+856,The only downfall is a lot of the software I have won't work with Mac and iWork is not worth the price of it.,"['SOFTWARE', 'SOFTWARE', 'SOFTWARE']",negative
+857,It seems to be incompatible with everything else.,['SOFTWARE'],negative
+858,But the machine is awesome and iLife is great and I love Snow Leopard X.,"['GENERAL', 'SOFTWARE', 'OS']",positive
+859,i love to use it it is esay and light.,"['GENERAL', 'USABILITY', 'DESIGN_FEATURES']",positive
+860,this laptop is durable and it is easy to travel with.,"['QUALITY', 'PORTABILITY']",positive
+861,i needed one to be able to carry to work everyday and this one seems to fit all of the criteria.,['PORTABILITY'],positive
+862,this laptop is great for work and doing my pictures.,['MISCELLANEOUS'],positive
+863,"i am a huge computer person i love anykind of computer that works well, but when i got this one i was so happy with the way it works and how it runs its amazing.",['OPERATION_PERFORMANCE'],positive
+864,the programs are esay to use and are quick to process this computer works like a charm.,"['SOFTWARE', 'SOFTWARE', 'OPERATION_PERFORMANCE']",positive
+865,i can use it for all of my needs.,['GENERAL'],positive
+866,i give this laptop a five star review i love it and it has done chams for me.,['GENERAL'],positive
+867,if this computer every breaks down on me i will most definatly get the same one again.,['GENERAL'],positive
+868,i think that anyone looking for a good durrable laptop then this is the way to go.,"['QUALITY', 'GENERAL']",positive
+869,From the second you open the box you will fall in love with this computer!,['GENERAL'],positive
+870,The OS is still as fast as the day that the laptop was purchased and continues to run flawlessly.,"['OS', 'OS']",positive
+871,"The track pad to me is what really stands out though, you can do several different things with it just depending on how many fingers you use on the track pad, awesome thinking Apple!","['MOUSE', 'MOUSE', 'COMPANY']",positive
+872,"Have not yet needed any customer support with this yet so to me that is a great thing, which is leaps and bounds ahead of PC in my opinion.",[],na
+873,"The OS is also very user friendly, even for those that switch from a PC, with a little practice you can take full advantage of this OS!",['OS'],positive
+874,Apple continues to shine and provide a much more enjoyable computer experience!,"['COMPANY', 'GENERAL']",positive
+875,"From the start, when you open the box you see a completely different class of machine.",['GENERAL'],positive
+876,The ease in which you set everything up is such that a child could do it.,['USABILITY'],positive
+877,"The screen is bright and clear, the operating system is solid and friendly to a novice.","['DISPLAY', 'OS', 'OS']",positive
+878,"Fast, fast and fast, the web pages just fly by.",['OPERATION_PERFORMANCE'],positive
+879,"I had my IWORKS, Itunes, Email, MS Office, network and printers set up and completely working perfectly within an hour.","['USABILITY', 'CONNECTIVITY', 'OPERATION_PERFORMANCE']",positive
+880,That includes transferring my music and movies.,['USABILITY'],positive
+881,Good bye BLUE SCREEN and Critical errors!!!!,['OPERATION_PERFORMANCE'],positive
+882,Skype is just so dang cool with this machine too.,['SOFTWARE'],positive
+883,I can hardly wait to see whats around the next corner.,[],na
+884,"My Iphone synced right up just like a person would expect, unlike the PCs in our lives.",[],na
+885,If only Bill Gates would read some of what is said here MS would do a better job.,[],na
+886,"If your time is worth anything to you, if you are tired of rebooting, reformatting, reinstalling, trying to find drivers, if you want a computer to work for you for a change, make the change to this computer.","['USABILITY', 'OPERATION_PERFORMANCE']",positive
+887,It is light and the battery last a very long time.,"['DESIGN_FEATURES', 'BATTERY']",positive
+888,Very fast boot up and shut down.,['OPERATION_PERFORMANCE'],positive
+889,"been a PC user for many, many years.",[],na
+890,"Let me tell you, this machine is great.",['GENERAL'],positive
+891,"Purchased for development purposes, but it has turned into my everyday laptop as well for surfing, e-mail, etc.",['MISCELLANEOUS'],positive
+892,"I thought learning the Mac OS would be hard, but it is easily picked up if you are familiar with a PC.",['OS'],positive
+893,The most amazing part to me as a PC user is the startup and shutdown times - and the fact that you very rarely have to restart the thing.,['OPERATION_PERFORMANCE'],positive
+894,The only time I have restarted is during system updates.,['OPERATION_PERFORMANCE'],positive
+895,great machine if you want to drop the cash for one.,['GENERAL'],positive
+896,"Ok, this is probably the best laptop series ever devised by Apple.",['GENERAL'],positive
+897,The case is carved out of a single block of aluminum.,['QUALITY'],positive
+898,"Although I opted for the lowest end MacBook Pro, this thing holds its own.",[],na
+899,"The processor screams, and because of the unique way that Apple OSX 16 functions, most of the graphics are routed through the hardware rather than the software.","['CPU', 'OS', 'GRAPHICS']",positive
+900,That is how it is able to function better than any other PC.,[],na
+901,I have recommended this laptop to everyone I know who is buying one.,['GENERAL'],positive
+902,"I like it so much, I bought another just for my wife.",['GENERAL'],positive
+903,Took it back as it was defective.,['QUALITY'],negative
+904,Page just disapeared after you got yahoo or downloaded something.,['OPERATION_PERFORMANCE'],negative
+905,Couldn't keep a page up you were working on!,['OPERATION_PERFORMANCE'],negative
+906,was a great deal i will give that.,['PRICE'],positive
+907,the laptop preformed pretty well.,['OPERATION_PERFORMANCE'],positive
+908,it cant fuction well with lots of webpages open at once.,['OPERATION_PERFORMANCE'],negative
+909,it has times were it freezes for 10 seconds and then starts again.,['OPERATION_PERFORMANCE'],negative
+910,"the mouse on the pad, the left button always sticks.",['MOUSE'],negative
+911,the mouse is way way way to sensitve.,['MOUSE'],negative
+912,i tried turning it done but it did nothing.,['MOUSE'],negative
+913,the mouse jumps around all the time and it clicks stuff i dont want it too.,"['MOUSE', 'MOUSE']",negative
+914,its not bad just VERY VERY annoying.,['MOUSE'],negative
+915,think i would spend little extra to get a better made laptop.,['QUALITY'],negative
+916,I am very happy with this laptop.,['GENERAL'],positive
+917,For the price and what I get out of it has exceeded my expectations.,"['PRICE', 'GENERAL']",mixed
+918,I always have used a tower home PC and jumped to the laptop and have been very satisfied with its performance.,['OPERATION_PERFORMANCE'],positive
+919,"First things first, Macbook pro has many applications to make life easier, unlike the windows computers.",[],na
+920,Amazing Quality!,['QUALITY'],positive
+921,Plus stylish.,['DESIGN_FEATURES'],positive
+922,"The big screen allows you to enjoy watching movies , pictures and etc!",['DISPLAY'],positive
+923,"The flaws are, this computer is not for computer gamers because of the OS X.","['MISCELLANEOUS', 'OS']",negative
+924,Mac is not made for gaming.,['MISCELLANEOUS'],negative
+925,BUT there's this application called Boot Camp which allows you to add another OS X like Windows.,['SOFTWARE'],positive
+926,"Second, it gets scratches easily and when it gets old some thing may operated","['QUALITY', 'OPERATION_PERFORMANCE']",negative
+927,Was not happy with one of the programs on it.,['SOFTWARE'],negative
+928,"It was not clear that the Microsoft Student Edition that was loaded on the computer, was a six month trial.",['SOFTWARE'],negative
+929,"Also, the extended warranty was a problem.",['WARRANTY'],negative
+930,The extended warranty for the $4000 and up computers was the only one available for purchase on the drop drown menu.,['WARRANTY'],negative
+931,"Overall the computer is very easy to use, the screen is perfect, great computer, my daughter loves.","['USABILITY', 'DISPLAY', 'GENERAL']",positive
+932,I took 3-4 years researching brands and prices of laptops.,[],na
+933,I finally decided on this laptop because it was the right price for what I need it.,"['PRICE', 'GENERAL']",positive
+934,"I did think it had a camera because that was one of my requirements, but forgot to check in the specifications on this one before I purchased.",['DESIGN_FEATURES'],negative
+935,So I'm disappointed in that because communicating with my relatives out of the area is a priority.,['DESIGN_FEATURES'],negative
+936,"The only thing I didn't learn in my research was the software I would need like privacy protection and warranty protection, in case it gets broken, or crashes etc.",[],na
+937,"I don't have that additional money right now, and therefore wouldn't have purchased it at this time.",[],na
+938,Those things are very important - vital even!,[],na
+939,So think about factoring those things in when you purchase.,[],na
+940,I just hope the reputation that Toshiba has is true and I won't have to worry about a crash.,['COMPANY'],neutral
+941,I will have to purchase Spy ware or Nortell for privacy protection.,[],na
+942,Thank you.,[],na
+943,I bought this eMachines Notebook PC in January of this year and I am highly dissatisfied with it.,['GENERAL'],negative
+944,The Internet Explorer was very slow from the very beginning.,['SOFTWARE'],negative
+945,"It freezes, and it always shows that there is an error, so I have to restart it a few times every time I use it.",['SOFTWARE'],negative
+946,I tried to upgrade it to a newer version a couple of months ago and I still have the same problem.,['SOFTWARE'],negative
+947,"Well, I started using Google Chrome, which is a little better, but it freezes too sometimes.",['SOFTWARE'],negative
+948,"This Notebook restarts every time there is a new update, so if you don't save your files and information, everything will be lost.",['OPERATION_PERFORMANCE'],negative
+949,Another issue I have with it is the battery.,['BATTERY'],negative
+950,Maybe three or four months ago it started blinking all of the sudden.,['BATTERY'],negative
+951,"There is a small red circle next to it with a x in the middle, and when I click on it it says: "" Consider replacing your battery"" and it does not hold full charge.","['BATTERY', 'BATTERY']",negative
+952,"It is not even a year old yet, so I would definitely not recommend it to anyone.","['QUALITY', 'GENERAL']",negative
+953,Don't waste your money!,['GENERAL'],negative
+954,This laptop is the most amazing little peice of machinery I have owned outside of the Iphone.,[],na
+955,"It took me a while top get away from the land of PCs, but now that I have, I can't see myself going back to it.",[],na
+956,The laptop is gorgeous.,['GENERAL'],positive
+957,"It is sleek, smooth, and lightweight.","['DESIGN_FEATURES', 'OPERATION_PERFORMANCE']",positive
+958,It is easily portable and I take it everywhere I go and might require internet access.,['PORTABILITY'],positive
+959,The screen is very large and crystal clear with amazing colors and resolution.,"['DISPLAY', 'DISPLAY']",positive
+960,The keyboard is slick and quiet and not bulky like some other laptops I have had in the past.,[],na
+961,The processor is very quick and effective as I load webpages and applications.,['CPU'],positive
+962,It is quiet and a real joy to watch work.,"['QUALITY', 'OPERATION_PERFORMANCE']",positive
+963,I love it and will probably get another one when this goes to the Laptop in the sky!!,['GENERAL'],positive
+964,Overall this laptop is great.,['GENERAL'],positive
+965,"It has plenty of memory, lots of hard drive, and great graphics.","['MEMORY', 'HARD_DISC', 'GRAPHICS']",positive
+966,It runs very quiet too which is a plus.,['QUALITY'],positive
+967,The only bad thing about it is they give you the worst batteries possible.,['BATTERY'],negative
+968,They only stay charged a little over an hour.,['BATTERY'],negative
+969,"Laptops are usually used on the go, so why not give you a better battery?",['BATTERY'],negative
+970,This a starter notebook.,[],na
+971,The processor a AMD Semprom at 2.1 ghz is a bummer it does not have the power for HD or heavy computing.,"['CPU', 'CPU']",negative
+972,The notebook is lacking a HDMI port and a S-video port that would enable one to hook it to a TV.,"['DESIGN_FEATURES', 'CONNECTIVITY']",negative
+973,If you check you will find the same notebook with the above missing ports and a dual core AMD or Intel processor.,[],na
+974,I would not recommend this to anyone wanting a notebook expecting the performance of a Desktop it does not meet the expectations.,[],na
+975,It is a cheap throw together.,['QUALITY'],negative
+976,Save your money and go for a better device.,['GENERAL'],negative
+977,This laptop is a great price and has a sleek look.,"['PRICE', 'DESIGN_FEATURES']",positive
+978,Runs smooth and quick.,['OPERATION_PERFORMANCE'],positive
+979,"I wish it had a webcam though, then it would be perfect!","['DESIGN_FEATURES', 'GENERAL']",mixed
+980,I Love my new computer!,['GENERAL'],positive
+981,Its fast and another thing I like is that it has three USB ports.,"['OPERATION_PERFORMANCE', 'DESIGN_FEATURES']",positive
+982,I love to write and play with graphics and html programming and my new Toshiba works great on both!,['MISCELLANEOUS'],positive
+983,Thank you for your great product!,"['GENERAL', 'COMPANY']",positive
+984,Everything about this computer is easy to use.,['USABILITY'],positive
+985,wonderful features.,['DESIGN_FEATURES'],positive
+986,The only thing is that the battery won't last more than 1/2 an hour.,['BATTERY'],negative
+987,It discharges too quickly.,['BATTERY'],negative
+988,"Kind of annoying, but I still love the laptop.",['GENERAL'],positive
+989,It has good speed and plenty of hard drive space.,"['OPERATION_PERFORMANCE', 'HARD_DISC']",positive
+990,The only downfall is the volume control.,['MULTIMEDIA_DEVICES'],negative
+991,The wheel that turns the volume up and down doesn't work in real time.,['MULTIMEDIA_DEVICES'],negative
+992,I have to keep turning it until it decides to lower and there is no mute.,"['MULTIMEDIA_DEVICES', 'MULTIMEDIA_DEVICES', 'MULTIMEDIA_DEVICES']",negative
+993,I bought my macbook a few months ago and it has been my baby ever since.,['GENERAL'],positive
+994,I love it so much.,['GENERAL'],positive
+995,"It has come into good use for my finances, scheduling, my parents business expenses, and it is definitely amazing for gaming.",['MISCELLANEOUS'],positive
+996,"The best thing is even while doing almost ten or twenty things at once, it never slows down.",['OPERATION_PERFORMANCE'],positive
+997,It's just as fast with one program open as it is with sixteen open.,['OPERATION_PERFORMANCE'],positive
+998,It works exactly like it did the day I took it out of the box.,"['OPERATION_PERFORMANCE', 'QUALITY']",positive
+999,GREAT INVESTMENT!,['GENERAL'],positive
+1000,I purchased this laptop while on a business trip to keep up with my email.,[],na
+1001,I had left my regular laptop at home and needed something to use while out of town .,[],na
+1002,The price and features more than met my needs.,"['PRICE', 'DESIGN_FEATURES']",positive
+1003,I love WIndows 7 which is a vast improvment over Vista.,[],na
+1004,The feature are good enough for what I need.,['DESIGN_FEATURES'],positive
+1005,I love my macbook pro!,['GENERAL'],positive
+1006,I have been a mac user since the mid 90s.,[],na
+1007,I grew up in a design family so it only made sense.,[],na
+1008,My laptop is almost 2yrs old and I have never had any problems with it.,['GENERAL'],positive
+1009,If you are a PC user looking to convert I would HIGHLY recommend it!,['MISCELLANEOUS'],positive
+1010,It may take a little getting used to but you don't have to worry about viruses or other headaches.,"['USABILITY', 'QUALITY']",mixed
+1011,Not to mention the fact that your mac comes fully loaded with all necessary basic programs.,['DESIGN_FEATURES'],positive
+1012,I am ADDICTED to photo booth!,['SOFTWARE'],positive
+1013,It is SO much fun to play with.,['SOFTWARE'],positive
+1014,I work with kids and they love making short videos on there.,['SOFTWARE'],positive
+1015,"I am able to organize my pics, music and files easily.",['SOFTWARE'],positive
+1016,If you have any creativity in you do yourself a favor and get a mac!,"['GENERAL', 'COMPANY']",positive
+1017,"Since I keyboard over 100 wpm, I look for a unit that has a comfortble keyboard (no keys sticking or lagging, strange configuration of ""extra key"", etc.",[],na
+1018,I love the keyboard.,['KEYBOARD'],positive
+1019,Most laptops and notebooks are difficult to key on.,[],na
+1020,This unit is not.,[],na
+1021,The display is awesome.,['DISPLAY'],positive
+1022,The resolution is even higher then any other laptop on the market.,[],na
+1023,Only thing I would want to add to this is an internal bluray read/write drive.,['DESIGN_FEATURES'],neutral
+1024,But other than that I am blown away by all the features this laptop offers.,['DESIGN_FEATURES'],positive
+1025,I think this computer is super lame.,['QUALITY'],negative
+1026,I dont understand how anyone can think this is a great product worth purchasing.,['GENERAL'],negative
+1027,I went to my local Best Buy looking for a new laptop since mine broke.,[],na
+1028,I decided to get this pile of crap on a whim and totally freaking regret it.,['QUALITY'],negative
+1029,It doesnt work worth a damn.,['GENERAL'],negative
+1030,The display is beyond horrible.,['DISPLAY'],negative
+1031,I can not even read what I am writing half of the time.,['DISPLAY'],negative
+1032,"There are so many things wrong with this product, it just makes me want to set my self on fire!",['GENERAL'],negative
+1033,I would totally recommend any other laptop over this pile of grabage.,['GENERAL'],negative
+1034,"I know there are way better laptops out there for the same price, and why spend money on shit when you can go out and get yourself a perfectly decent laptop that doesnt suck total monkey balls.",[],na
+1035,Not to mention it has shit gigs.,['HARD_DISC'],negative
+1036,I could not even put my entire music collection on this garabage.,['HARD_DISC'],negative
+1037,Do yourself a favor and invest in a few external harddrives if you are planning on purchasing this laptop.,['HARD_DISC'],negative
+1038,"I bought this last week, and the very next day had to return it because it over heated and the touch-mouse stopped responding.","['QUALITY', 'MOUSE']",negative
+1039,"got another 1, and same issue.",['QUALITY'],negative
+1040,I am taking back today.,['GENERAL'],negative
+1041,Don't waste your money or time.,['GENERAL'],negative
+1042,"Very dissappointed becase I have had toshibas for years, and never a issue.","['GENERAL', 'COMPANY']",mixed
+1043,STOPPED BOOTING UP less than a week after my one-year warranty was up.,"['OPERATION_PERFORMANCE', 'QUALITY']",negative
+1044,Toshiba knows there is a manufacturing defect but will not acknowledge it.,['SUPPORT'],negative
+1045,"Summary: After doing some investigation on the web, I have found that Toshiba NB205s are not chronically not booting.",[],na
+1046,"Apparently there is a manufacturing defect, something with the amount of thermal paste.",['QUALITY'],negative
+1047,TOSHIBA WILL NOT ACKNOWLEDGE THIS PROBLEM.,['SUPPORT'],negative
+1048,"When I called Toshiba, they would not do anything and even tried to charge me $35 for the phone call, even though they didn't offer any technical support.","['SUPPORT', 'SUPPORT']",negative
+1049,I loved the netbook (minus the fact that it was windows OS) until this started happening.,"['OS', 'GENERAL']",negative
+1050,"But if you can't make your product last more than a year, you will not get my business again.","['COMPANY', 'QUALITY']",negative
+1051,I've had my MacBook Pro for three years now and still love it!,['GENERAL'],positive
+1052,"In those three years, I've had a couple of minor problems and both were resolved by Apple quickly and easily.",['SUPPORT'],positive
+1053,"My power supply cord developed exposed wires within the first year of ownership, so it was covered by the Applecare warranty plan.","['POWER_SUPPLY', 'WARRANTY']",mixed
+1054,"After a couple of years, my battery life began to diminish but was replaced for free due to a company-wide recall of my particular battery.","['BATTERY', 'SUPPORT']",mixed
+1055,"In the three years I've had my MacBook Pro, I have never had a virus on my computer, and I do a lot of work on the internet.",['QUALITY'],positive
+1056,"While there are occasions that my computer will freeze or will need to be manually shut down, this occurs far less frequently than on PC computers and laptops that I've used.",[],na
+1057,The iLife software that comes with the computer is so simple to use and produces a great finished product.,"['SOFTWARE', 'DESIGN_FEATURES']",positive
+1058,I highly recommend this product!,['GENERAL'],positive
+1059,"It absolutely is more expensive than most PC laptops, but the ease of use, security, and minimal problems that have arisen make it well worth the pricetag.",[],na
+1060,Needs constant repair.,['QUALITY'],negative
+1061,First the screen goes completely out.,['DISPLAY'],negative
+1062,"Then HP sends it back to me with the hardware screwed up, not able to connect.",['SUPPORT'],negative
+1063,"Now the screen is going darker, darker, darker.",['DISPLAY'],negative
+1064,HP is more interested in selling extended warranties (which cost more than the netbook new) then they are in helping or fixing.,"['SUPPORT', 'WARRANTY']",negative
+1065,"Oh yeah, don't forget the expensive shipping to and from HP.",['SHIPPING'],negative
+1066,I'v spent as much for shipping as I would to buy a new netbook -- of course a different brand.,"['SHIPPING', 'COMPANY']",negative
+1067,So far so good with this laptop.,['GENERAL'],positive
+1068,"Fan vents to the side, so no cooling pad needed, great feature!",['FANS_COOLING'],positive
+1069,Screen is crystal clear and the system is very responsive.,"['DISPLAY', 'OPERATION_PERFORMANCE']",positive
+1070,Memory is upgradable.,['USABILITY'],positive
+1071,The only thing I would change about it is the mouse keys.,['MOUSE'],negative
+1072,They click.,['MOUSE'],negative
+1073,"sounds like a typewriter, but if you can get past that, this is a great laptop for a little money!","['MOUSE', 'GENERAL', 'PRICE']",mixed
+1074,I have owned many computers and laptops.,[],na
+1075,I HATE this one.,['GENERAL'],negative
+1076,Vista is a nightmare.,['OS'],negative
+1077,No tutorials on the display.,['MISCELLANEOUS'],negative
+1078,The book is useless.,['MISCELLANEOUS'],negative
+1079,The machine has a bluray player the book has no mention of it or how to connect it to your HDTV.,"['MISCELLANEOUS', 'USABILITY']",negative
+1080,this is one of the reasons I purchased it.,[],na
+1081,Thinking about returning it,['GENERAL'],negative
+1082,The Macbook is a fantastic laptop.,['GENERAL'],positive
+1083,This is the first macbook I have ever had.,[],na
+1084,I came from the Dell Laptops and now I am so glad I switched when I needed a new laptop.,[],na
+1085,The macbooks are small enough to be very portable yet hold tons of information and performance.,[],na
+1086,"Although the price is higher then Dell laptops, the Macbooks are worth the dough.",[],na
+1087,You will love this macbook if you choose to buy it.,['GENERAL'],positive
+1088,The macbook rarely requires a hard reboot.,['OPERATION_PERFORMANCE'],positive
+1089,It just works flawlessly!,['OPERATION_PERFORMANCE'],positive
+1090,Its hard to encounter a problem on a mac that would require such abrupt action.,['GENERAL'],positive
+1091,"Dells are ok, HPs aren't that good, but Macs or Fantastic.",[],na
+1092,"I honestly love my mac, thats why I am a self proclaimed mac addict.","['GENERAL', 'COMPANY']",positive
+1093,If you want more information on macs I suggest going to apple.com and heading towards the macbook page for more information on the applications.,[],na
+1094,This was purchased for my daughter and I was pleasantly surprised.,['GENERAL'],positive
+1095,I wasn't a big fan of the Netbooks but this one was very well designed.,[],na
+1096,It had the full sized touch pad with 2 buttons instead of just one.,['MOUSE'],positive
+1097,It made the computer much easier to use and navigate.,['USABILITY'],positive
+1098,Keyboard was also very nice and had a solid feel.,"['KEYBOARD', 'KEYBOARD']",positive
+1099,This system came loaded with Windows 7 Starter.,['OS'],neutral
+1100,"While lacking some of the functions of the other versions, this was very acceptable for the uses planned for this computer.",[],na
+1101,"So far, so good.",['GENERAL'],positive
+1102,"When I got this laptop in 2007 to help me with school, I had a hard time from beginning.",['QUALITY'],negative
+1103,"I feel that it was poorly put together, because once in a while different plastic pieces would come off of it.",['QUALITY'],negative
+1104,Quite simply this is the best laptop I have ever owned.,['GENERAL'],positive
+1105,"I have had several machines over the years, both for personal and business use.",[],na
+1106,All of them were Windows machines.,[],na
+1107,"Don't get me wrong, I am no Microsoft hater, I've just managed to turn into a much bigger Apple fan because of this machine.",[],na
+1108,"For me, five stars is not enough.",['GENERAL'],positive
+1109,"I love the 15"" MacBook Pro.",['GENERAL'],positive
+1110,"My parents bought it for me as a graduation gift, and i'm totally (almost kind of maybe definitely) obsessed with it.",['GENERAL'],positive
+1111,It was very easy to just pick up and use--,['USABILITY'],positive
+1112,It did not take long to get used to the Mac OS.,['OS'],positive
+1113,(I had been a Windows/Linux user before this),[],na
+1114,"I love the size because the screen is big enough for what I use it for (Internet, artwork), and yet it is small enough to be reasonably portable.","['DESIGN_FEATURES', 'DISPLAY', 'PORTABILITY']",positive
+1115,"There are several programs for school or office use (Pages, Numbers, Keynote, etc.), music (Garageband), photo management (Photo Booth, iPhoto), video-editing or movie-making (iMovie), etc.",['SOFTWARE'],neutral
+1116,The built-in webcam is great for Skype and similar video-chat services.,['MULTIMEDIA_DEVICES'],positive
+1117,"iTunes is a handy music-management program, and it is essential for anyone with an iPod.","['SOFTWARE', 'SOFTWARE']",positive
+1118,The neat and organized icon list is a welcome change from cluttered and confusing desktop icons.,[],na
+1119,"All-in-all, I would definitely recommend this product for nearly everyone.",['GENERAL'],positive
+1120,I've always owned a PC and decided to try a MacBook to see what it's all about.,[],na
+1121,I love it!,['GENERAL'],positive
+1122,I'm so glad I purchased a Mac and not another PC!!!,[],na
+1123,They definitely have a superior product!,"['GENERAL', 'COMPANY']",positive
+1124,"Its not just slow on the internet, its slow in general.","['OPERATION_PERFORMANCE', 'CONNECTIVITY']",negative
+1125,No I am generous calling it slow.,['OPERATION_PERFORMANCE'],negative
+1126,its more like a snail crawl.,['OPERATION_PERFORMANCE'],negative
+1127,I bought for my son in the 2nd grade.,[],na
+1128,he can't stand it.,['GENERAL'],negative
+1129,I can't begin to say how disappointed I am.,['GENERAL'],negative
+1130,I should have spent an extra hundred bucks and got a full sized computer.,['GENERAL'],negative
+1131,"the key bindings take a little getting used to, but have loved the Macbook Pro.","['KEYBOARD', 'GENERAL']",mixed
+1132,Delivery was early too.,['SHIPPING'],positive
+1133,It allows me to do everything I need from a computer and more.,['GENERAL'],positive
+1134,"With awesome graphics and assuring security, it's perfect!","['GRAPHICS', 'QUALITY', 'GENERAL']",positive
+1135,"The difference in the Apple keyboard from a PC's keyboard took a bit of tim to get used to, but overall it's worth it!",[],na
+1136,I'd recommend this laptop to anyone!,['GENERAL'],positive
+1137,The Toshiba Satellite laptop is  DESIGNED  to fail !,['GENERAL'],negative
+1138,The board has a bad connector with the power supply and shortly after warrenty expires the power supply will start having issues.,"['MOTHERBOARD', 'POWER_SUPPLY']",negative
+1139,Toshiba is aware of the issue but unless the extended warrenty is bought Toshiba will do nothing about it.,['SUPPORT'],negative
+1140,I actually contact Toshiba before I started having problem and was given run around after I supplied serial number in order to delay me sending in laptop until after warrenty expired.,['SUPPORT'],negative
+1141,Then after paying for it to be examined I was told it was same problem cited on website but I'd have to pay anyways since it was past warrenty.,['SUPPORT'],negative
+1142,"It has far exceeded my expectations for power, storage, and abilitiy.","['OPERATION_PERFORMANCE', 'HARD_DISC', 'USABILITY']",positive
+1143,It is easy to navigate and update programs.,['USABILITY'],positive
+1144,"My kids have to take their PCs in once a year to have them ""de-bugged"".",[],na
+1145,I've never had problems with viruses.,['QUALITY'],positive
+1146,My next laptop will also be a Mac!,['COMPANY'],positive
+1147,I would like to tell you about the best laptop I just got from Mac.,['GENERAL'],positive
+1148,"I work in film editing and post production, so I need a laptop that not only has power, but memory and speed as well.",[],na
+1149,My mac laptop is fabulous in both areas.,"['OPERATION_PERFORMANCE', 'MEMORY']",positive
+1150,It gives me the power and speed that I need to run all the programs I use to edit.,['OPERATION_PERFORMANCE'],positive
+1151,"The Final Cut Pro on this laptop is so fast and easy, and I can use this to seemlessly transfer all my work to my home computer, which is also a mac.","['SOFTWARE', 'SOFTWARE', 'USABILITY']",positive
+1152,I would buy one of these for every person in my office if I could.,['GENERAL'],positive
+1153,"In my line of work, I often have to take work home, and this makes it so easy.",['USABILITY'],positive
+1154,"I do transcription work on the side, and the flatline keyboard makes typing quick and easy as well.","['KEYBOARD', 'KEYBOARD']",positive
+1155,"The apple care has never failed me, and I expect it to be the same for this computer as well.",['SUPPORT'],positive
+1156,I will only buy apple laptops from now on.,['COMPANY'],positive
+1157,"Great laptop for school, easy to use for beginners in the household.","['MISCELLANEOUS', 'USABILITY']",positive
+1158,Keyboard is great but primary and secondary control buttons could be more durable.,"['KEYBOARD', 'KEYBOARD']",mixed
+1159,Battery life could be better but overall for the price and Toshiba's reputation for laptops it's great!,"['BATTERY', 'GENERAL', 'PRICE', 'COMPANY']",mixed
+1160,My MacBook Pro has been a huge disappointment.,['GENERAL'],negative
+1161,"From the build quality to the performance, everything about it has been sub-par from what I would have expected from Apple.","['QUALITY', 'OPERATION_PERFORMANCE']",negative
+1162,"The system constantly overheats, the battery life is too short, the case is coming apart, and my core applications that I use every day in my work as a graphic artist run poorly.","['BATTERY', 'QUALITY', 'SOFTWARE']",negative
+1163,I would not recommend this product to anyone.,['GENERAL'],negative
+1164,"Screen is awesome, battery life is good.","['DISPLAY', 'BATTERY']",positive
+1165,Really like the textured surface which shows no fingerprints.,['QUALITY'],positive
+1166,Good laptop for the money.,"['GENERAL', 'PRICE']",mixed
+1167,"Speakers don't get that loud, but good enough.",['MULTIMEDIA_DEVICES'],neutral
+1168,I can't imagine EVER buying a PC again!,[],na
+1169,I have had a Mac for 6 years and won't go back to PC.,[],na
+1170,They don't crash.,['OPERATION_PERFORMANCE'],positive
+1171,"If a website ever freezes (which is rare), its really easy to force quit.",['OPERATION_PERFORMANCE'],positive
+1172,Never been hacked.,['QUALITY'],positive
+1173,No viruses.,['QUALITY'],positive
+1174,"I have had to call with a few questions or issues and they have helped me for free, even without the warranty.",['SUPPORT'],positive
+1175,A mac is very easy to use and it simply makes sense.,['USABILITY'],positive
+1176,Its also FUN to use!,['GENERAL'],positive
+1177,"The programs are great, like iphoto (love the editing capabilities), imail (which can incorporate with the address book on the ipod and ipad), imovie, etc.","['SOFTWARE', 'SOFTWARE']",positive
+1178,My sister has the same Mac as me and she is in a band and uses GarageBand to record and edit.,[],na
+1179,She said its very user friendly.,['SOFTWARE'],positive
+1180,"I have had another Mac, but it got slow due to an older operating system.",[],na
+1181,"However, I love this particular Mac because its very fast, great size, and has fantastic features like the lighted keyboard and easy mouse pad.","['GENERAL', 'OPERATION_PERFORMANCE', 'DESIGN_FEATURES', 'KEYBOARD', 'MOUSE']",positive
+1182,"I am very happy I bought this Mac, well worth the extra money.","['PRICE', 'GENERAL']",mixed
+1183,I simply got tired of a bad computer like windows with its constant freezing and anti-virus.,[],na
+1184,I got my MacBook Pro because I wanted to do all the stuff I need to do without worrying about the system quitting on me or freezing for a few minutes.,[],na
+1185,Now that I have it I see that I really needed this for much more.,['GENERAL'],positive
+1186,"I run Dreamweaver, Final Cut Pro 7, Photoshop, Safari, Firefox, MSN Messenger and a few other applications constantly at the same time.",['OPERATION_PERFORMANCE'],positive
+1187,I have not had a problem with the applications quitting or freezing.,['SOFTWARE'],positive
+1188,I highly recommend this laptop to anybody that wants great performance from a laptop and would like to relax and not become enraged cursing the gods about to throw your laptop out the door.,"['OPERATION_PERFORMANCE', 'GENERAL']",positive
+1189,"Take the simple, easy solution to your computer problems and stop waiting and smacking your old computer around.",[],na
+1190,I've had my Macbook Pro since August 2009.,[],na
+1191,"Prior to this computer, I owned a PowerBook G4 for 6 years (quite a long time for a laptop).",[],na
+1192,That was my first Apple product and since then I have been incredibly happy with every product of theirs I have bought.,['COMPANY'],positive
+1193,My MacBook Pro is no exception.,['GENERAL'],positive
+1194,On my PowerBook G4 I would never use the trackpad I would use an external mouse because I didn't like the trackpad.,[],na
+1195,Since I've had this computer I've only used the trackpad because it is so nice and smooth.,"['MOUSE', 'MOUSE']",positive
+1196,I also like that you can scroll down in a window using two fingers on the trackpad.,"['MOUSE', 'MOUSE']",positive
+1197,"The display is incredibly bright, much brighter than my PowerBook and very crisp.",[],na
+1198,"The computer runs very fast with no problems and the iLife software that comes with it (iPhoto, iMovie, iWeb, iTunes, GarageBand) is all very helpful as well.","['SOFTWARE', 'OPERATION_PERFORMANCE']",positive
+1199,"I also purchased iWork to go with it which has programs for word processing, spreadsheets, and presentations (similar to Microsoft Office).",[],na
+1200,I like those programs better than Office and you can save your files to be completely compatible with the Office programs as well.,[],na
+1201,I would recommend this laptop to anyone looking to get a new laptop who is willing to spend a little more money to get great quality!,"['GENERAL', 'PRICE', 'QUALITY']",mixed
+1202,Shiny,['GENERAL'],positive
+1203,This Laptop is the Best of the best!,['GENERAL'],positive
+1204,The Awesomest of the awesomest.,['GENERAL'],positive
+1205,"It is so great, I can Hardly ever take my hands off it!",['GENERAL'],positive
+1206,My friends are in awe every time they come over!,['GENERAL'],positive
+1207,"I got it for Christmas, and I was so excited to set it up!",['GENERAL'],positive
+1208,"It is super fast, and always loads.",['OPERATION_PERFORMANCE'],positive
+1209,I am just amazed.,['GENERAL'],positive
+1210,The only bad part is the size/weight.,['DESIGN_FEATURES'],negative
+1211,"It's like 9 punds, but if you can look past it, it's GREAT!","['GENERAL', 'DESIGN_FEATURES']",mixed
+1212,"If you don't like fingerprints, this might not be the laptop for you.",['QUALITY'],negative
+1213,"It super shiny, so you can see the fingerprints easily.",['QUALITY'],negative
+1214,It doesn't bother me though.,[],na
+1215,It doesn't heat up like my old laptop.,[],na
+1216,All for such a great price.,['PRICE'],positive
+1217,It's color is even cool.,['DESIGN_FEATURES'],positive
+1218,Another Great thing is the Beast graphics.,['GRAPHICS'],positive
+1219,They are so realistic I am just speechless.,['GRAPHICS'],positive
+1220,"I let my friend borrow it, and she knows nothing about computers, and she used it with ease.",['USABILITY'],positive
+1221,The cool thing about this is anyone can use it.,['USABILITY'],positive
+1222,"Mom, Dad, Brother, sister, You name it!",[],na
+1223,I don't know how I could ever live without my Qousmio.,['GENERAL'],positive
+1224,"I own a Hewlett Packard laptop and I've had man problems with it since I bought in in Feb, 201",['QUALITY'],negative
+1225,Ive had to call tech support many times.,['QUALITY'],negative
+1226,Each time taking about 1 day or so.,['SUPPORT'],negative
+1227,I just recently had to ship my laptop back to HP for repair.,[],na
+1228,I had to wait 3 weeks to get it back and it still is not working properly.,['SUPPORT'],negative
+1229,I had to pay for the shipping!,['SUPPORT'],negative
+1230,I will never buy anything from HP again!,['COMPANY'],negative
+1231,One of the smartest thing I did was take my time to compare laptops before making my purchase.,[],na
+1232,The Toshiba Satellite has been more than I expected for the price.,"['GENERAL', 'PRICE']",mixed
+1233,I will stack it up against laptops that cost twice as much any day.,[],na
+1234,THis computer may be small but it is one heck of a power horse.,"['OPERATION_PERFORMANCE', 'DESIGN_FEATURES']",mixed
+1235,You can do it all on this bad boy but the main thing this netbook was desinged for was surfing the web and boy o boy does it ever.,"['GENERAL', 'MISCELLANEOUS']",positive
+1236,for being so small it is amazing that it is as fast as it is.,"['DESIGN_FEATURES', 'OPERATION_PERFORMANCE']",mixed
+1237,when i first got it i thought the size of it was a joke.,['DESIGN_FEATURES'],neutral
+1238,but after i got used to it i love it.,['DESIGN_FEATURES'],positive
+1239,the size of has actually help me out quite a bit by me being able to fit it in an already full backpack and to use it at a resturant where the food on the table is always so space consuming.,"['DESIGN_FEATURES', 'PORTABILITY', 'USABILITY']",positive
+1240,"it has 3 usb ports, 1 sd memory card reader and an sd memory car expansion.",['DESIGN_FEATURES'],positive
+1241,the only down fall is that it has no cd drive but i found that they are very cheap to by and also very portable making this the best friend to someone who is always looking for more space then they have.,"['DESIGN_FEATURES', 'PORTABILITY']",mixed
+1242,overall i would recomend this to anybody and tell them that if they want to burn their music or play there video games to buy the cd drive.,"['GENERAL', 'MISCELLANEOUS']",mixed
+1243,"i would never go back any more, i love this computer so much and i would recommend it to everyone.",[],na
+1244,"i use my mac all the time, i love the software, the way it takes a short time to load things, how easy it is to use and most of all how you don't have to worry about viruses.","['OPERATION_PERFORMANCE', 'USABILITY', 'SOFTWARE', 'QUALITY']",positive
+1245,"With a mac you don't have to worry about antivirus software or firewall, it's so wonderful.",['QUALITY'],positive
+1246,this computer is a little more expensive than any pc but it will last you longer and it worth every penny.,[],na
+1247,"All apple associates are always wiling to help you out with anything, no matter when you purchased the computer and how many years passed.",['SUPPORT'],positive
+1248,"this computer will last you at least 7 years, thats an amazing life spanned an electronic.",['QUALITY'],positive
+1249,"everything about a mac is wonderful, it takes a little used to learning and getting used to the new system, but you will learn fast and its all worth it.","['GENERAL', 'OS']",positive
+1250,Not working = bad,['OPERATION_PERFORMANCE'],negative
+1251,"I spent 2200 dollars on a ""top of the line laptop"".","['PRICE', 'QUALITY']",negative
+1252,I got the blue screen of death the first month I got it.,"['OPERATION_PERFORMANCE', 'QUALITY']",negative
+1253,"1) Payed $2200 for a ""premium"" laptop","['PRICE', 'QUALITY']",negative
+1254,2) Blue screen first month,"['OPERATION_PERFORMANCE', 'QUALITY']",negative
+1255,3) Horrible customer support-they lost my laptop for a month-got it back 3 months later,['SUPPORT'],negative
+1256,"4) Laptop still did not work, blue screen within a week...",['SUPPORT'],negative
+1257,5) Cut my losses and sold it for parts,['GENERAL'],negative
+1258,"Do yourself a favor, this is not a fake story trying to hurt alienware...",[],na
+1259,"this company truely does make horrible products and doesnt seem to because they are certain things like this ""never"" happen...",['COMPANY'],negative
+1260,do a quick search on the internet see if im the only one.,[],na
+1261,I'm new - just switched from years of PC frustration.,[],na
+1262,"what an elegant, wonderful machine.","['DESIGN_FEATURES', 'GENERAL']",positive
+1263,"I'm making the switch and finding that my biggest problem is trying to do things the 'old' way - and Apple does, indeed, have the better idea.",['GENERAL'],positive
+1264,I really wish I had done this years ago.,['GENERAL'],positive
+1265,Pairing it with an iPhone is a pure pleasure - talk about painless syncing - used to take me forever - now it's a snap.,['CONNECTIVITY'],positive
+1266,Thank you Best Buy for putting my computer together and installing my first software - you guys were GREAT too!,[],na
+1267,I love it - never had a computer I was so impressed with - and I've had a lot of laptops and desktops - this one is FAR AND ABOVE THE BEST ONE I EVER HAD BEFORE.,['GENERAL'],positive
+1268,"I tell everyone that I know, friends, family and enemies this is the absolute worst computer i have ever used.",['GENERAL'],negative
+1269,The computer blinks it shuts off at will.,['OPERATION_PERFORMANCE'],negative
+1270,The letter A stopped working after the first week.,"['KEYBOARD', 'KEYBOARD']",negative
+1271,when i called to have another one shipped or to get my money back they said the return policy is 23 twenty three days from the date of purchase.,['SUPPORT'],negative
+1272,not the day received.,[],na
+1273,so the fact that the computer does not work on the 24 twenty fourth day is my fault.,"['SUPPORT', 'QUALITY']",negative
+1274,they have done absolutely nothing to fix the computer problem.,['SUPPORT'],negative
+1275,they have not sent a new one nor called.,['SUPPORT'],negative
+1276,i spent eight hundred dollars from a giant paper weight that looks good on a bus.,"['DESIGN_FEATURES', 'PRICE']",mixed
+1277,then on top of it all their cusromer service center is in the middle east.,['SUPPORT'],negative
+1278,So when you do call to complain about the hunk of metal you get the joy of speaking with a bunch of people you cant understand.,['SUPPORT'],negative
+1279,"Then to make matters worst, there is noone that they can transfer you to.",['SUPPORT'],negative
+1280,its sad because their commercials are great.,[],na
+1281,I had this computer for one month and had to send it in for repair.,['QUALITY'],negative
+1282,Got the computer back a month later and it was still broken sent it out again and they repaired it.,['SUPPORT'],negative
+1283,3 weeks went by and the computer keeps crashing and will not open any applications.,['SUPPORT'],negative
+1284,DO NOT BUY GATEWAY COMPUTERS THEY ARE JUNK AND THE WARRANTY COMPANY IS HORRIBLE.,"['SUPPORT', 'COMPANY']",negative
+1285,YOU WILL NOT BE ABLE TO TALK TO AN AMERICAN WARRANTY SERVICE IS OUT OF COUNTRY.,['SUPPORT'],negative
+1286,COMPUTER HAS BEEN AT SERVICE FACILITY MORE THAN IN MY HANDS.,['QUALITY'],negative
+1287,I have had this laptop for a few months now and i would say im pretty satisfied.,['GENERAL'],positive
+1288,The only problems are the sound isnt very loud I have to wear headphones.,['MULTIMEDIA_DEVICES'],negative
+1289,Another thing is that after only a month the left mouse key broke and it costed $175 to send it in to fix it.,"['MOUSE', 'SUPPORT']",negative
+1290,That whole experience was just ridiculous we sent it in and after they told us that we had to pay $175 to fix it we were like we will just by a portable mouse which would be way cheaper but they refused to send the laptop back until we paid the $175 and it was fixed.,"['SUPPORT', 'SUPPORT']",negative
+1291,It took a little over 2 weeks until i got it back.,['SUPPORT'],negative
+1292,ANd I babyed the heck out of it just one day when i opened it turned it on went to click and it was broke.,['MOUSE'],negative
+1293,I babyed the heck out of it and i still do.,[],na
+1294,To be honest i think it was faulty equipment or something but idk.,['QUALITY'],negative
+1295,The graphics are great.,['GRAPHICS'],positive
+1296,The internet speed is spectacular.,"['OPERATION_PERFORMANCE', 'CONNECTIVITY']",positive
+1297,The battery life is probably an hour at best.,['BATTERY'],negative
+1298,Oh and it has word and stuff but its a trial verion so after about a month or so when you go to open it it asks for a product key which didnt come with the computer and even after clicking cancel it wont let you use it at all I use the old word processer which works good.,['SOFTWARE'],negative
+1299,I would recommend it just because of the internet speed probably because thats the only thing i really care about.,"['OPERATION_PERFORMANCE', 'CONNECTIVITY']",positive
+1300,I wish the volume could be louder and the mouse didnt break after only a month.,"['MULTIMEDIA_DEVICES', 'MOUSE']",negative
+1301,I received this laptop as a gift and let me just tell you that its the worst.,['GENERAL'],negative
+1302,At first it worked well for a month or so then the system board failed and I send it in to toshiba some complaints and three weeks later I then receive my laptop back only to discover that it still has the same problem so now I have to send it back again to get it fixed again.,"['QUALITY', 'MOTHERBOARD', 'SUPPORT']",negative
+1303,This computer doesn't do that well with certain games it can't play some and it becomes too hot while playing games.,['MISCELLANEOUS'],negative
+1304,Oh and if thats not bad enough it doesn't come with a recovery cd so you can make one if you know how to or buy one if you buy it the cost is $25 for two cds.,['MISCELLANEOUS'],negative
+1305,the whole experiece is horrible so save up and buy a better laptop.,['GENERAL'],negative
+1306,I bought a HP Pavilion DV4-1222nr laptop and have had so many problems with the computer.,['GENERAL'],negative
+1307,"The computer is so slow, even after paying staples the extra money to speed it up.",['OPERATION_PERFORMANCE'],negative
+1308,They said it was a computer error on this type of computer.,['MISCELLANEOUS'],negative
+1309,"Also, I have alot of trouble with it getting very hot, and not even sitting on anything to make it hot.",['QUALITY'],negative
+1310,"When the computer has been on for several minutes, it will occasionaly just go off by itself.",['OPERATION_PERFORMANCE'],negative
+1311,"Also, the battery does not last very long at all.",['BATTERY'],negative
+1312,I would recommend not buying this product.,['GENERAL'],negative
+1313,I have had no luck with staples or HP to resolve this problem.,['SUPPORT'],negative
+1314,I am stuck with a laptop that I cannot do very much with.,['GENERAL'],negative
+1315,"Also, I have had alot of trouble with the keys sticking and will not type correctly.",['KEYBOARD'],negative
+1316,"Also, I have had alot of trouble with the shift key to go to other lines.",['KEYBOARD'],negative
+1317,"It gets stuck all of the time you use it, and you have to keep tapping on it to get it to work.","['KEYBOARD', 'KEYBOARD']",negative
+1318,Sometimes the screen even goes black on this computer.,['DISPLAY'],negative
+1319,Will probably never buy a HP again.,['COMPANY'],negative
+1320,Purchased a Toshiba Lap top it worked good until just after the warrenty went out.,"['QUALITY', 'OPERATION_PERFORMANCE']",neutral
+1321,After the warrenty expired the hard drive went bad and it would have cost more to fix then to replace.,"['HARD_DISC', 'SUPPORT']",negative
+1322,"Before we got this laptop, had a compaq pasaro for 5 years with no problems.",[],na
+1323,After the bad experience with this computer went back to compaq.,[],na
+1324,I hate it.,['GENERAL'],negative
+1325,I have had the luxury (sarcasm) of owning 2 of these laptops.,['GENERAL'],negative
+1326,The first fell apart right after the 1-year-warranty.,['QUALITY'],negative
+1327,"During that time, I had to send it back 3 times.",['QUALITY'],negative
+1328,I paid about 18000 for this laptop because of all the bells and whistles and it kept crapping out on me.,"['DESIGN_FEATURES', 'QUALITY', 'PRICE']",negative
+1329,None of the techs at HP knew what they were doing.,['SUPPORT'],negative
+1330,"They would repair one thing, send it back and it would still have the same problem.",['SUPPORT'],negative
+1331,"The processor went on me, the fan went and the motherboard went.","['CPU', 'FANS_COOLING', 'MOTHERBOARD']",negative
+1332,"I wanted to purchase the extended warranty and they refused, because they knew it was trouble.","['SUPPORT', 'GENERAL']",negative
+1333,I had something else go wrong and they said it had to be in good working order to be able to buy the warranty.,['SUPPORT'],negative
+1334,I took it to friend who temporarily fixed it and I finally paid about 1500 for the extended warranty.,['WARRANTY'],neutral
+1335,I sent it back AND THEY LOST IT.,['SUPPORT'],negative
+1336,I waited and waited and no laptop.,['SUPPORT'],negative
+1337,Finally after months of research the discovered that they mailed it to a Walmart and there probably would be no way to find the box.,['SUPPORT'],negative
+1338,"I waited another month for approval and for them to ""BUILD"" me a new laptop.",['SUPPORT'],negative
+1339,I was psyched.,[],na
+1340,I thought all my problems would finally be solved being that my old computer wouldn't go onto our wireless network and I wouldn't have the same problems because it was updated.,['CONNECTIVITY'],negative
+1341,Here we are another year later and the computer is doing the same thing.,['SUPPORT'],negative
+1342,HP didn't fix it.,['SUPPORT'],negative
+1343,I swear they design these things to go to crap after a year so you are stuck and have to buy a new one.,['QUALITY'],negative
+1344,"I use my friends and family's $2000 laptops and they are fast and reliable and HP, well, I'll never buy or recommend an HP to anyone!",[],na
+1345,bought notebook 07/2009.,[],na
+1346,in 5 months the connect quality got worse and worse.,"['CONNECTIVITY', 'QUALITY']",negative
+1347,1st time they got it working the next 5 month they had me send it in.,['SUPPORT'],negative
+1348,returned it.,['GENERAL'],negative
+1349,5 months dead again.,['QUALITY'],negative
+1350,They say sorry out of warranty.,['SUPPORT'],negative
+1351,Summary: They played games with me for the warranty period.,['SUPPORT'],negative
+1352,Now 17 months later they want (would not say exact amount) $165.00 to $400 to fix the machine.,['SUPPORT'],negative
+1353,They had me send in the machine last April returned it to me in May with no documentation on what was done it anything.,['SUPPORT'],negative
+1354,Now the machine won't connect and Toshiba says that they did replace the connection card in May but they only warranty the repair for 30 days and now I'm out of warranty even though this has been a constant 5 month occurance since I bought the netbook.,"['CONNECTIVITY', 'SUPPORT']",negative
+1355,So buyer beware when buying Toshiba,['COMPANY'],negative
+1356,I bought this laptop the moment unibody product came to the market.,[],na
+1357,"I also bought one for my wife, and 3 for my office.",[],na
+1358,"They are wonderful, but very dangerous when it comes to emitting heat.","['GENERAL', 'QUALITY']",mixed
+1359,"I burned my leg, after lifting it from my desk, and for less than 5 second putting it on my lap to clean my coffee table, so I can place it there.",['QUALITY'],negative
+1360,"I had to call Apple 19 times (each time 40 to 75 minutes on the phone), and take it to their store for evaluations, and diagnostics, 5 times.",['SUPPORT'],negative
+1361,"This is what they told me: It heats up, and that is the reason we no longer call them laptops, and simply categorize them as portables.",[],na
+1362,"You might think, I am new in this game, but I am a gadget lover, and have had more than 2 dozens laptops in the past 15 years, and none gets this hot, that fast.",[],na
+1363,I also experience the same with my MacBook Air.,[],na
+1364,"So you might ask, what did Apple do for me?",[],na
+1365,"For my burn thigh which has put a permanent mark on my skin (it happened 7 months ago) they offered me an ITouch 8Gig (you know it is a bit insulating when a company this rich, offer a loyal customer like me, a bottom of their product line as a gift for events like this).",['COMPANY'],negative
+1366,"Steve Jobs, probably needs help and donations, and cannot afford a reasonable offers for people that truly are trying to support his baby.",['COMPANY'],negative
+1367,"The lesson learned here is: It does not pay to by this loyal to any brand, since all of them are there to simply  to make as much money as possible, as fast as they can, and in this day and age, the customer no longer is right all the times.",['COMPANY'],negative
+1368,Sad very SAD.,[],na
+1369,I had meant to purchase the NB205 and bought this one by accident (long story).,[],na
+1370,"I am not going to sit here and complain about it not having a cd drive and what not because it is a netbook, it is made to be compact and if you want all the other stuff get a laptop.",['DESIGN_FEATURES'],neutral
+1371,Anyways I bought this two months ago and when I first brought it home it kept giving me a message about a vibration in the hard drive and it is putting it temporaly in save zone.,['HARD_DISC'],negative
+1372,"So I called customer support (which is good too) and they went through it and it is just a safety feature and it does not affect performance at all, I just chose to hide the message.",['SUPPORT'],positive
+1373,"I have had the netbook for 2 months and I love it, I read some reviews that say netbooks are slow but it does not seem any slower than the other computers I use.",[],na
+1374,"Also the speakers are not very loud, But it is a netbook.",['MULTIMEDIA_DEVICES'],neutral
+1375,Would HIGHLY recommend this netbook though.,['GENERAL'],positive
+1376,"I paid for extra memory and the 17-inch screen, as well as the top of the line DVD and CD burners.",[],na
+1377,I custom ordered the machine from HP and could NOT understand the techie due to his accent.,['SUPPORT'],negative
+1378,Finally was able to reach a young lady in California and ordered the machine and was subsequently given a delivery date.,[],na
+1379,"The leather carrying case, keyboard and mouse arrived in two days from Memphis warehouse.",[],na
+1380,The computer was two weeks late in delivery because HP forgot to complete the required import paperwork.,['SHIPPING'],negative
+1381,"My laptop cost approximately $2,300 and DIED after only 2-years, 10-months and 18-days of use.","['QUALITY', 'PRICE']",negative
+1382,"Although my model was listed as recalled, HP denied my claim.",['SUPPORT'],negative
+1383,"Accordingly, I have decided to NEVER purchase another HP product (my five year old Compaq) lasted 5-years before the hard drive crashed.",[],na
+1384,I visited the Apple Store and was impressed with the 17-inch MacBook Pro.,[],na
+1385,"The quality, engineering design and warranty are superior--covers damage from dropping the laptop.",[],na
+1386,"If the number of patrons in the Apple store are any indication, HP and other PC manufacturers need to take note.",[],na
+1387,"This laptop leaves alot to be desired, I have had it only 5 months and have had to send it away to be repaired twice...","['GENERAL', 'QUALITY']",negative
+1388,"I bought it from HSN because it was ""bundled"" with extra software, but as it turns out, that software just crashes it more often.....","['SOFTWARE', 'DESIGN_FEATURES', 'OPERATION_PERFORMANCE']",mixed
+1389,If you shop around in the current market you can find a much better deal.,['GENERAL'],negative
+1390,"The repairs were made quickly though I must say, however the second time they shipped it to the incorrect address and it took nearly a week for them to get it to me.","['SUPPORT', 'SHIPPING']",mixed
+1391,Unable to boot up this brand new laptop.,"['QUALITY', 'OPERATION_PERFORMANCE']",negative
+1392,Spent 2 hours on phone with HP Technical Support.,['SUPPORT'],negative
+1393,"They went through asking me open up various components, taking battery out, hard disk apart, and after 2 hours on phone could not fix it.",['SUPPORT'],negative
+1394,They are asking me to ship the unit back to fix it at their site.,['SUPPORT'],neutral
+1395,I am going to go back and return at Store I bought from!,['GENERAL'],negative
+1396,This computer had exactly the specifications I needed.,['DESIGN_FEATURES'],positive
+1397,"Small enough to use on a long flight, Light enough to carry through airports and powerful enough to replace my desktop while on long business trips.","['DESIGN_FEATURES', 'PORTABILITY', 'OPERATION_PERFORMANCE']",positive
+1398,The perfect notebook...,['GENERAL'],positive
+1399,When I finally had everything running with all my software installed I plugged in my droid to recharge and the system crashed.,['OPERATION_PERFORMANCE'],negative
+1400,The Aspire wont even boot past the Acer screen with a Droid (I have tried both Motorola and HTC) plugged into the USB port.,['CONNECTIVITY'],negative
+1401,"Called tech support and got the usual Acer ""We don't support software but for $$$ we can help you"" I explained there was no software involved in booting.",['SUPPORT'],negative
+1402,"No, tey don't even support their own bios and it ""could be a problem with the bios"" How can a company that makes a fairly decent product get away with such insanity??!!",['SUPPORT'],negative
+1403,Needless to say a PC that can't support a cell phone is less than useless!,['CONNECTIVITY'],negative
+1404,"With today's company fighting over marketshare, its a shame that ASUS can get away with the inept staff answering thephone.","['SUPPORT', 'COMPANY']",negative
+1405,I agree with the previous comment that ASUS TECH SUPPORT IS HORRIBLE WHICH IS A CON IN MY OPINION.,['SUPPORT'],negative
+1406,"Summary: I've had this laptop for 2 months, out of the blue the power adapter stops working.","['POWER_SUPPLY', 'POWER_SUPPLY']",negative
+1407,"Call tech support, standard email the form and fax it back in to us.",[],na
+1408,"I called back to ensure that received it, they had.",[],na
+1409,But no one could tell me when my part would be shipped nor could they tell me where to buy it ON THEIR WEBSITE!!!,['SUPPORT'],negative
+1410,Frustrated I hung up and tried to call back 3 days later to be told that it takes 2-3 days for turnaround time.,['SUPPORT'],negative
+1411,This was the 3rd day and part still had not been shipped.,['SUPPORT'],negative
+1412,Asked the customer service rep.,[],na
+1413,"If it's not shipped on the next business day, called on a Friday they are closed on weekends, what was the next step.",[],na
+1414,"The rep did not even answer my question, I had to ask him, if he understood what I ask or if he spoke english because he didn't even try to acknowledge my question.",['SUPPORT'],negative
+1415,Was searching online for a power supply when I found this site.,[],na
+1416,I'm tired of the inept service.,['SUPPORT'],negative
+1417,If you are looking for a netbook pc DO NOT BUY FROM ASUS!!!,['COMPANY'],negative
+1418,Unless you want to be inconvenienced with a non working power supply which you can't find a replacement for because they made the attachment so small.,"['POWER_SUPPLY', 'POWER_SUPPLY']",negative
+1419,I'M REALLY FRUSTRATED BY THIS EXPERIENCE.,['GENERAL'],negative
+1420,HOW DOES THE POWER SUPPLY NOT WORK!!!,['POWER_SUPPLY'],negative
+1421,"I spoke with a service rep at Micro Center and his girlfriend is having the same problem with her power adapter, so it's not just an isolated incident!!!",[],na
+1422,Our Apple 13.3 MacBook Pro Notebook Computer (Z0J80001) Notebook and has become such an integral part of completing our daily needs and social networking.,['MISCELLANEOUS'],positive
+1423,"I do everything on this computer - check email, facebook, shop, check blogs, write papers, listen to music, and we even watch all of our movies on it since we do not have a tv.","['GENERAL', 'MISCELLANEOUS']",positive
+1424,"It pretty much does everything we could ever need, and looks great to boot.","['OPERATION_PERFORMANCE', 'DESIGN_FEATURES']",positive
+1425,"Apple is always great about the aesthetics of things, they always come up with good looking products.","['DESIGN_FEATURES', 'COMPANY']",positive
+1426,It didn't take me long to get switched over to the Mac computer programs and navigation - it's been just fine and like the way this laptop functions much better.,"['SOFTWARE', 'OPERATION_PERFORMANCE']",positive
+1427,"So, if you're thinking of a laptop, I would heartily recommend theApple 13.3 MacBook Pro Notebook Computer (Z0J80001) Notebook for all your needs!",['GENERAL'],positive
+1428,"It's great and we will always stick with Apple computers, we have been so happy with them.","['GENERAL', 'COMPANY']",positive
+1429,"I know that everyone thinks Macs are overpriced and overrated, but once you get past the initial expense you'll find that they're worth every penny (besides, there's always the financing plan that Best Buy offers).",[],na
+1430,"The 13"" MacBook Pro is portable, durable, and very capable.","['QUALITY', 'PORTABILITY', 'OPERATION_PERFORMANCE']",positive
+1431,"It has a 10 hour battery life when you're doing web browsing and word editing, making it perfect for the classroom or office, and in terms of gaming and movie playing it'll have a battery life of just over 5 hours.","['BATTERY', 'MISCELLANEOUS']",positive
+1432,"It's also very energy efficient, running on a quarter of the power it takes to run a 60 Watt lightbulb.",['OPERATION_PERFORMANCE'],positive
+1433,"It's graphics aren't bad at all, for the lower end of the MacBook Pro spectrum, easily capable of running StarCraft II and other games with comparable graphics.","['GRAPHICS', 'MISCELLANEOUS']",positive
+1434,It's also very capable of doing moderate video editing (although you may need the performance boost of the larger MacBook Pros for heavy duty mobile video editing).,[],na
+1435,"The operating system and user interface is very intuitive, and the large multi-touch track pad is amazing.","['OS', 'MOUSE']",positive
+1436,"Typically, when I purchase a new laptop I always end up using an external mouse for convenience.",[],na
+1437,"However, the multi-touch gestures and large tracking area make having an external mouse unnecessary (unless you're gaming).","['MOUSE', 'MOUSE']",positive
+1438,"Still, this laptop is perfect for all day use at school and work.",['MISCELLANEOUS'],positive
+1439,They also have a longer service life than other computers (I have several friends who still use the older Apple PowerBooks).,['QUALITY'],positive
+1440,Me and my boyfriend bought the Gateway NV78 in nov of 09.,[],na
+1441,Bought with a credit card.,[],na
+1442,Probbly the worst decision we ever made!,['GENERAL'],negative
+1443,It has bein into the shop to get a new hardrive 2 times and to fix the touch control buttons on the keyboard!,"['KEYBOARD', 'HARD_DISC']",negative
+1444,the place we bought it from said that after they send it out to gateway 4 times they would give us a new one.,[],na
+1445,the last time we took it to get fixed the guy said that most likely it is a reppative problem and will keep happeneing so hopefully we can get a new one very soon!,[],na
+1446,pretty much everything else about the computer is good it just stops working out of no were.,"['GENERAL', 'OPERATION_PERFORMANCE']",mixed
+1447,i love the size of the computer since i play games on it.,['DESIGN_FEATURES'],positive
+1448,i also love having the extra calculator number set up on the keyboard which most laptops do not have.,['KEYBOARD'],positive
+1449,also the keyboard does not liht up so unless your sitting in a room with some light you cant see anything and thats bad for me because my boyfriend tends to watch tv in the dark at night which leaves me with no way of seeing the keyboard.,"['KEYBOARD', 'KEYBOARD']",negative
+1450,So i would not reccomend anyone buying this computer,['GENERAL'],negative
+1451,"First, it does not have a push button to open the lid.",['DESIGN_FEATURES'],negative
+1452,It is held in place magnetically.,['DESIGN_FEATURES'],neutral
+1453,There is a little indent to help open it - but good luck with that.,"['DESIGN_FEATURES', 'USABILITY']",mixed
+1454,"Once open, the leading edge is razor sharp.",['DESIGN_FEATURES'],negative
+1455,This is the complete opposite to an ergonomic design.,"['DESIGN_FEATURES', 'USABILITY']",negative
+1456,Using this machine is like a mild form of torture.,['USABILITY'],negative
+1457,"In the shop, these MacBooks are encased in a soft rubber enclosure - so you will never know about the razor edge until you buy it, get it home, break the seal and use it (very clever con).",[],na
+1458,The much lauded combined touch pad and clicker is a nightmare.,['MOUSE'],negative
+1459,I lost two items I was working on until I figured out what was happening.,"['MOUSE', 'MOUSE']",negative
+1460,"Also, the space bar makes a noisy click every time you use it.",['KEYBOARD'],negative
+1461,"I hate to say this, but if I could take this back to the shop and get my money back, then I would.",['GENERAL'],negative
+1462,"It is absolutely horrible to use, despite all its so called advanced features.","['USABILITY', 'DESIGN_FEATURES']",mixed
+1463,I regret buying it before understanding how awful it is to use.,"['GENERAL', 'USABILITY']",negative
+1464,"Buy this if you like being tortured, teased, frustrated and wasting twice as much time as you spent using your old Mac.",[],na
+1465,It's a bummer and one out of five is being kind.,['GENERAL'],negative
+1466,My Mac has gone from being a trusted friend to an adversary.,['GENERAL'],negative
+1467,I'm going to try and keep my old G4 on the road for as long as possible.,[],na
+1468,"In due course, I'll remove the hard disc from this new MacBook Pro and dump it where it belongs - in the trash.",['GENERAL'],negative
+1469,"This is the first time that I tried and owning a netbook although I have used 3 different laptops in the past 10 years, I find not much difference except of course for the screen size.",[],na
+1470,But the screen size is not that bad for email and web browsing.,['DISPLAY'],neutral
+1471,I like this machine because its very lightweight...,['DESIGN_FEATURES'],positive
+1472,very convenient when you travel and the battery life is excellent...,"['BATTERY', 'PORTABILITY']",positive
+1473,10 hours of battery life is really something else....,['BATTERY'],positive
+1474,I highly recommend that you buy this product.,['GENERAL'],positive
+1475,"I've owned every ""Pro"" model Apple laptop for the last 8 years, this is BY FAR the WORST one I've ever had.",[],na
+1476,"It crashes, and when it goes flat, it just DIES (like a PC, maybe worse) and I loose all my open documents!",['OPERATION_PERFORMANCE'],negative
+1477,I Hate it!,['GENERAL'],negative
+1478,It is the easiest computer I have ever used,['USABILITY'],positive
+1479,I have had some excellent computer and have found I had no idea what to do with them,[],na
+1480,"I saw this one, and I have the most difficult time trying to use them, they've made great dust collectors, I hate putting this computer down",[],na
+1481,I LOVE IT!,['GENERAL'],positive
+1482,I can't say enough good for it!,['GENERAL'],positive
+1483,It's A MAC!!,['GENERAL'],positive
+1484,"I fine Apple MC373LL/A 2.66GHz 15"" Macboook Pro Notebook meets all my needs for a laptop computer when on the go.",['GENERAL'],positive
+1485,I like to use it at the race track to handiecap the horse races.,['MISCELLANEOUS'],positive
+1486,It's face and depanable.,['QUALITY'],positive
+1487,As a graphic arts a retired instructor I still love to play with the graphic with photos and clip art .....,['MISCELLANEOUS'],positive
+1488,it's just a great toy to have around.,['GENERAL'],positive
+1489,very very slow laptop.,['OPERATION_PERFORMANCE'],negative
+1490,tons of bloatware and junk programs.,"['DESIGN_FEATURES', 'SOFTWARE']",negative
+1491,can't reinstall with standard os cd because of proprietary hardware drivers.,"['USABILITY', 'SOFTWARE']",negative
+1492,keys are all in weird places and is way too large for the way it is designed.,"['KEYBOARD', 'DESIGN_FEATURES']",negative
+1493,lots of extra space but the keyboard is ridiculously small.,"['KEYBOARD', 'DESIGN_FEATURES']",mixed
+1494,Amazing machine.,['GENERAL'],positive
+1495,"It is a big big, but since it has a 18.4"" screen what would you expect!",['DESIGN_FEATURES'],neutral
+1496,It is truly a Desktop Replacement.,['MISCELLANEOUS'],positive
+1497,Very fast and efficient!,['OPERATION_PERFORMANCE'],positive
+1498,Does a great job with video shot on a Canon 5D MKII.,['MISCELLANEOUS'],positive
+1499,Very happy with my 7th Toshiba laptop!,['GENERAL'],positive
+1500,"The touchpad is very intuitive, so much so that I never want to use buttons to click again!",['MOUSE'],positive
+1501,"The computer loads in about a 1/10th of the time that my PC did, and I have all of the programs that were on my PC.",[],na
+1502,"Of course, I also have several great software packages that came for free including iWork, GarageBand, and iMovie.","['SOFTWARE', 'DESIGN_FEATURES']",positive
+1503,I especially appreciate the fact that it has almost zero viruses and spyware problems!,['QUALITY'],positive
+1504,"The only drawback for me is how dirty the screen gets, and rather quickly too.",['DISPLAY'],negative
+1505,I'm hoping that I can find a really quick way to clean it without it getting too gross.,[],na
+1506,I also enjoy the fact that my MacBook Pro laptop allows me to run Windows 7 on it by using the VMWare program.,['USABILITY'],positive
+1507,Now I have the best of both worlds with all of the power and ease of the Mac!,"['OPERATION_PERFORMANCE', 'GENERAL', 'USABILITY']",positive
+1508,"I also got the added bonus of a 30"" HD Monitor, which really helps to extend my screen and keep my eyes fresh!",['MISCELLANEOUS'],positive
+1509,I never have had a good result with this computer.,['GENERAL'],negative
+1510,"I was told by many  that it was a great computer, but we got one of these, and it worked  great for one year, and as soon as the warrenty was up, then it got  really bad.",['QUALITY'],negative
+1511,"They told me it was my loss even though it was the computer, not  what I've done.",['SUPPORT'],negative
+1512,"The hard drive crashed as well, and I had to buy a new  power cord.","['HARD_DISC', 'POWER_SUPPLY']",negative
+1513,"They told me to reprogram the computer, and I didn't need  to do that, and I lost pictures of my oldests first 2 years of her  life.",['SUPPORT'],negative
+1514,"I don't like this company nor the toshiba brand, and I'll never  buy another one because I've put more into it then it is worth.","['COMPANY', 'GENERAL']",negative
+1515,I would  rather spend my money on a computer that costs more then a Toshiba that  isn't good at all.,['COMPANY'],negative
+1516,I just bought this laptop 3 days ago.,[],na
+1517,The right speaker did not work.,"['MULTIMEDIA_DEVICES', 'MULTIMEDIA_DEVICES']",negative
+1518,I took it back to the store and exchanged it for another one.,[],na
+1519,"Again, the same problem, the right speaker did not work.","['MULTIMEDIA_DEVICES', 'MULTIMEDIA_DEVICES']",negative
+1520,I returned the 2nd laptop for a full refund.,['GENERAL'],negative
+1521,the mouse pad and buttons are the worst i've ever seen.,['MOUSE'],negative
+1522,sometimes you will be moving your finger and the pointer will not even move.,['MOUSE'],negative
+1523,the mouse buttons are hard to push.,['MOUSE'],negative
+1524,i cant believe HP put this out.,"['COMPANY', 'GENERAL']",negative
+1525,do not buy you will be disappointed.,['GENERAL'],negative
+1526,i'm returning mine,['GENERAL'],negative
+1527,dell is a decently made pc.,['GENERAL'],neutral
+1528,although its windows vista compared to windows xp sucks.,[],na
+1529,the graphics are awful and the wireless switch it at the top rather than the side which I am used to it being on the side.,"['GRAPHICS', 'DESIGN_FEATURES', 'USABILITY']",negative
+1530,with the switch being at the top you need to memorize the key combination rather than just flicking a switch.,"['DESIGN_FEATURES', 'USABILITY']",negative
+1531,so in a brief summary i would have to say that i would not recommend dell vostro 1000 to anyone due to it being a down right awful setup so in my opinion you should steer clear of them if you want a decent laptop.,['GENERAL'],negative
+1532,"I love HP,, it's the only computer/printer we will buy.","['COMPANY', 'GENERAL']",positive
+1533,Got this for a graduation gift for my daughter for her to use at college.,[],na
+1534,This is perfect for her field.,['MISCELLANEOUS'],positive
+1535,"At first when I got this product, I loved it.",['GENERAL'],positive
+1536,"The computer itself was fast, ran smoothly, and had no problems.","['OPERATION_PERFORMANCE', 'GENERAL']",positive
+1537,"Then, within 5 months, the charger crapped out on me.",['POWER_SUPPLY'],negative
+1538,"So I called Compaq, and after being on the phone for 3 hours, i finally got a replacement which I shouldn't have had a problem getting since it was under warranty.",['SUPPORT'],negative
+1539,"2 months later, the battery went.",['BATTERY'],negative
+1540,"They gave me a hard time yet again, but their was a malfunction in the battery itself, it didn't die.","['BATTERY', 'SUPPORT']",negative
+1541,"THEN, one month after the warranty expired, the replacement charger went.",['POWER_SUPPLY'],negative
+1542,I had to pay $100 for a universal charger for this cheap $300 laptop.,['MISCELLANEOUS'],negative
+1543,Not worth it one bit.,['GENERAL'],negative
+1544,"The people are frustrating to work with, the product itself is very cheaply made, and the accessories are less than satisfactory.","['DESIGN_FEATURES', 'QUALITY', 'SUPPORT']",negative
+1545,"Also, my sister got the exact same laptop (since they were so cheap) and after 8 months, the screen split in half just from everyday use.","['DISPLAY', 'PRICE']",mixed
+1546,"Apparently under the screen there are 2 little screws and when the screen gets moved back and forth, they come loose.",['QUALITY'],negative
+1547,And it is impossible to get them back in.,['QUALITY'],negative
+1548,Strengths:Well-shaped,['DESIGN_FEATURES'],positive
+1549,Weaknesses:A bad videocard!,['GRAPHICS'],negative
+1550,"Posted Nov 8, 2010 -",[],na
+1551,Two weeks ago I bought this notebook.,[],na
+1552,What can I say.,[],na
+1553,The first programm I switched on was a game for my children.,[],na
+1554,After 20-30 min the screen of the notebook switched off.,['DISPLAY'],negative
+1555,"It was still working, but there was nothing on the screen.",['DISPLAY'],negative
+1556,I was said it's videocard.,['GRAPHICS'],negative
+1557,Very disappointed!,['GENERAL'],negative
+1558,Didn't expect to repair it at once!,['QUALITY'],negative
+1559,Going to bring it to service today.,[],na
+1560,Don't buy this model.,['GENERAL'],negative
+1561,An absolutely hateful machine that no one should get of their own free will.,['GENERAL'],negative
+1562,I just can't fathom that the celebrated Dell would last a week in environment of free competition with normal products - it only survives b/c its substandard laptops are forced onto captive students and employees through question-raising programs.,[],na
+1563,"Mine came at $1,700 w/o a DVD burner (!).","['DESIGN_FEATURES', 'PRICE']",negative
+1564,Enough said.,[],na
+1565,"The screen is framed by half- to a full-inch margin that is obviously unnecessary, reduces the screen size and increases the bulk.",['DISPLAY'],negative
+1566,"The 4 USB ports are nice, but the two on the side only work now and then.","['DESIGN_FEATURES', 'PORTS', 'PORTS']",mixed
+1567,Keyboard could use some trimming.,['KEYBOARD'],negative
+1568,"Did I mention everything about it, from size to weight to keyboard screams BULK?","['KEYBOARD', 'DESIGN_FEATURES', 'GENERAL']",negative
+1569,I'm glad I made the choice to switch and buy this MAC.,['GENERAL'],positive
+1570,The benefits were immediate!,['GENERAL'],positive
+1571,Awesome graphics!,['GRAPHICS'],positive
+1572,Applications respond immediately (not like the tired MS applications).,[],na
+1573,"I can actually get work done with this MAC, and not fight with it like my tired old PC laptop.",[],na
+1574,The magnetic plug-in power charging power cord is great (I even put it to the test by accident)- excellent innovation!,['POWER_SUPPLY'],positive
+1575,"The Apple applications (ex.iPhoto) are fun, easy, and really cool to use (unlike the competition)!",[],na
+1576,"After doing CAD work all day at work, using a higher end PC, I couldn't come home and settle for the use of a lower end computer.",[],na
+1577,This laptop rocks (only wish it could run SolidWorks CAD - which Apple doesn't support)!,"['GENERAL', 'USABILITY']",mixed
+1578,"I've saved a lot of time and headaches so far, using my new MacBook Pro.",['GENERAL'],positive
+1579,"I am definitely sold, and not going back to PCs for home use!",[],na
+1580,I previously owned an HP desktop and a Dell laptop.,[],na
+1581,Both computers started acting extremely slow within the first year of owning them.,[],na
+1582,"I have never had any issues or problems with my MacBook Pro so far, and it is still as fast as it was when I first bought it.","['GENERAL', 'QUALITY', 'OPERATION_PERFORMANCE']",positive
+1583,I especially like the backlit keyboard.,['KEYBOARD'],positive
+1584,It makes doing schoolwork at night so much easier.,['USABILITY'],positive
+1585,"It is also very lightweight, making transporting this computer very easy.","['DESIGN_FEATURES', 'PORTABILITY']",positive
+1586,The graphics on this computer are also stellar - very clear and vivid.,['GRAPHICS'],positive
+1587,"The applications are also very easy to find and maneuver, much easier than any other computer I have ever owned.",[],na
+1588,"I use iphoto all the time, which is a great program for anyone who is into photography - amateurs and experts alike.","['SOFTWARE', 'SOFTWARE']",positive
+1589,The program came with the computer and works beautifully.,['SOFTWARE'],positive
+1590,I definitely will buy a Mac again if and when this computer ever fails.,"['GENERAL', 'COMPANY']",positive
+1591,My hp G60-244dx died after only 16 months.,['QUALITY'],negative
+1592,It started out getting hot after only a few months.,['QUALITY'],negative
+1593,I should have sent it back to them then.,[],na
+1594,At 16 months it started shutting off after only 5 or 10 minutes.,['OPERATION_PERFORMANCE'],negative
+1595,I use a cooling pad but it doesn't help.,['MISCELLANEOUS'],negative
+1596,I took it to the shop and they said It would cost too much to repair it.,['SUPPORT'],negative
+1597,I had a toshiba for 10 years.,[],na
+1598,I'll stick to Tashiba.,[],na
+1599,I will have to say that I love my MacBook Pro!,['GENERAL'],positive
+1600,It fires up in the morning in less than 30 seconds and I have never had any issues with it freezing.,['OPERATION_PERFORMANCE'],positive
+1601,I have used different laptops in the past and I have to rate this one way above the rest.,[],na
+1602,This is now my 3rd MacBook Pro and I really honestly love it!,['GENERAL'],positive
+1603,"The newer black keyboard took a little bit away from the previous gray one which looked really slick, but it is still a great notebook!",[],na
+1604,The MacBook Pro is very sturdy and versatile.,"['QUALITY', 'USABILITY']",positive
+1605,I love it!,['GENERAL'],positive
+1606,"I even got my teenage son one, because of the features that it offers, like, iChat, Photobooth, garage band and more!",['DESIGN_FEATURES'],positive
+1607,We are addicted to the Mac.,['GENERAL'],positive
+1608,This is a great laptop and I would recommend it to anyone.,['GENERAL'],positive
+1609,The OS takes some getting used to especially after being a Windows user for so long but the learning curve is so worth it!,['OS'],positive
+1610,Great laptop that offers many great features!,"['DESIGN_FEATURES', 'GENERAL']",positive
+1611,Lightweight and the screen is beautiful!,"['DISPLAY', 'DESIGN_FEATURES']",positive
+1612,I have had my new Macbook Pro i5 for a couple of days and have recycled ALL of my old PC laptops.,[],na
+1613,It is easy to operate and I have already ordered more software and gadgets for my new Rolls Royce of laptops.,"['USABILITY', 'GENERAL']",positive
+1614,"Before i bought my new i5, I did my research for about 2 weeks and determined to move for HP to Apple for reliability, dependable, and long lasting operations.",[],na
+1615,"Buy it, love it, and I promise you won't regret it.",['GENERAL'],positive
+1616,This computer is good for 10 days then it sucks for the rest of your life.,['QUALITY'],negative
+1617,"Don't waste their money, save it and but a mac.",[],na
+1618,You will regret it if you buy any dell.,['COMPANY'],negative
+1619,Dell sucks,['COMPANY'],negative
+1620,The only pro to this computer is it was under $600!,"['GENERAL', 'PRICE']",mixed
+1621,Everything is falling apart internally and externally.,['QUALITY'],negative
+1622,"I am not much of a computer techie, so I can understand some of the internal problems, though I do have trend micro as an antiviral program.",[],na
+1623,With in weeks of purchasing my computer is began to slow down.,"['QUALITY', 'OPERATION_PERFORMANCE']",negative
+1624,"I am constantly trying to uninstall programs, clean cookies, and delete unused files.",['USABILITY'],negative
+1625,Nightly my computer defrags itself and runs a virus scan.,['OPERATION_PERFORMANCE'],negative
+1626,"More times that not the screen pops up saying I have a bad internet connection, or the page can't be displayed.",['OPERATION_PERFORMANCE'],negative
+1627,"It takes me approximately 3 tries to get to each site, then after closing the browser and reopening it it actually works.",['SOFTWARE'],negative
+1628,"I have Vista, so I am unable to install and uninstall  some programs.","['OS', 'USABILITY']",negative
+1629,I can't even install one of the 3 printers I have in my house so I am unable to print.,"['USABILITY', 'CONNECTIVITY']",negative
+1630,"Externally the keys on my keyboard are falling off, after a few uses the paint is rubbing off the button below the mouse pad and where the heals of my hands sit, and the screen has a terrible glare.","['KEYBOARD', 'MOUSE', 'DISPLAY']",negative
+1631,In short I would never buy a Compaq again.,['COMPANY'],negative
+1632,"My last computer, a Toshiba, cost only $400, and worked like a charm for many years.",[],na
+1633,I bought this laptop on Saturday and am completely in love with it!,['GENERAL'],positive
+1634,It was super easy to set up and Is really easy to get used to.,['USABILITY'],positive
+1635,The online tutorial videos make it super easy to learn if you have always used a PC.,['USABILITY'],positive
+1636,I now travel with this laptop and my work PC.,[],na
+1637,I love the Mac so much better than my work PC!,[],na
+1638,I will never go back to Windows!,[],na
+1639,"Never any doubt I would get a MacBook, just wasn't sure which one.",[],na
+1640,"After talking it over with the very knowledgeable sales associate, I chose the MacBook Pro over the white MacBook.",[],na
+1641,The performance is awesome.,['OPERATION_PERFORMANCE'],positive
+1642,I will never complain about the price since I believe you get what you pay for and my MacBook Pro was worth every dollar.,"['GENERAL', 'PRICE']",positive
+1643,"With all the goodies inside this machine, it is a value.","['DESIGN_FEATURES', 'GENERAL']",positive
+1644,It is very well built.,['QUALITY'],positive
+1645,The keyboard is top notch.,['KEYBOARD'],positive
+1646,The touch pad is among the best.,['MOUSE'],positive
+1647,"The screen is huge and coloful, but no LED backlighting.","['DISPLAY', 'DISPLAY']",mixed
+1648,"The video card is great for media, and above average for gaming, but not a gamers first choice.","['GRAPHICS', 'GRAPHICS']",mixed
+1649,The problem I had with this unit was unresolvable.,['GENERAL'],negative
+1650,"It had a cooling system malfunction after 10 minutes of general use, and would not move past this error.","['FANS_COOLING', 'FANS_COOLING']",negative
+1651,"I realize that not every unit has this issue, but the ones that do cannot be repaired.",[],na
+1652,"I acually believe the issue is with the Nvidia grafics card, but still requires a return.","['GRAPHICS', 'GENERAL']",mixed
+1653,"Instead of taking another chance on Toshiba, I went with an Asus G73JH-x3.",[],na
+1654,"They offer the best warranty in the business, and don't 3rd party it out like Toshiba.",[],na
+1655,"For the same price, you get a lot more in the Asus....1920x1080 res./ awesome cooling system/ much better grafics card (ATI 5870) / 8GB RAM/ LED backlit screen...",[],na
+1656,"Sorry Toshiba, but 1st impressions do count for something.",['COMPANY'],negative
+1657,I got the black MacBook two years ago and have never regretted it.,['GENERAL'],positive
+1658,It was a hard decision for me since the MacBook Pro looked so appealing.,[],na
+1659,"But to be honest, I don't use my computer for anything like graphics editing and complex data analysis and gaming.",[],na
+1660,So this was great for me.,['GENERAL'],positive
+1661,It has just enough RAM to run smoothly and enough memory to satisfy my needs.,"['OPERATION_PERFORMANCE', 'MEMORY']",positive
+1662,Plus it is small and reasonably light so I can take it with me to and from work.,"['DESIGN_FEATURES', 'PORTABILITY']",positive
+1663,I also travel with it and it never gives me any problems.,"['PORTABILITY', 'GENERAL']",positive
+1664,It was also cheaper than the Pro which made it even more appealing to me.,[],na
+1665,"Sadly Apple has discontinued this MacBook, I think it was never super popular since it fell somewhere in between the cheapest white model and the smaller Pros.",[],na
+1666,But I am glad to have gotten mine right before they stopped making it.,['GENERAL'],positive
+1667,"I look forward to years of use, it has held up well over the years and it fits my needs very well.","['QUALITY', 'GENERAL']",positive
+1668,I bought this laptop about a month ago to replace my compaq laptop.,[],na
+1669,I paid about the same for my Toshiba as I did for the compaq a few years back.,[],na
+1670,The difference is the Toshiba had a lot more memory and hard drive space.,"['MEMORY', 'HARD_DISC']",positive
+1671,It's super fast and a great value for the price!,"['GENERAL', 'OPERATION_PERFORMANCE', 'PRICE']",mixed
+1672,I would definitely recommend checking out this laptop if you are in the market for one.,['GENERAL'],positive
+1673,"no complaints with their desktop, and maybe because it just sits on your desktop, and you don't carry it around, which could jar the hard drive, or the motherboard.",[],na
+1674,Bought this gateway M-50 or 150 early 2007.,[],na
+1675,"A MONTH LATER, we reinstall the OS (Vista).",['OS'],negative
+1676,"A coupla months later, they change my hard drive.",['HARD_DISC'],negative
+1677,"A month or so ago, the freaking motherboard just died.",['MOTHERBOARD'],negative
+1678,Went silently.,['MOTHERBOARD'],negative
+1679,"One night I turned the freaking thing off after using it, the next day I turn it on, no GUI, screen all dark, power light steady, hard drive light steady and not flashing as it usually does.",['OPERATION_PERFORMANCE'],negative
+1680,THE MOTHERBOARD IS DEAD !,['MOTHERBOARD'],negative
+1681,"And I'm still paying the bloody financing, for a product which didn't last me at least three years !",['QUALITY'],negative
+1682,"I initially purchased my Macbook Pro 13"" in April, and I loved it.",['GENERAL'],positive
+1683,I had never owned a Mac before;,[],na
+1684,I had always used PCs and been constantly frustrated by the crashing and the poorly designed operating systems that were never very intuitive.,[],na
+1685,I was so happy with my new Mac.,['GENERAL'],negative
+1686,for 2 months.,[],na
+1687,Then the hard drive failed;,['HARD_DISC'],negative
+1688,"my information was all lost (my fault, I know, but I never thought I would need to back up my information on a brand new Mac, the paragon of all computers!",['MISCELLANEOUS'],negative
+1689,"So, after Apple replaced the hard drive I enjoyed another 4 months of my new computer, until it froze this morning--completely.",['OPERATION_PERFORMANCE'],negative
+1690,I can't even turn it off.,['OPERATION_PERFORMANCE'],negative
+1691,It's catatonic.,['OPERATION_PERFORMANCE'],negative
+1692,"Even if Apple replaces whatever needs replacing I wonder if, since I seem to be doubling the amount of time I get out of it each time it's ""like new,"" I might have 8 months next time.",['QUALITY'],negative
+1693,"Oh, boy!",[],na
+1694,"I would rate this computer at 5 stars, but considering it has a short life span I can only give it 1 and implore anyone looking at laptops to stay away from this machine.","['QUALITY', 'GENERAL']",negative
+1695,I'm going back to PC.,[],na
+1696,At least those computers didn't just die on me like this one.,[],na
+1697,"Great battery, speed, display.","['BATTERY', 'OPERATION_PERFORMANCE', 'DISPLAY']",positive
+1698,It WORKS!,['OPERATION_PERFORMANCE'],positive
+1699,I always swore by PCs and would never consider a MAC.,[],na
+1700,"As it turns out, I just didn't know any better.",[],na
+1701,My house is now 100% Macbook.,"['GENERAL', 'COMPANY']",positive
+1702,"The Macbook starts fast, doesn't crash, has a fantastic display, is small and light (I have the 13.3"" model), and isn't always complaining about updates, lost connections, errors, blue screens, etc.","['DISPLAY', 'OPERATION_PERFORMANCE', 'DESIGN_FEATURES']",positive
+1703,THIS is what a laptop is supposed to be.,['GENERAL'],positive
+1704,I thought the price was great for the specs.,"['PRICE', 'DESIGN_FEATURES']",positive
+1705,"But after using it a couple of weeks, the overall operation is poor.",['OPERATION_PERFORMANCE'],negative
+1706,I hate the display screen and I have done everything I could do the change it.,['DISPLAY'],negative
+1707,The keyboard is too slick.,['KEYBOARD'],negative
+1708,"I really don't like it, but I am stuck.",['GENERAL'],negative
+1709,Dell Latitude d620 is not a reliable machine.,['QUALITY'],negative
+1710,"The battery never held a charge longer than one hour and within two months, stopped holding a charge for more than ten minutes.","['BATTERY', 'BATTERY']",negative
+1711,Later it held zero charge and its replacement worked for less than three months.,"['BATTERY', 'BATTERY']",negative
+1712,The machine is slow to boot up and occasionally crashes completely.,['OPERATION_PERFORMANCE'],negative
+1713,This is the first Apple product that I have purchased.,[],na
+1714,VERY disappointing:,['GENERAL'],negative
+1715,I was not aware that this product cannot display websites that contain Flash.,['DESIGN_FEATURES'],negative
+1716,About 1/2 of the sites I need to visit because of my work contain some type of Flash.,[],na
+1717,"Web access through the 3G network is so slow, it's very frustrating and VERY DISAPPOINTING.",['CONNECTIVITY'],negative
+1718,One of the primary reasons why I purchased an IPad was to store photographs so that I could show to my customers.,[],na
+1719,"After purchasing this thing, I find out that I need a special interface device to connect my camera, and that it cannot be purchased at the store - only on line.",['CONNECTIVITY'],negative
+1720,"I go to purchase it on line, and I find out that the device will not be available until almost two months later!",[],na
+1721,I now realize that my $900 would have been better spent on a Windows laptop.,[],na
+1722,"HP Pavilion DV9000 Notebook PC      When I first got this computer, it really rocked.",['GENERAL'],positive
+1723,But as time went on I found it almost impossible to keep the thing on-line through wi-fi.,['CONNECTIVITY'],negative
+1724,Eventually the screen went blank and the computer would not turn on.,"['DISPLAY', 'OPERATION_PERFORMANCE']",negative
+1725,HP said it was out of warranty.,[],na
+1726,Guess I'll stay away from HP.,['COMPANY'],negative
+1727,My MacBook is probably the best investment I have ever made.,['GENERAL'],positive
+1728,I have had it for almost four years now and I have only had a few problems with it.,['QUALITY'],positive
+1729,"The most recent being that my Safari internet browser is freaking out on me, but I have just been using firefox instead.",['SOFTWARE'],negative
+1730,"If you had PC for four years I can almost gaurentee that something would of gone wrong by now, maybe even forcing you to replace your entire computer.",[],na
+1731,I love this computer.,['GENERAL'],positive
+1732,"Its small enough where I can take it pretty much anywhere, but still has a big enough screen to get everything done.","['DISPLAY', 'DESIGN_FEATURES', 'PORTABILITY']",positive
+1733,"Everything is so easy to use, Mac software is just so much simpler than Microsoft software.",[],na
+1734,The only thing that I don't like about my mac is that sometimes there are programs that I want to be able to run and I am not able to.,['SOFTWARE'],negative
+1735,Games being the main issue.,['MISCELLANEOUS'],negative
+1736,It drives me crazy when I want to download a game or something of that nature and I can't play it because its not compatable with the software.,['SOFTWARE'],negative
+1737,I feel that enough people have Macs these days and that companies need to start making things more compatable than they used to be.,[],na
+1738,Other than that I don't have one complaint in the world!,['GENERAL'],positive
